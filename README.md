@@ -9,4 +9,7 @@
 ####Markdown
 - [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+####Markdown
+- [Use IntelliJ IDEA efficiently](https://vimeo.com/98922030)
+
 
