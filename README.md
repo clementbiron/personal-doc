@@ -11,5 +11,9 @@
 
 ####IntelliJ IDEA
 - [Use IntelliJ IDEA efficiently](https://vimeo.com/98922030)
+- Raccourcis  Windows : 
+  - Séléctionner toutes les occurences : ALT + J
+
+
 
 
