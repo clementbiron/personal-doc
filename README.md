@@ -14,8 +14,17 @@
 - [Using Cygwin's bash terminal in a JetBrains IDE](http://engineroom.teamwork.com/using-cygwins-bash-terminal-in-a-jetbrains-ide/)
 - Raccourcis  Windows : 
   - Séléctionner toutes les occurences : ALT + J
-  - 
-  - ####Markdown
+
+####Cygwin
+- Pour installer Sass 
+1: [installer ruby](http://rubyinstaller.org/)
+2: vérifier ruby -v
+3: [installer gem](https://rubygems.org/pages/download#formats)
+4: faire un alias : alias gem=C:/Ruby23/bin/gem (vérifier que le chemin soit ok, sinon changer)
+5: vérifier : gem -v
+6: installer sass via gem : gem install sass
+7: vérifier : sass -v
+
 
 
 
