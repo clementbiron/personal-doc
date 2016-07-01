@@ -16,7 +16,7 @@
   - Séléctionner toutes les occurences : ALT + J
 
 ####Cygwin
-- Pour installer Sass 
+**Pour installer Sass**
 1: [installer ruby](http://rubyinstaller.org/)
 2: vérifier ruby -v
 3: [installer gem](https://rubygems.org/pages/download#formats)
