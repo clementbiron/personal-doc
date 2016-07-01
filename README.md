@@ -21,9 +21,8 @@ Instal package : pact packagename
 
 ####Cygwin
 **Pour installer Sass**
-- installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/)
+- installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/) en l'ajoutant au PATH
 - vérifier ruby -v
-- installer gem [https://rubygems.org/pages/download#formats](https://rubygems.org/pages/download#formats)
 - faire un alias : alias gem=C:/Ruby23/bin/gem (vérifier que le chemin soit ok, sinon changer)
 - vérifier : gem -v
 - installer sass via gem : gem install sass
