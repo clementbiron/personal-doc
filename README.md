@@ -15,6 +15,10 @@
 - Raccourcis  Windows : 
   - Séléctionner toutes les occurences : ALT + J
 
+####Babun
+Update : babun update
+Instal package : pact packagename
+
 ####Cygwin
 **Pour installer Sass**
 - installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/)
