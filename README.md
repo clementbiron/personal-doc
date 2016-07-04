@@ -22,11 +22,19 @@ Instal package : pact packagename
 ####Cygwin
 **Pour installer Sass**
 - installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/) en l'ajoutant au PATH
-- vérifier ruby -v
-- faire un alias : alias gem=C:/Ruby23/bin/gem (vérifier que le chemin soit ok, sinon changer)
-- vérifier : gem -v
+- vérifier ruby : ruby -v
+- vérifier gem : gem -v
 - installer sass via gem : gem install sass
-- vérifier : sass -v
+- vérifier sass : sass -v
+
+Si erreur suivante : C:\Ruby22-x64\bin\ruby.exe: No such file or directory -- /cygdrive/c/Ruby22-x64/bin/gem (LoadError)
+- vim ~/.babunrc
+- appuyer sur i, éditer le fichier avec les alias ci dessous
+- alias gem='C:/Program\ Files/Ruby/bin/gem'
+- alias sass='C:/Program\ Files/Ruby/bin/sass'
+- appuyer sur echap et taper :wq (enregistrer et quitter l'édition du fichier)
+- rafraichir : source ~/.babunrc
+
 
 
 
