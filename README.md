@@ -46,12 +46,12 @@ Si erreur suivante : C:\Ruby22-x64\bin\ruby.exe: No such file or directory -- /c
 On utilise le gestionnaire de paquet pact
 - Installer lftp : pact install lftp
 
-Si erreur suivante: find: Fatal error: Certificate verification: subjectAltName does not match, pour corriger de manière temporaire :
-- lftp
+Si erreur suivante: find: Fatal error: Certificate verification: subjectAltName does not match :
+- mkdir ~/.lftp
+- vim ~/.lftp
+- appuyer sur i, éditer le fichier
 - set ssl:verify-certificate no
-- exit
-
-
+- appuyer sur echap et taper :wq (enregistrer et quitter l'édition du fichier)
 
 
 
