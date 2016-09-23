@@ -36,15 +36,19 @@ Si erreur suivante : C:\Ruby22-x64\bin\ruby.exe: No such file or directory -- /c
 - rafraichir : source ~/.babunrc
 
 ####WordMove
-- Installer WordMove (nécessite ruby + gem) : gem install wordmove (si erreur suivante  C:\Ruby22-x64\bin\ruby.exe: No such file or directory... voir le paragraphe sur Cygwin pour ajouter l'alias)
-
-**Utilisation avec PowerShell**
-- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex  (voir [https://chocolatey.org/install](https://chocolatey.org/install))
-- Installer lftp : choco install lftp
+Installer WordMove (nécessite ruby + gem) : 
+- gem install wordmove 
+Si erreur suivante  C:\Ruby22-x64\bin\ruby.exe: No such file or directory... voir le paragraphe sur Cygwin pour ajouter l'alias
 
 **Utilisation avec Babun**
 On utilise le gestionnaire de paquet pact
 - Installer lftp : pact install lftp
+- Ajouter un alias mysqldump à Babun : alias mysqldump='C:/wamp/bin/mysql/mysql5.6.17/bin/mysqldump'
+
+**Utilisation avec PowerShell**
+- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex  (voir [https://chocolatey.org/install](https://chocolatey.org/install))
+- Installer lftp : choco install lftp
+- Ajouter mysql aux variables d'environnement windows : C:\wamp\bin\mysql\mysql5.6.17\bin
 
 Si erreur suivante: find: Fatal error: Certificate verification: subjectAltName does not match :
 - mkdir ~/.lftp
