@@ -35,7 +35,20 @@ Si erreur suivante : C:\Ruby22-x64\bin\ruby.exe: No such file or directory -- /c
 - appuyer sur echap et taper :wq (enregistrer et quitter l'édition du fichier)
 - rafraichir : source ~/.babunrc
 
+####WordMove
+- Installer WordMove (nécessite ruby + gem) : gem install wordmove (si erreur suivante  C:\Ruby22-x64\bin\ruby.exe: No such file or directory... voir le paragraphe sur Cygwin pour ajouter l'alias)
 
+**Etapes avec PowerShell**
+- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex  (voir [https://chocolatey.org/install](https://chocolatey.org/install))
+- Installer lftp : choco install lftp
+
+**Avec Babun**
+On utilise le gestionnaire de paquet pact
+- Installer lftp : pact install lftp
+
+
+Si erreur suivante: find: Fatal error: Certificate verification: subjectAltName does not match 
+lftp > set ssl:verify-certificate no
 
 
 
