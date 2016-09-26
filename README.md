@@ -46,7 +46,8 @@ On utilise le gestionnaire de paquet pact
 - Ajouter un alias mysqldump à Babun : alias mysqldump='C:/wamp/bin/mysql/mysql5.6.17/bin/mysqldump'
 
 **Utilisation avec PowerShell**
-- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex  (voir [https://chocolatey.org/install](https://chocolatey.org/install))
+- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
+(voir [https://chocolatey.org/install](https://chocolatey.org/install))
 - Installer lftp : choco install lftp
 - Ajouter mysql aux variables d'environnement windows : C:\wamp\bin\mysql\mysql5.6.17\bin
 
