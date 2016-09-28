@@ -72,7 +72,10 @@ Installer WordMove (nécessite ruby + gem) :
 - set ssl:verify-certificate no
 - appuyer sur echap et taper :wq
 
+---
 
+####WP CLI
+- Installer [un paquet pour la gestion multi environnement](https://github.com/viewone/wp-cli-environment) : wp package install viewone/wp-cli-environment
 
 
 
