@@ -14,49 +14,56 @@
 - [Using Cygwin's bash terminal in a JetBrains IDE](http://engineroom.teamwork.com/using-cygwins-bash-terminal-in-a-jetbrains-ide/)
 - Raccourcis  Windows : 
   - Séléctionner toutes les occurences : ALT + J
+  
+####PowerShell
+**Pour installer Wp-cli**
+- suivre les infos ici : [Installing on Windows](https://wp-cli.org/docs/installing/#installing-on-windows)
+
+**Pour installer WordMove**
+- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
+(voir [https://chocolatey.org/install](https://chocolatey.org/install))
+- Installer lftp : choco install lftp
+- Ajouter mysql aux variables d'environnement windows : C:\wamp\bin\mysql\mysql5.6.17\bin
 
 ####Babun
-Update : babun update
-Instal package : pact packagename
+- Update : babun update
+- Instal package : pact packagename
 
 ####Cygwin
+**Ajouter un alias**
+- vim ~/.babunrc
+- appuyer sur i, éditer le fichier avec l'alias à rajouter, par exemple 
+- alias gem='C:/Program\ Files/Ruby/bin/gem'
+- appuyer sur echap et taper :wq (enregistrer et quitter l'édition du fichier)
+- rafraichir : source ~/.babunrc
+
+**Pour installer Wp-cli**
+- télécharger dans C:/wp-cli le wp-cli.phar sur le site officiel
+- ajouter l'alias suivant : alias wp='php C:/wp-cli/wp-cli.phar'
+
 **Pour installer Sass**
 - installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/) en l'ajoutant au PATH
 - vérifier ruby : ruby -v
 - vérifier gem : gem -v
 - installer sass via gem : gem install sass
 - vérifier sass : sass -v
+- Si erreur suivante : C:\Ruby22-x64\bin\ruby.exe: No such file or directory -- /cygdrive/c/Ruby22-x64/bin/gem (LoadError) : rajouter l'alias.
 
-Si erreur suivante : C:\Ruby22-x64\bin\ruby.exe: No such file or directory -- /cygdrive/c/Ruby22-x64/bin/gem (LoadError)
-- vim ~/.babunrc
-- appuyer sur i, éditer le fichier avec les alias ci dessous
-- alias gem='C:/Program\ Files/Ruby/bin/gem'
-- alias sass='C:/Program\ Files/Ruby/bin/sass'
-- appuyer sur echap et taper :wq (enregistrer et quitter l'édition du fichier)
-- rafraichir : source ~/.babunrc
-
-####WordMove
+**Pour installer Wordmove**
 Installer WordMove (nécessite ruby + gem) : 
 - gem install wordmove 
-Si erreur suivante  C:\Ruby22-x64\bin\ruby.exe: No such file or directory... voir le paragraphe sur Cygwin pour ajouter l'alias
-
-**Utilisation avec Babun**
-On utilise le gestionnaire de paquet pact
+- Si erreur suivante  C:\Ruby22-x64\bin\ruby.exe: No such file or directory : rajouter l'alias
 - Installer lftp : pact install lftp
 - Ajouter un alias mysqldump à Babun : alias mysqldump='C:/wamp/bin/mysql/mysql5.6.17/bin/mysqldump'
-
-**Utilisation avec PowerShell**
-- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
-(voir [https://chocolatey.org/install](https://chocolatey.org/install))
-- Installer lftp : choco install lftp
-- Ajouter mysql aux variables d'environnement windows : C:\wamp\bin\mysql\mysql5.6.17\bin
-
-Si erreur suivante: find: Fatal error: Certificate verification: subjectAltName does not match :
+- Si erreur suivante: find: Fatal error: Certificate verification: subjectAltName does not match :
 - mkdir ~/.lftp
 - vim ~/.lftp
 - appuyer sur i, éditer le fichier
 - set ssl:verify-certificate no
-- appuyer sur echap et taper :wq (enregistrer et quitter l'édition du fichier)
+- appuyer sur echap et taper :wq
+
+
+
 
 
 
