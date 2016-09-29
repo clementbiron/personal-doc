@@ -76,7 +76,7 @@ Installer WordMove (nécessite ruby + gem) :
 
 ####WP CLI
 - Installer [un paquet pour la gestion multi environnement](https://github.com/viewone/wp-cli-environment) : wp package install viewone/wp-cli-environment
-
+- Exporter la base de données et chercher / remplacer oldValue / newValue : wp search-replace http://localhost/exemple http://preprod.exemple.com --export=test.sql
 
 
 
