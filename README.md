@@ -75,7 +75,16 @@ Installer WordMove (nécessite ruby + gem) :
 ---
 
 ####WP CLI
-- Exporter la base de données et chercher / remplacer oldValue / newValue : wp search-replace http://localhost/exemple http://preprod.exemple.com --export=test.sql
+- Exporter la base de données et chercher remplacer oldValue / newValue : wp search-replace http://localhost/exemple http://preprod.exemple.com --export=export.sql
+- Copier l'export sql sur un serveur distant via ssh : scp /cygdrive/h/www/exemple/export.sql posykrat@posykrat.odns.fr:/home/posykrat/tmp
+- Importer l'export sql sur serveur distant:
+  - ssh posykrat@posykrat.odns.fr
+  - cd ~/public_html/exemple
+  - wp db import /home/posykrat/tmp/export.sql
+  
+
+
+
 
 
 
