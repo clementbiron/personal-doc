@@ -21,25 +21,10 @@
 
 ---
 
-####POWERSHELL
-**Pour installer Wp-cli**
-- suivre les infos ici : [Installing on Windows](https://wp-cli.org/docs/installing/#installing-on-windows)
-
-**Pour installer WordMove**
-- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
-(voir [https://chocolatey.org/install](https://chocolatey.org/install))
-- Installer lftp : choco install lftp
-- Ajouter mysql aux variables d'environnement windows : C:\wamp\bin\mysql\mysql5.6.17\bin
-
----
-
 ####BABUN
 - Update : babun update
 - Instal package : pact packagename
 
----
-
-####CYGWIN
 **Ajouter un alias**
 - vim ~/.babunrc
 - appuyer sur i, éditer le fichier avec l'alias à rajouter, par exemple 
@@ -47,24 +32,31 @@
 - appuyer sur echap et taper :wq (enregistrer et quitter l'édition du fichier)
 - rafraichir : source ~/.babunrc
 
-**Pour installer Wp-cli**
-- télécharger dans C:/wp-cli le wp-cli.phar sur le site officiel
-- ajouter l'alias suivant : alias wp='php C:/wp-cli/wp-cli.phar'
+---
 
+####SASS
 **Pour installer Sass**
-- installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/) en l'ajoutant au PATH
+- installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/) 
+- ajouter C:\Ruby23-x64\bin aux variables d'environnement
 - vérifier ruby : ruby -v
 - vérifier gem : gem -v
 - installer sass via gem : gem install sass
 - vérifier sass : sass -v
-- Si erreur suivante : C:\Ruby22-x64\bin\ruby.exe: No such file or directory -- /cygdrive/c/Ruby22-x64/bin/gem (LoadError) : rajouter l'alias.
+- pour Babun ajouter les alias 
+  - ruby='C:/Ruby23-x64/bin/ruby'
+  - gem='C:/Ruby23-x64/bin/gem'
+  - sass='C:/Ruby23-x64/bin/sass'
 
-**Pour installer Wordmove**
-Installer WordMove (nécessite ruby + gem) : 
+---
+
+####WORDMOVE
+**Installation pour Babun**
 - gem install wordmove 
-- Si erreur suivante  C:\Ruby22-x64\bin\ruby.exe: No such file or directory : rajouter l'alias
+- pour Babun ajouter les alias 
+  - wordmove='C:/Ruby23-x64/bin/wordmove'
+  - mysqldump='C:/wamp/bin/mysql/mysql5.6.17/bin/mysqldump'
+  - mysql='C:/wamp/bin/mysql/mysql5.6.17/bin/mysql'
 - Installer lftp : pact install lftp
-- Ajouter un alias mysqldump à Babun : alias mysqldump='C:/wamp/bin/mysql/mysql5.6.17/bin/mysqldump'
 - Si erreur suivante: find: Fatal error: Certificate verification: subjectAltName does not match :
 - mkdir ~/.lftp
 - vim ~/.lftp
@@ -72,9 +64,22 @@ Installer WordMove (nécessite ruby + gem) :
 - set ssl:verify-certificate no
 - appuyer sur echap et taper :wq
 
+**Installation pour Powershell**
+- Installer choco (besoin d'un gestionnaire de paquet) : iwr https://chocolatey.org/install.ps1 -UseBasicParsing | iex
+(voir [https://chocolatey.org/install](https://chocolatey.org/install))
+- Installer lftp : choco install lftp
+- Ajouter mysql aux variables d'environnement windows : C:\wamp\bin\mysql\mysql5.6.17\bin
+
 ---
 
 ####WP CLI
+**Installation**
+  - cd c:
+  - composer create-project wp-cli/wp-cli --no-dev
+  - ajout de C:\wp-cli\bin au variables d'environnement windows
+  - pour Babun ajouter l'alias wp='C:/wp-cli/bin/wp'
+
+**BDD**
 - Exporter la base de données et chercher remplacer oldValue / newValue : wp search-replace http://localhost/exemple http://preprod.exemple.com --export=export.sql
 - Copier l'export sql sur un serveur distant via ssh : scp /cygdrive/h/www/exemple/export.sql posykrat@posykrat.odns.fr:/home/posykrat/tmp
 - Importer l'export sql sur serveur distant:
