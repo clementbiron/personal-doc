@@ -106,8 +106,21 @@
 - Commiter des modifs sur un container :  docker commit -m "added composer" 3a9b9953c4e7 dfwp/lamp:v0.1.1
 - Construire une image à partir d'un Dockerfile : docker build /path (si dans le dossier mettre .)
 
-**Ressoureces**
+**Ressources**
 - doc en fr (non officiel) : [https://github.com/xataz/Tutoriels/blob/master/Docker/0.%20Introduction.md](https://github.com/xataz/Tutoriels/blob/master/Docker/0.%20Introduction.md)
+
+---
+
+####GIT
+**Tag**
+- Créer un tag : git tag -a v1.0.0 -m "lorem"
+- Pusher le tag : git push origin v1.0.0
+
+**Branch**
+- Changer de branche : git checkout maBranche
+- Merge de branche : git merge maBrancheAMergerDansCelleCi
+
+---
 
 
 
