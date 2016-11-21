@@ -1,16 +1,19 @@
 # Personal Doc
 
-* [SVG](svg.md)
-* [Markdown](markdown.md)
-* [Composer](composer.md)
-* [Intellij Idea](intellij-idea.md)
 * [Babun](babun.md)
-* [Sass](sass.md)
-* [Wordmove](wordmove.md)
-* [WPCLI](wpcli.md)
+* [Bash](bash.md)
+* [Composer](composer.md)
 * [Docker](docker.md)
 * [Git](git.md)
-* [Bash](bash.md)
+* [Intellij Idea](intellij-idea.md)
+* [Markdown](markdown.md)
+* [Sass](sass.md)
+* [SVG](svg.md)
+* [Wordmove](wordmove.md)
+* [WPCLI](wpcli.md)
+
+
+
 
 
 
