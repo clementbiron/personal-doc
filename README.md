@@ -1,11 +1,8 @@
 # Personal Doc
 
-[SVG](svg.md)
+* [SVG](svg.md)
+* [Markdown](markdown.md)
 
----
-
-####MARKDOWN
-- [Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ---
 
