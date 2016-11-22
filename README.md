@@ -8,6 +8,7 @@
 * [Git](git.md)
 * [Intellij Idea](intellij-idea.md)
 * [Markdown](markdown.md)
+* [React](react.md)
 * [Sass](sass.md)
 * [SVG](svg.md)
 * [Wordmove](wordmove.md)
