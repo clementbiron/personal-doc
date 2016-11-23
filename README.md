@@ -6,6 +6,7 @@
 * [Composer](composer.md)
 * [Docker](docker.md)
 * [ES6](es6.md)
+* [Flexbox](flexbox.md)
 * [Git](git.md)
 * [Intellij Idea](intellij-idea.md)
 * [Markdown](markdown.md)
