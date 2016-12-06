@@ -8,7 +8,7 @@
 * [Flexbox](flexbox.md)
 * [Git](git.md)
 * [Intellij Idea](intellij-idea.md)
-* [ES6](JavaScript / es6.md)
+* [JavaScript / ES6](es6.md)
 * [Markdown](markdown.md)
 * [React](react.md)
 * [Sass](sass.md)
