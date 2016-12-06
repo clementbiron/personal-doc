@@ -15,3 +15,6 @@
 #####Code game
 - [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/)
 - [http://flexboxfroggy.com/](http://flexboxfroggy.com/)
+
+##### Cheatsheet
+- Alsacretions : http://www.alsacreations.com/xmedia/tools/flexbox-cheatsheet.pdf
