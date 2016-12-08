@@ -14,6 +14,7 @@
 * [Sass](sass.md)
 * [SVG](svg.md)
 * [Wordmove](wordmove.md)
+* [WordPress](wordpress.md)
 * [WPCLI](wpcli.md)
 
 
