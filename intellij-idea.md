@@ -4,3 +4,4 @@
 - Raccourcis  Windows : 
   - Séléctionner toutes les occurences : ALT + J
   - Installer un plugin : CTRL + ALT + S et chercher plugins dans le champs en haut à gauche
+  - Reformater le code : CTRL + ATL + L
