@@ -13,3 +13,6 @@
 
 **Clone**
 - Cloner un repo : git clone https://monrepo nomDuDossierACreer
+
+**Error**
+- LF will be replaced by CLRF" warning in Git on Windows : git config --global core.safecrlf false
