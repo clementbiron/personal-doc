@@ -13,6 +13,7 @@
 * [React](react.md)
 * [Sass](sass.md)
 * [SVG](svg.md)
+* [Wamp](wamp.md)
 * [Wordmove](wordmove.md)
 * [WordPress](wordpress.md)
 * [WPCLI](wpcli.md)
