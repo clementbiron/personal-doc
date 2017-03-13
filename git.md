@@ -5,6 +5,7 @@
 **Tag**
 - Créer un tag : git tag -a v1.0.0 -m "lorem"
 - Pusher le tag : git push origin v1.0.0
+- Connaître le tag en cours : git describe --tags
 
 **Branch**
 - Créer une branche : git checkout -b maBranche && git push origin maBranche
@@ -14,6 +15,9 @@
 **Clone**
 - Cloner un repo : git clone https://monrepo nomDuDossierACreer
 - Cloner une branch d'une repo : git clone -b branch https://monrepo nomDuDossierACreer
+
+**Pull**
+- récupérer un tag en particulier : git pull origin branch:tag
 
 **Error**
 - LF will be replaced by CLRF" warning in Git on Windows : git config --global core.safecrlf false
