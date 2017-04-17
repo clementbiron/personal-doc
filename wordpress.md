@@ -5,6 +5,7 @@
 
 **ACF**
 - Extensions : http://awesomeacf.com/
+- Image responsive : http://aaronrutley.com/responsive-images-in-wordpress-with-acf/
 - Extensions à tester : 
   - https://github.com/Hube2/acf-medium-editor
 
