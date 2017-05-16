@@ -1,4 +1,6 @@
-####SASS
+**Articles**
+- Sass et '&' : http://codepen.io/hidanielle/post/level-up-your-sass-with-the-ampersand
+
 **Pour installer Sass (version ruby)**
 - installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/) 
 - ajouter C:\Ruby23-x64\bin aux variables d'environnement
