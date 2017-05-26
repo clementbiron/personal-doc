@@ -8,3 +8,6 @@
 - ScrollMonitor : https://github.com/stutrek/scrollMonitor
 - ScrollMagic : https://github.com/janpaepke/ScrollMagic
 
+#### Animation tools
+- Anime JS : https://github.com/juliangarnier/anime/
+- GSAP : https://greensock.com/gsap
