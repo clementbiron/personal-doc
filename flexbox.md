@@ -5,6 +5,7 @@
 - [Kyusuf](https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 - [La Cascade](https://la-cascade.io/flexbox-guide-complet/)
 - [Css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b
 
 ##### Bugs
 - La bible : [https://github.com/philipwalton/flexbugs](https://github.com/philipwalton/flexbugs)
