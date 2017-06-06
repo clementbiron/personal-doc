@@ -7,6 +7,7 @@
 * [Docker](docker.md)
 * [Flexbox](flexbox.md)
 * [Git](git.md)
+* [Gulp](gulp.md)
 * [Intellij Idea](intellij-idea.md)
 * [JavaScript / ES6](es6.md)
 * [Markdown](markdown.md)
