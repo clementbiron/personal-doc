@@ -5,6 +5,7 @@
 * [BEM](bem.md)
 * [Composer](composer.md)
 * [CSS - Flexbox](flexbox.md)
+* [CSS - Grid layout](grid-layout.md)
 * [Docker](docker.md)
 * [Git](git.md)
 * [Gulp](gulp.md)
