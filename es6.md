@@ -11,3 +11,6 @@
 ##### Animation tools
 - Anime JS : https://github.com/juliangarnier/anime/
 - GSAP : https://greensock.com/gsap
+
+##### Divers
+- Learning Advanced JavaScript : https://johnresig.com/apps/learn/
