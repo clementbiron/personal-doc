@@ -14,3 +14,4 @@
 
 ##### Divers
 - Learning Advanced JavaScript : https://johnresig.com/apps/learn/
+- The Vanilla Javascript Repository : http://www.vanillalist.com/
