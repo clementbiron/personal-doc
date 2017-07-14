@@ -3,6 +3,9 @@
 **Rest API**
 - Client JavaScript : https://www.npmjs.com/package/wpapi
 
+**Template hierarchy**
+- https://developer.wordpress.org/files/2014/10/wp-hierarchy.png
+
 **ACF**
 - Extensions : http://awesomeacf.com/
 - Image responsive : http://aaronrutley.com/responsive-images-in-wordpress-with-acf/
