@@ -7,7 +7,6 @@
 ##### Scroll 
 - ScrollMonitor : https://github.com/stutrek/scrollMonitor
 - ScrollMagic : https://github.com/janpaepke/ScrollMagic
-- Smooth scroll polyfill : https://github.com/iamdustan/smoothscroll
 
 ##### Animation tools
 - Anime JS : https://github.com/juliangarnier/anime/
