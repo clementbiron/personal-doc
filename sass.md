@@ -1,5 +1,6 @@
 **Articles**
 - Sass et '&' : http://codepen.io/hidanielle/post/level-up-your-sass-with-the-ampersand
+- Advanced SCSS : https://gist.github.com/jareware/4738651
 
 **Pour installer Sass (version ruby)**
 - installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/) 
