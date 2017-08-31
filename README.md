@@ -12,6 +12,7 @@
 * [Intellij Idea](intellij-idea.md)
 * [JavaScript / ES6](es6.md)
 * [Markdown](markdown.md)
+* [PHP](php.md)
 * [React](react.md)
 * [Sass](sass.md)
 * [SVG](svg.md)
