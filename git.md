@@ -1,4 +1,4 @@
-####GIT
+#### GIT
 **Commit**
 - Commiter et stage files (fichiers modifiés et supprimés uniquement) : commit -a -m "mon texte"
 
