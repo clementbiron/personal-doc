@@ -1,4 +1,4 @@
-#### FLEXBOX
+#### Flexbox :zap:
 
 ##### Articles de références
 - [Smashingmagazine](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/)
