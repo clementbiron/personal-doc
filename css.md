@@ -18,10 +18,12 @@
 - [http://flexboxfroggy.com/](http://flexboxfroggy.com/)
 
 ##### Cheatsheet
-- Alsacretions : http://www.alsacreations.com/xmedia/tools/flexbox-cheatsheet.pdf
+- Alsacreations : http://www.alsacreations.com/xmedia/tools/flexbox-cheatsheet.pdf
 
 ##### Divers
 - Liste de ressources : https://www.creativejuiz.fr/blog/css-css3/apprendre-positionnement-flexbox-s-amusant?utm_source=extension&utm_campaign=push&utm_medium=notification
+
+___
 
 #### Grid Layout
 
@@ -34,6 +36,8 @@
 
 ##### Ressources
 - https://gridbyexample.com/
+
+___
 
 #### Clip Path
 
