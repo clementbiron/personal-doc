@@ -23,14 +23,19 @@
 ##### Divers
 - Liste de ressources : https://www.creativejuiz.fr/blog/css-css3/apprendre-positionnement-flexbox-s-amusant?utm_source=extension&utm_campaign=push&utm_medium=notification
 
-#### CSS Grid Layout
+#### Grid Layout
 
-**Articles de références**
+##### Articles de références
 - https://css-tricks.com/snippets/css/complete-guide-grid/
 - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
 - http://chris.house/blog/a-complete-guide-css-grid-layout/
 - https://webdesign.tutsplus.com/tutorials/css-grid-layout-quick-start-guide--cms-27238
 - https://www.sitepoint.com/introducing-the-css-grid-layout/
 
-**Ressources**
+##### Ressources
 - https://gridbyexample.com/
+
+#### Clip Path
+
+##### Divers
+- CSS clip-path maker : http://bennettfeely.com/clippy/
