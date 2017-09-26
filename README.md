@@ -19,7 +19,6 @@
 * [Wamp](wamp.md)
 * [Wordmove](wordmove.md)
 * [WordPress](wordpress.md)
-* [WPCLI](wpcli.md)
 
 
 
