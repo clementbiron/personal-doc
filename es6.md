@@ -16,6 +16,7 @@
 ##### Divers
 - Learning Advanced JavaScript : https://johnresig.com/apps/learn/
 - The Vanilla Javascript Repository : http://www.vanillalist.com/
+- Modern JS Cheatsheet : https://github.com/mbeaudru/modern-js-cheatsheet
 
 ##### Guide lines
 - AirBnB : https://github.com/airbnb/javascript
