@@ -19,5 +19,9 @@
 **Pull**
 - récupérer un tag en particulier : git pull origin branch:tag
 
+**Changing a remote's URL**
+- From SSH to HTTPS : git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
+- From HTTPS to SSH : git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
+
 **Error**
 - LF will be replaced by CLRF" warning in Git on Windows : git config --global core.safecrlf false
