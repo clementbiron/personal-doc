@@ -10,14 +10,13 @@
 * [Git](git.md)
 * [Gulp](gulp.md)
 * [Intellij Idea](intellij-idea.md)
-* [JavaScript / ES6](es6.md)
+* [JavaScript](javascript.md)
 * [Markdown](markdown.md)
 * [PHP](php.md)
 * [React](react.md)
 * [Sass](sass.md)
 * [SVG](svg.md)
 * [Wamp](wamp.md)
-* [Wordmove](wordmove.md)
 * [WordPress](wordpress.md)
 
 
