@@ -5,7 +5,7 @@
 * [BEM](bem.md)
 * [Composer](composer.md)
 * [CSS](css.md)
-* [Design](design.md)
+* [UX/UI](ux-ui.md)
 * [Docker](docker.md)
 * [Git](git.md)
 * [Gulp](gulp.md)
