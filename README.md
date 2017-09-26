@@ -2,7 +2,6 @@
 
 * [Babun](babun.md)
 * [Bash](bash.md)
-* [BEM](bem.md)
 * [Composer](composer.md)
 * [CSS](css.md)
 * [UX/UI](ux-ui.md)
