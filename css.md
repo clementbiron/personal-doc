@@ -44,3 +44,7 @@ ___
 ##### Divers
 - CSS clip-path maker : http://bennettfeely.com/clippy/
 
+___
+#### Divers
+- [Modern and simple css @font-face generator](https://transfonter.org/)
+
