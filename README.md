@@ -15,6 +15,7 @@
 * [React](react.md)
 * [Sass](sass.md)
 * [SVG](svg.md)
+* [Visual Studio Code](vsd.md)
 * [Wamp](wamp.md)
 * [WordPress](wordpress.md)
 
