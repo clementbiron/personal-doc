@@ -15,7 +15,7 @@
 
 ##### Divers
 - Learning Advanced JavaScript : https://johnresig.com/apps/learn/
-- The Vanilla Javascript Repository : http://www.vanillalist.com/
+- The Vanilla Javascript Repository : https://plainjs.com
 - Modern JS Cheatsheet : https://github.com/mbeaudru/modern-js-cheatsheet
 - Vanilla JavaScript Quick Reference / Cheatsheet : https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86
 
