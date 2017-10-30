@@ -1,2 +1,2 @@
 #### Divers
-- Free guide to <head> element : https://gethead.info/
+- Free guide to head element : https://gethead.info/
