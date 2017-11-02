@@ -31,8 +31,6 @@ ___
 - https://webdesign.tutsplus.com/tutorials/css-grid-layout-quick-start-guide--cms-27238
 - https://www.sitepoint.com/introducing-the-css-grid-layout/
 - https://github.com/rachelandrew/cssgrid-ama
-
-##### Minmax
 - https://la-cascade.io/css-grid-comment-fonctionne-minmax/
 
 ##### Ressources
