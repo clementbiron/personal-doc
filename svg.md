@@ -7,3 +7,6 @@
 
 ##### Bugs
 - [Safari 8 (iOS & Mac OS) doesn't render injected SVG sprites when defined later, after the actual svg > use tags](https://gist.github.com/rhawbert/05c7a758cb22d2a1ed24)
+
+##### Exemples
+- Seamless infinite loop with SVG stroke and CSS animation https://codepen.io/Twikito/pen/POPjBe
