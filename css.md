@@ -35,7 +35,9 @@ ___
 
 ##### Ressources
 - Grid by example : https://gridbyexample.com/
-- Game tutorial : http://cssgridgarden.com/
+
+##### Code game
+- CSS Gridgarden : http://cssgridgarden.com/
 
 ___
 #### BEM
