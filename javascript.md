@@ -1,14 +1,10 @@
 #### JavaScript
 
-##### Tutos
+##### Articles et ressources
 - Overview of JavaScript ES6 features (en) [http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/)
 - JavaScript Promises for Dummies (en) : https://scotch.io/tutorials/javascript-promises-for-dummies
 - The WordPress Developer’s Guide to ES2015 (ES6) : https://deliciousbrains.com/wordpress-developers-guide-es2015-es6/
-
-###### Liste de ressources
-- https://github.com/thedaviddias/Resources-Front-End-Beginner#learn-javascript
-
-##### Divers
+- Resources-Front-End-Beginner : https://github.com/thedaviddias/Resources-Front-End-Beginner#learn-javascript
 - Learning Advanced JavaScript : https://johnresig.com/apps/learn/
 - The Vanilla Javascript Repository : https://plainjs.com
 - Modern JS Cheatsheet : https://github.com/mbeaudru/modern-js-cheatsheet
