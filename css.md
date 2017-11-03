@@ -34,7 +34,8 @@ ___
 - https://la-cascade.io/css-grid-comment-fonctionne-minmax/
 
 ##### Ressources
-- https://gridbyexample.com/
+- Grid by example : https://gridbyexample.com/
+- Game tutorial : http://cssgridgarden.com/
 
 ___
 #### BEM
