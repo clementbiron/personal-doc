@@ -5,13 +5,8 @@
 - JavaScript Promises for Dummies (en) : https://scotch.io/tutorials/javascript-promises-for-dummies
 - The WordPress Developer’s Guide to ES2015 (ES6) : https://deliciousbrains.com/wordpress-developers-guide-es2015-es6/
 
-##### Scroll 
-- ScrollMonitor : https://github.com/stutrek/scrollMonitor
-- ScrollMagic : https://github.com/janpaepke/ScrollMagic
-
-##### Animation tools
-- Anime JS : https://github.com/juliangarnier/anime/
-- GSAP : https://greensock.com/gsap
+###### Liste de ressources
+- https://github.com/thedaviddias/Resources-Front-End-Beginner#learn-javascript
 
 ##### Divers
 - Learning Advanced JavaScript : https://johnresig.com/apps/learn/
@@ -21,3 +16,12 @@
 
 ##### Guide lines
 - AirBnB : https://github.com/airbnb/javascript
+
+##### Scroll 
+- ScrollMonitor : https://github.com/stutrek/scrollMonitor
+- ScrollMagic : https://github.com/janpaepke/ScrollMagic
+
+##### Animation tools
+- Anime JS : https://github.com/juliangarnier/anime/
+- GSAP : https://greensock.com/gsap
+
