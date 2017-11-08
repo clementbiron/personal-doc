@@ -21,3 +21,6 @@
 - Anime JS : https://github.com/juliangarnier/anime/
 - GSAP : https://greensock.com/gsap
 
+##### Fonts
+- Font Face Observer is a fast and simple web font loader : Font Face Observer is a fast and simple web font loader.
+
