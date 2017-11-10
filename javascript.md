@@ -9,6 +9,7 @@
 - The Vanilla Javascript Repository : https://plainjs.com
 - Modern JS Cheatsheet : https://github.com/mbeaudru/modern-js-cheatsheet
 - Vanilla JavaScript Quick Reference / Cheatsheet : https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86
+- Table de compatibilité ES6 : http://kangax.github.io/compat-table/es6/
 
 ##### Guide lines
 - AirBnB : https://github.com/airbnb/javascript
