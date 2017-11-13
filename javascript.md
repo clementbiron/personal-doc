@@ -11,6 +11,7 @@
 - Vanilla JavaScript Quick Reference / Cheatsheet : https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86
 - Table de compatibilité ES6 : http://kangax.github.io/compat-table/es6/
 - ES6 design patterns : http://loredanacirstea.github.io/es6-design-patterns/
+- The most comprehensive book on ECMAScript 6 (ECMAScript 2015) : http://exploringjs.com/es6.html
 
 ##### Guide lines
 - AirBnB : https://github.com/airbnb/javascript
