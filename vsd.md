@@ -10,4 +10,5 @@
 
 **Shortcuts**
 
-- align assignement (avec l'extension Better Align) : `ctrl + shift + =` 
+- `ctrl + shift + =` align assignement (avec l'extension Better Align) 
+- `ctrl + d` selects next occurrence of word under cursor or of the current selection
