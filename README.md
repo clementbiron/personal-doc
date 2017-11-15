@@ -4,6 +4,7 @@
 * [Bash](bash.md)
 * [Composer](composer.md)
 * [CSS](css.md)
+* [Divers](divers.md)
 * [Docker](docker.md)
 * [Git](git.md)
 * [Gulp](gulp.md)
