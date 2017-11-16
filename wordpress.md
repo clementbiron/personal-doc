@@ -9,6 +9,7 @@
 **ACF**
 - Extensions : http://awesomeacf.com/
 - Image responsive : http://aaronrutley.com/responsive-images-in-wordpress-with-acf/
+- Add Sortable ACF Admin Column : https://support.advancedcustomfields.com/forums/topic/add-sortable-acf-admin-column/
 - A tester : 
   - Medium Editor Field (champs TinyMCE configurable) : https://github.com/Hube2/acf-medium-editor
   - Afficher les champs ACF dans la post table : https://github.com/mcguffin/acf-quick-edit-fields
