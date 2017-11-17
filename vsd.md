@@ -1,6 +1,7 @@
 **Tutos**
 
 - Make Visual Studio Code Your Editor https://scotch.io/courses/make-visual-studio-code-your-editor
+- Visual Studio Code for PHP Developers : https://laracasts.com/series/visual-studio-code-for-php-developers
 
 **Extensions**
 
