@@ -21,7 +21,7 @@
 - WP Backdoor user (devenir admin via upload d'un fichier sur le ftp) : http://boiteaweb.fr/plugin-backdoor-user-3311.html
 - Sortable taxonomy columns : http://scribu.net/wordpress/sortable-taxonomy-columns.html
 - Liste des emails envoyés par WordPress : https://gist.github.com/johnbillion/0a48021de5510c41d517
-- Yseful developer tools for working with WordPress : http://wpgear.org/
+- Useful developer tools for working with WordPress : http://wpgear.org/
 
 ---
 
