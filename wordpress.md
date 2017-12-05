@@ -16,6 +16,9 @@
   - Medium Editor Field (champs TinyMCE configurable) : https://github.com/Hube2/acf-medium-editor
   - Afficher les champs ACF dans la post table : https://github.com/mcguffin/acf-quick-edit-fields
   - Extensions pour créer des formulaires avec des champs ACF : https://advancedforms.github.io/
+  
+**Internationalization**
+- Blank WordPress Pot : https://github.com/fxbenard/Blank-WordPress-Pot
 
 **Divers**
 - WP Backdoor user (devenir admin via upload d'un fichier sur le ftp) : http://boiteaweb.fr/plugin-backdoor-user-3311.html
