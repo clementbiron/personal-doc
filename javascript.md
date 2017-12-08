@@ -19,10 +19,13 @@
 ##### Scroll 
 - ScrollMonitor : https://github.com/stutrek/scrollMonitor
 - ScrollMagic : https://github.com/janpaepke/ScrollMagic
+- Scrollama, modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events. : https://github.com/russellgoldenberg/scrollama
+- Emergence, detecting and manipulating elements in the browser : https://github.com/xtianmiller/emergence.js
 
 ##### Animation tools
 - Anime JS : https://github.com/juliangarnier/anime/
 - GSAP : https://greensock.com/gsap
+- Page transitions : https://github.com/luruke/barba.js
 
 ##### Fonts
 - Font Face Observer is a fast and simple web font loader : https://fontfaceobserver.com/
