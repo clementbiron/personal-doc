@@ -32,6 +32,7 @@ ___
 - https://www.sitepoint.com/introducing-the-css-grid-layout/
 - https://github.com/rachelandrew/cssgrid-ama
 - https://la-cascade.io/css-grid-comment-fonctionne-minmax/
+- https://24ways.org/2017/design-systems-and-css-grid/
 
 ##### Ressources
 - Grid by example : https://gridbyexample.com/
