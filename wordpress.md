@@ -16,6 +16,7 @@
   - Medium Editor Field (champs TinyMCE configurable) : https://github.com/Hube2/acf-medium-editor
   - Afficher les champs ACF dans la post table : https://github.com/mcguffin/acf-quick-edit-fields
   - Extensions pour créer des formulaires avec des champs ACF : https://advancedforms.github.io/
+  - ACF Columns : https://fr.wordpress.org/plugins/acf-columns/
   
 **Internationalization**
 - Blank WordPress Pot : https://github.com/fxbenard/Blank-WordPress-Pot
