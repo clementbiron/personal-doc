@@ -12,6 +12,8 @@
 - Table de compatibilité ES6 : http://kangax.github.io/compat-table/es6/
 - ES6 design patterns : http://loredanacirstea.github.io/es6-design-patterns/
 - The most comprehensive book on ECMAScript 6 (ECMAScript 2015) : http://exploringjs.com/es6.html
+- Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less : https://github.com/Chalarangelo/30-seconds-of-code
+
 
 ##### Guide lines
 - AirBnB : https://github.com/airbnb/javascript
