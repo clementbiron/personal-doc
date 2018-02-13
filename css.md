@@ -38,6 +38,7 @@ ___
 ##### Ressources
 - Grid by example : https://gridbyexample.com/
 - Videos learning : https://cssgrid.io/
+- Grid bugs list : https://github.com/rachelandrew/gridbugs
 
 ##### Code game
 - CSS Gridgarden : http://cssgridgarden.com/
