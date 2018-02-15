@@ -27,6 +27,9 @@
 - Emergence, detecting and manipulating elements in the browser : https://github.com/xtianmiller/emergence.js
 - A simple and fast API to monitor elements as you scroll : https://github.com/stutrek/scrollMonitor
 
+##### Masonry layout 
+- Masonry : https://github.com/callmecavs/bricks.js
+
 ##### Animation tools
 - Anime JS : https://github.com/juliangarnier/anime/
 - GSAP : https://greensock.com/gsap
