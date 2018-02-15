@@ -25,6 +25,7 @@
 - ScrollMagic : https://github.com/janpaepke/ScrollMagic
 - Scrollama, modern & lightweight JavaScript library for scrollytelling using IntersectionObserver in favor of scroll events. : https://github.com/russellgoldenberg/scrollama
 - Emergence, detecting and manipulating elements in the browser : https://github.com/xtianmiller/emergence.js
+- A simple and fast API to monitor elements as you scroll : https://github.com/stutrek/scrollMonitor
 
 ##### Animation tools
 - Anime JS : https://github.com/juliangarnier/anime/
