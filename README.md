@@ -12,6 +12,7 @@
 * [Intellij Idea](intellij-idea.md)
 * [JavaScript](javascript.md)
 * [Markdown](markdown.md)
+* [Performances](perfs.md)
 * [PHP](php.md)
 * [React](react.md)
 * [Sass](sass.md)
