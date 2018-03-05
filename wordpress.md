@@ -14,6 +14,7 @@
 - Recovery Tool from PHP Export : https://github.com/BeAPI/ACF-PHP-Recovery
 - Font Awesome field: https://wordpress.org/plugins/advanced-custom-fields-font-awesome/
  Medium Editor Field (champs TinyMCE configurable) : https://github.com/Hube2/acf-medium-editor
+- 8 snippets pour modifier le comportement d’ACF : https://mosaika.fr/astuces-developpement-acf/
 - A tester : 
   - Afficher les champs ACF dans la post table : https://github.com/mcguffin/acf-quick-edit-fields
   - Extensions pour créer des formulaires avec des champs ACF : https://advancedforms.github.io/
