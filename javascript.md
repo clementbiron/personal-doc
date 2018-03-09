@@ -39,3 +39,6 @@
 ##### Fonts
 - Font Face Observer is a fast and simple web font loader : https://fontfaceobserver.com/
 
+##### Lightbox
+- baguetteBox : https://github.com/feimosi/baguetteBox.js
+
