@@ -34,6 +34,7 @@ ___
 - https://la-cascade.io/css-grid-comment-fonctionne-minmax/
 - https://24ways.org/2017/design-systems-and-css-grid/
 - https://mozilladevelopers.github.io/playground/css-grid/
+- https://switch.paris/blog/construire-une-grille-produits-avec-css-grid-aujourdhui
 
 ##### Ressources
 - Grid by example : https://gridbyexample.com/
