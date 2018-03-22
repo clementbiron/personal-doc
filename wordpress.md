@@ -16,6 +16,7 @@
  Medium Editor Field (champs TinyMCE configurable) : https://github.com/Hube2/acf-medium-editor
 - 8 snippets pour modifier le comportement d’ACF : https://mosaika.fr/astuces-developpement-acf/
 - ACF with Timber : https://medium.com/@robertguss/how-to-make-a-custom-wordpress-page-builder-using-advanced-custom-fields-pro-timber-4ef822098dc3
+- Créer un Formulaire de Connexion & Inscription en AJAX grâce à ACF Form : https://hwk.fr/blog/acf-creer-un-formulaire-de-connexion-inscription-en-ajax-grace-acf-form
 - A tester : 
   - Afficher les champs ACF dans la post table : https://github.com/mcguffin/acf-quick-edit-fields
   - Extensions pour créer des formulaires avec des champs ACF : https://advancedforms.github.io/
