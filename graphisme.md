@@ -8,6 +8,7 @@
 - Or Type : https://ortype.is
 - Schick Toikk : https://www.schick-toikka.com/
 - Velvetyne (libre / open source fonts) : http://velvetyne.fr/
+- Pangram Pangram : https://pangrampangram.com/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
