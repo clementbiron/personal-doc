@@ -14,6 +14,9 @@
 - The most comprehensive book on ECMAScript 6 (ECMAScript 2015) : http://exploringjs.com/es6.html
 - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less : https://github.com/Chalarangelo/30-seconds-of-code
 
+####  Es Modules
+- ES modules: A cartoon deep-dive : https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+
 ##### Livre
 - Eloquent JavaScript 3rd edition : https://eloquentjavascript.net/3rd_edition/
 
