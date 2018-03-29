@@ -15,6 +15,7 @@
 - RP : https://radimpesko.com/
 - Klim : https://klim.co.nz/
 - Colophon Foundry : https://www.colophon-foundry.org/
+- Fatype : https://www.fatype.com/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
