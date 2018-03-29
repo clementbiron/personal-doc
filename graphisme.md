@@ -12,6 +12,9 @@
 - Sudtipos : https://www.sudtipos.com/
 - Lost type : http://www.losttype.com/
 - Parachute fonts : https://www.parachutefonts.com/
+- RP : https://radimpesko.com/
+- Klim : https://klim.co.nz/
+- Colophon Foundry : https://www.colophon-foundry.org/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
