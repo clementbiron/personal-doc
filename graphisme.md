@@ -16,6 +16,7 @@
 - Klim : https://klim.co.nz/
 - Colophon Foundry : https://www.colophon-foundry.org/
 - Fatype : https://www.fatype.com/
+- Revolver type : https://www.revolvertype.com/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
