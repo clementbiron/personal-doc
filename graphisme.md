@@ -20,7 +20,7 @@
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
-
+------
 ### Print
 
 #### Editeur
