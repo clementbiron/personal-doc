@@ -20,6 +20,7 @@
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
+
 ------
 ### Edition
 
@@ -32,3 +33,7 @@
 - Discover typo/graphic posters : https://www.typographicposters.com/posters
 - It's nice that : https://www.itsnicethat.com/
 - Design inspiration : https://www.designspiration.net/
+
+-----
+### Studios & agences
+-Fostertype : https://www.fostertype.com/portfolio
