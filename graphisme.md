@@ -31,4 +31,4 @@
 - Branding, packaging & opinion : http://bpando.org/
 - Discover typo/graphic posters : https://www.typographicposters.com/posters
 - It's nice that : https://www.itsnicethat.com/
-
+- Design inspiration : https://www.designspiration.net/
