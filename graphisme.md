@@ -21,7 +21,14 @@
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
 ------
-### Print
+### Edition
 
-#### Editeur
+#### Beaux livres
 - http://madepublishers.com/publications/
+
+------
+### Divers
+- Branding, packaging & opinion : http://bpando.org/
+- Discover typo/graphic posters : https://www.typographicposters.com/posters
+- It's nice that : https://www.itsnicethat.com/
+
