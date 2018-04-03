@@ -18,6 +18,7 @@
 - Fatype : https://www.fatype.com/
 - Revolver type : https://www.revolvertype.com/
 - Ainsifont : https://www.ainsifont.com
+- Motyfo : https://www.motyfo.com/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
