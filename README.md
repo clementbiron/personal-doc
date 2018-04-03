@@ -15,6 +15,7 @@
 * [Markdown](markdown.md)
 * [Performances](perfs.md)
 * [PHP](php.md)
+* [Photographie](photographie.md)
 * [React](react.md)
 * [Sass](sass.md)
 * [SVG](svg.md)
