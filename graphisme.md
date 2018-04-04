@@ -22,6 +22,7 @@
 - Typofonderie : https://typofonderie.com/
 - Productiontype : https://www.productiontype.com
 - Long type : https://www.long-type.com/
+- Branding with type : https://brandingwithtype.com
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
