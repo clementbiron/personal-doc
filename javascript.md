@@ -37,7 +37,6 @@
 - Anime JS : https://github.com/juliangarnier/anime/
 - GSAP : https://greensock.com/gsap
 - Page transitions : https://github.com/luruke/barba.js
-- Parallax : https://github.com/stutrek/scrollmonitor-parallax
 
 ##### Fonts
 - Font Face Observer is a fast and simple web font loader : https://fontfaceobserver.com/
@@ -47,4 +46,6 @@
 
 ##### Parralax
 - Cheapass Parallax : https://daverupert.com/2018/02/cheapass-parallax/
+- Scrollmonitor parallax : https://github.com/stutrek/scrollmonitor-parallax
+- Standalone parallax scrolling with CSS variables : https://basicscroll.electerious.com/
 
