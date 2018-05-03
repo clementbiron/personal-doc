@@ -2,6 +2,7 @@
 
 #### Inpsiration
 - An independent archive of typography : https://fontsinuse.com/
+- Trending in Type : https://www.typewolf.com/
 
 #### Fonderie 
 - Atipo : http://atipofoundry.com/
