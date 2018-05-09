@@ -23,6 +23,9 @@
   - ACF Columns : https://fr.wordpress.org/plugins/acf-columns/
   - https://github.com/MarieComet/MC-ACF-Flexible-Template/
   
+**RGPD**
+- https://wordpress.org/plugins/gdpr/
+  
 **Internationalization**
 - Blank WordPress Pot : https://github.com/fxbenard/Blank-WordPress-Pot
 - Poedit translation secrets : https://www.cssigniter.com/wordpress-poedit-translation-secrets/
