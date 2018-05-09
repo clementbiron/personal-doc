@@ -25,6 +25,7 @@
   
 **Internationalization**
 - Blank WordPress Pot : https://github.com/fxbenard/Blank-WordPress-Pot
+- Poedit translation secrets : https://www.cssigniter.com/wordpress-poedit-translation-secrets/
 
 **Divers**
 - WP Backdoor user (devenir admin via upload d'un fichier sur le ftp) : http://boiteaweb.fr/plugin-backdoor-user-3311.html
@@ -44,7 +45,7 @@
 
 **BDD export / import**
 - Exporter la base de données et chercher remplacer oldValue / newValue : wp search-replace http://localhost/exemple http://preprod.exemple.com --export=export.sql
-- Copier l'export sql sur un serveur distant via ssh : scp /cygdrive/h/www/exemple/export.sql posykrat@posykrat.odns.fr:/home/posykrat/tmp
+- Copier l'export sql sur un serveur distant via ssh : scp /cygdrive/h/www/exemple/export.sql user@domain.com:/home/posykrat/tmp
 - Importer l'export sql sur serveur distant:
   - ssh user@serveur.fr
   - cd ~/public_html/exemple
