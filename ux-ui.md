@@ -1,8 +1,13 @@
 #### UX
+
 ##### Méthodes
 - http://practicaluxmethods.com/
 
-**RGPD**
+##### Design sprint
+- Design Sprint Kit : https://designsprintkit.withgoogle.com/
+- Design Sprint c'est quoi ? : http://dysign.fr/design-sprint/
+
+##### RGPD
 - GDPR user experience : https://medium.com/@maud.im.marechal/gdpr-user-experience-75b8be569333
 
 ##### Articles
