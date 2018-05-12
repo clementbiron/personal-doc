@@ -44,6 +44,7 @@
 ##### Lightbox
 - baguetteBox : https://github.com/feimosi/baguetteBox.js
 - photoswipe : http://photoswipe.com/
+- Featherlight : https://noelboss.github.io/featherlight/
 
 ##### Parralax
 - Cheapass Parallax : https://daverupert.com/2018/02/cheapass-parallax/
