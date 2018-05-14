@@ -37,6 +37,9 @@
 - Useful developer tools for working with WordPress : http://wpgear.org/
 - Rewrite Rules Inspector https://wordpress.org/plugins/rewrite-rules-inspector/
 
+**Confs**
+-WPTech 2018 : https://github.com/yannkozon/wptech-2018
+
 ---
 
 #### WP CLI
