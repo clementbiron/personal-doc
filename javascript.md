@@ -51,3 +51,6 @@
 - Scrollmonitor parallax : https://github.com/stutrek/scrollmonitor-parallax
 - Standalone parallax scrolling with CSS variables : https://basicscroll.electerious.com/
 
+##### Divers
+- Easy Toggle State : https://twikito.github.io/easy-toggle-state/
+
