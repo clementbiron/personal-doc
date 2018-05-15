@@ -50,9 +50,11 @@ ___
 
 ___
 #### Clip Path
-##### Divers
 - CSS clip-path maker : http://bennettfeely.com/clippy/
 
+___
+#### Custom properties
+- Custom properties strategy guide : https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/
 ___
 #### Divers
 - [Modern and simple css @font-face generator](https://transfonter.org/)
