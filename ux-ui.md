@@ -37,3 +37,6 @@
 ##### Studio 
 - Waaark : https://waaark.com/fr/
 - Active Therory : https://activetheory.net
+
+##### Tips
+- Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
