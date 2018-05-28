@@ -36,6 +36,7 @@
 - Liste des emails envoyés par WordPress : https://gist.github.com/johnbillion/0a48021de5510c41d517
 - Useful developer tools for working with WordPress : http://wpgear.org/
 - Rewrite Rules Inspector https://wordpress.org/plugins/rewrite-rules-inspector/
+- Snippets : https://hwk.fr/codes
 
 **Confs**
 - WPTech 2018 : https://github.com/yannkozon/wptech-2018
