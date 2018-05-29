@@ -18,6 +18,7 @@
 
 **Pull**
 - récupérer un tag en particulier : git pull origin branch:tag
+- forcer un pull : `git fetch --all` et `git reset --hard origin/master`
 
 **Changing a remote's URL**
 - From SSH to HTTPS : git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
