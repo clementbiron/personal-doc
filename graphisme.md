@@ -33,6 +33,7 @@
 
 #### Beaux livres
 - http://madepublishers.com/publications/
+- https://www.fidele-editions.com/
 
 ------
 ### Divers
