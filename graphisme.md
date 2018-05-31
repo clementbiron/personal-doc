@@ -31,9 +31,10 @@
 ------
 ### Edition
 
-#### Beaux livres
+#### Beaux livres, atelier et maisons
 - http://madepublishers.com/publications/
 - https://www.fidele-editions.com/
+- http://www.co-bay.com/dasein/index.php?lang=fr
 
 ------
 ### Divers
