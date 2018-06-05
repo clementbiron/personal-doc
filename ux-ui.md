@@ -10,6 +10,7 @@
 
 ##### RGPD
 - GDPR user experience : https://medium.com/@maud.im.marechal/gdpr-user-experience-75b8be569333
+- RGPD concretement : https://www.wanadev.fr/135-rgpd-que-faire-concretement-voici-les-points-principaux-sur-lesquels-agir-pour-etre-en-regle-avec-le-rgpd/
 
 ##### Articles
 - Creating User-friendly forms : https://blog.prototypr.io/creating-user-friendly-forms-46e3f7f4eef2?ref=uxdesignweekly
