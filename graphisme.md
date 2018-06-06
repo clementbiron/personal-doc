@@ -36,6 +36,10 @@
 - https://www.fidele-editions.com/
 - http://www.co-bay.com/dasein/index.php?lang=fr
 
+#### Impression
+- Impression Riso et façonnage : http://papiermachine.fr/index.html
+- Letterpress : http://sacres-caracteres.com/
+
 ------
 ### Divers
 - Branding, packaging & opinion : http://bpando.org/
@@ -45,4 +49,4 @@
 
 -----
 ### Studios & agences
--Fostertype : https://www.fostertype.com/portfolio
+- Fostertype : https://www.fostertype.com/portfolio
