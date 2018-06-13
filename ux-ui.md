@@ -35,9 +35,10 @@
 - Icons : https://iconmonstr.com/
 - Icons : https://thenounproject.com/
 
-##### Studio 
+##### Studio & Agences
 - Waaark : https://waaark.com/fr/
 - Active Therory : https://activetheory.net
+- Octave & Octave : http://www.octaveoctave.com/
 
 ##### Tips
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
