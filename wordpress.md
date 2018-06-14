@@ -6,6 +6,9 @@
 **Rest API**
 - Client JavaScript : https://www.npmjs.com/package/wpapi
 
+**Wp Query**
+- WordPress Query Comprehensive Reference : https://github.com/luetkemj/wp-query-ref
+
 **ACF**
 - Extensions : http://awesomeacf.com/
 - Image responsive : http://aaronrutley.com/responsive-images-in-wordpress-with-acf/
