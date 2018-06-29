@@ -34,6 +34,7 @@
 - UI movement : https://uimovement.com/
 - Icons : https://iconmonstr.com/
 - Icons : https://thenounproject.com/
+- Examples of UI : https://uidb.io/
 
 ##### Studio & Agences
 - Waaark : https://waaark.com/fr/
