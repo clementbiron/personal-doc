@@ -2,6 +2,7 @@
 
 ##### Méthodes
 - http://practicaluxmethods.com/
+- http://www.designdeservices.org
 
 ##### Design sprint
 - Design Sprint Kit : https://designsprintkit.withgoogle.com/
