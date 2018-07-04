@@ -51,3 +51,4 @@
 ### Studios & agences
 - Fostertype : https://www.fostertype.com/portfolio
 - http://www.agnesdahanstudio.com/
+- https://www.pentagram.com
