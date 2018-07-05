@@ -35,6 +35,7 @@ ___
 - https://24ways.org/2017/design-systems-and-css-grid/
 - https://mozilladevelopers.github.io/playground/css-grid/
 - https://switch.paris/blog/construire-une-grille-produits-avec-css-grid-aujourdhui
+- https://css-tricks.com/css-grid-in-ie-css-grid-and-the-new-autoprefixer/
 
 ##### Ressources
 - Grid by example : https://gridbyexample.com/
