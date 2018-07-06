@@ -5,6 +5,7 @@
 - [La Cascade](https://la-cascade.io/flexbox-guide-complet/)
 - [Css-tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b
+- https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc
 
 ##### Bugs
 - La bible : [https://github.com/philipwalton/flexbugs](https://github.com/philipwalton/flexbugs)
