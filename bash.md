@@ -12,3 +12,6 @@
   - sudo chmod 600 ~/.ssh/id_rs
   - sudo chmod 600 ~/.ssh/id_rs.pub
   - sudo chmod 755 ~/.ssh
+
+**Ressources**
+- La bash bible : https://github.com/dylanaraps/pure-bash-bible
