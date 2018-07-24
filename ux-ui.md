@@ -7,6 +7,7 @@
 - http://practicaluxmethods.com/
 - http://www.designdeservices.org
 - http://www.usabilitybok.org/
+- http://atelier-collaboratif.com/
 
 ##### Design sprint
 - Design Sprint Kit : https://designsprintkit.withgoogle.com/
