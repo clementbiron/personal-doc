@@ -44,6 +44,7 @@
 - Icons : https://iconmonstr.com/
 - Icons : https://thenounproject.com/
 - Examples of UI : https://uidb.io/
+- Logos de marques : https://worldvectorlogo.com
 
 ##### Studio & Agences
 - Waaark : https://waaark.com/fr/
