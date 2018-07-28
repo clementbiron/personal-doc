@@ -6,3 +6,6 @@
 
 **RGPD**
 - Cookie Manager tarteaucitron.js https://opt-out.ferank.eu/
+
+**Front**
+- Front end performance checklist : https://github.com/thedaviddias/Front-End-Performance-Checklist
