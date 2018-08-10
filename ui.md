@@ -7,6 +7,7 @@
 - Examples of UI : https://uidb.io/
 - Logos de marques : https://worldvectorlogo.com
 - Mockup : https://themockup.club
+- https://neede.co/#/
 
 ##### Studio & Agences
 - Waaark : https://waaark.com/fr/
