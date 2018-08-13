@@ -45,6 +45,9 @@
 **Confs**
 - WPTech 2018 : https://github.com/yannkozon/wptech-2018
 
+**Gut**
+- https://imathi.eu/2018/08/12/tuttogut-01/
+
 ---
 
 #### WP CLI
