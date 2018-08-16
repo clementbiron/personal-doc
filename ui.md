@@ -9,6 +9,9 @@
 - Mockup : https://themockup.club
 - https://neede.co/#/
 
+##### Fonts
+- Fonts That People Actually Use : https://icons8.com/fonts/
+
 ##### Studio & Agences
 - Waaark : https://waaark.com/fr/
 - Active Therory : https://activetheory.net
