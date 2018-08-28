@@ -24,6 +24,7 @@
 - UX & UI : quels outils de design, pour quels workflows de travail ? https://medium.com/designers-interactifs/ux-ui-quels-outils-de-design-pour-quels-workflows-de-travail-2f9df9fe2558
 - A DevTools for Designers : https://uxdesign.cc/a-devtools-for-designers-2342aab88c06
 - Laws of UX : https://lawsofux.com/
+- Jared M. Spool articles : https://articles.uie.com/all/
 
 ##### Ressources
 - Un guide pour devenir UX designer https://medium.com/designers-interactifs/un-guide-pour-devenir-ux-designer-ff560fee6d41
