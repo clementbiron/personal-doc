@@ -18,6 +18,8 @@
 ##### Icons
 - https://iconmonstr.com/
 - https://thenounproject.com/
+- https://www.streamlineicons.com/
+- https://geticonjar.com/
 
 ##### Divers
 - Liste de ressources diverses : http://designresources.party/
