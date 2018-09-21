@@ -26,6 +26,9 @@
   - ACF Columns : https://fr.wordpress.org/plugins/acf-columns/
   - https://github.com/MarieComet/MC-ACF-Flexible-Template/
   
+**Polylang**
+- Auto translate existing media : https://github.com/aucor/polylang-translate-existing-media
+  
 **RGPD**
 - https://wordpress.org/plugins/gdpr/
   
