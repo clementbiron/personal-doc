@@ -14,6 +14,7 @@
 ##### Colors
 - Google, but for colors : https://picular.co/
 - The biggest collection of official brand color codes around : https://brandcolors.net/
+- https://www.colorbox.io/
 
 ##### Icons
 - https://iconmonstr.com/
