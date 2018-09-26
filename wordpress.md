@@ -28,6 +28,7 @@
   
 **Polylang**
 - Auto translate existing media : https://github.com/aucor/polylang-translate-existing-media
+- Disable language selector : https://github.com/aucor/polylang-smart-language-select-disabler
   
 **RGPD**
 - https://wordpress.org/plugins/gdpr/
