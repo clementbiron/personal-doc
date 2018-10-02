@@ -30,6 +30,7 @@
 - Emergence, detecting and manipulating elements in the browser : https://github.com/xtianmiller/emergence.js
 - A simple and fast API to monitor elements as you scroll : https://github.com/stutrek/scrollMonitor
 - Animate on scroll library : https://github.com/michalsnik/aos
+- Performance focused, lightweight scroll animation library: https://github.com/mciastek/sal
 
 ##### Masonry layout 
 - Masonry : https://github.com/callmecavs/bricks.js
