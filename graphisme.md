@@ -27,6 +27,7 @@
 - Ubertype : http://www.ubertype.de/
 - Fontsmith : https://www.fontsmith.com/
 - Feedtype : https://feedtype.ca
+- Milieu Grotesque : https://www.milieugrotesque.com/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
