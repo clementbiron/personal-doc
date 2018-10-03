@@ -56,3 +56,6 @@
 ##### Divers
 - Easy Toggle State : https://twikito.github.io/easy-toggle-state/
 
+##### Sticky
+- HC sticky : https://github.com/somewebmedia/hc-sticky
+
