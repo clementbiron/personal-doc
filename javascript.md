@@ -59,3 +59,6 @@
 ##### Sticky
 - HC sticky : https://github.com/somewebmedia/hc-sticky
 
+##### Carousel
+- Flickity : https://flickity.metafizzy.co/
+
