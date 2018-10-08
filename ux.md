@@ -11,6 +11,7 @@
 - http://atelier-collaboratif.com/
 - Sentence Completion : https://uxmind.eu/2014/07/16/sentence-completion/
 - Positive emotional granularity cards : http://studiolab.ide.tudelft.nl/diopd/wp-content/uploads/2016/06/positive_emotional-granularity_cards.pdf 
+- Questionnaire UX AttrakDiff version française : https://uxmind.eu/2015/09/30/outil-attrakdiff-version-francaise/
 
 ##### Design sprint
 - Design Sprint Kit : https://designsprintkit.withgoogle.com/
