@@ -10,6 +10,7 @@
 - http://www.usabilitybok.org/
 - http://atelier-collaboratif.com/
 - Sentence Completion : https://uxmind.eu/2014/07/16/sentence-completion/
+- Positive emotional granularity cards : http://studiolab.ide.tudelft.nl/diopd/wp-content/uploads/2016/06/positive_emotional-granularity_cards.pdf 
 
 ##### Design sprint
 - Design Sprint Kit : https://designsprintkit.withgoogle.com/
