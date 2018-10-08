@@ -9,6 +9,7 @@
 - http://www.designdeservices.org
 - http://www.usabilitybok.org/
 - http://atelier-collaboratif.com/
+- Sentence Completion : https://uxmind.eu/2014/07/16/sentence-completion/
 
 ##### Design sprint
 - Design Sprint Kit : https://designsprintkit.withgoogle.com/
