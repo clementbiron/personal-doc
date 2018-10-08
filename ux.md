@@ -2,6 +2,7 @@
 
 ##### Actus
 - https://newflux.fr/
+- https://uxmind.eu/
 
 ##### Méthodes
 - http://practicaluxmethods.com/
@@ -42,3 +43,8 @@
 - Analyser les protos https://maze.design/
 - Test utilisateur distant : https://www.testapic.com/
 
+##### Confs
+- Methodes de design UX : revolutionnez votre coffre à outils ! - Soiree TLMUX novembre 2015 : https://fr.slideshare.net/Carine_Lallemand/mthodes-de-design-ux-rvolutionnez-votre-coffre-outils-soire-tlmux-novembre-2015
+
+##### Livres 
+- Méthodes de desin UX : https://www.eyrolles.com/Informatique/Livre/methodes-de-design-ux-9782212673982
