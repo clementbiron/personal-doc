@@ -62,4 +62,5 @@ ___
 #### Divers
 - [Modern and simple css @font-face generator](https://transfonter.org/)
 - Advanced CSS-Only Form Styling : https://jonathan-harrell.com/advanced-css-form-styling/
+- 30 seconds of CSS : https://30-seconds.github.io/30-seconds-of-css/
 
