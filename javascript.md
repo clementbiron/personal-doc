@@ -42,6 +42,7 @@
 
 ##### Fonts
 - Font Face Observer is a fast and simple web font loader : https://fontfaceobserver.com/
+- Lettering.js in vanilla JavaScript : https://github.com/yuanqing/charming
 
 ##### Lightbox
 - baguetteBox : https://github.com/feimosi/baguetteBox.js
