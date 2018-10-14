@@ -3,6 +3,7 @@
 #### Inpsiration
 - An independent archive of typography : https://fontsinuse.com/
 - Trending in Type : https://www.typewolf.com/
+- bjrtypo : http://bjrtypo.com/
 
 #### Fonderie 
 - Atipo : http://atipofoundry.com/
@@ -28,6 +29,7 @@
 - Fontsmith : https://www.fontsmith.com/
 - Feedtype : https://feedtype.ca
 - Milieu Grotesque : https://www.milieugrotesque.com/
+- Uniontype : https://www.uniontype.co/fonts/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
