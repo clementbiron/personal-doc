@@ -64,4 +64,5 @@ ___
 - Advanced CSS-Only Form Styling : https://jonathan-harrell.com/advanced-css-form-styling/
 - 30 seconds of CSS : https://30-seconds.github.io/30-seconds-of-css/
 - Animated burger menu icons : https://codepen.io/ainalem/pen/LJYRxz/
+- Pure CSS Toggle Buttons : https://codepen.io/himalayasingh/pen/EdVzNL
 
