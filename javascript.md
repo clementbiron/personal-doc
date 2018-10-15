@@ -63,3 +63,6 @@
 ##### Carousel
 - Flickity : https://flickity.metafizzy.co/
 
+##### Lazyload
+- Verlok : https://github.com/verlok/lazyload
+
