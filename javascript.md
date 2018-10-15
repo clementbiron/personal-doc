@@ -66,3 +66,5 @@
 ##### Lazyload
 - Verlok : https://github.com/verlok/lazyload
 
+#### SVG
+- Use external SVG spritemaps today : https://github.com/jonathantneal/svg4everybody
