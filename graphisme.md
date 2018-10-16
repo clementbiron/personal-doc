@@ -30,6 +30,7 @@
 - Feedtype : https://feedtype.ca
 - Milieu Grotesque : https://www.milieugrotesque.com/
 - Uniontype : https://www.uniontype.co/fonts/
+- Archetype foundry : https://archetype-foundry.com/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
