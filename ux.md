@@ -33,6 +33,7 @@
 ##### Ressources
 - Un guide pour devenir UX designer https://medium.com/designers-interactifs/un-guide-pour-devenir-ux-designer-ff560fee6d41
 - Free wireframe for XD : https://www.behance.net/gallery/55462459/Wires-free-wireframe-kits-for-Adobe-XD
+- Personas avatar generator : https://personas.draftbit.com/
 
 ##### Divers
 - Really good UX : https://www.reallygoodux.io/
