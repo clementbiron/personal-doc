@@ -29,6 +29,7 @@
 - A DevTools for Designers : https://uxdesign.cc/a-devtools-for-designers-2342aab88c06
 - Laws of UX : https://lawsofux.com/
 - Jared M. Spool articles : https://articles.uie.com/all/
+- http://www.uxbooth.com/articles/
 
 ##### Ressources
 - Un guide pour devenir UX designer https://medium.com/designers-interactifs/un-guide-pour-devenir-ux-designer-ff560fee6d41
