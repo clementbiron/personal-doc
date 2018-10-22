@@ -8,6 +8,7 @@
 
 **RGPD**
 - Cookie Manager tarteaucitron.js https://opt-out.ferank.eu/
+- Consent Management : https://www.quantcast.com/gdpr/consent-management-solution/
 
 **Front**
 - Front end performance checklist : https://github.com/thedaviddias/Front-End-Performance-Checklist
