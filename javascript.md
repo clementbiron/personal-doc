@@ -31,6 +31,7 @@
 - A simple and fast API to monitor elements as you scroll : https://github.com/stutrek/scrollMonitor
 - Animate on scroll library : https://github.com/michalsnik/aos
 - Performance focused, lightweight scroll animation library: https://github.com/mciastek/sal
+- Standalone parallax scrolling for mobile and desktop with CSS variables : https://github.com/electerious/basicScroll
 
 ##### Masonry layout 
 - Masonry : https://github.com/callmecavs/bricks.js
