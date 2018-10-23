@@ -10,6 +10,7 @@
 - Sass intellisence (auto complétion / refacto) : SCSS IntelliSense (mrmlnc.vscode-scss)
 
 **Terminaux** 
+
 Pour avoir le choix du terminal, intaller l'extension Shell Launcher https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher
 
 Configuration User settings :
