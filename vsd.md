@@ -8,7 +8,32 @@
 
 - Alignemment de code : Better Align (wwm.better-align)
 - Sass intellisence (auto complétion / refacto) : SCSS IntelliSense (mrmlnc.vscode-scss)
-- ...
+- Plusieurs terminaux sous Windows avec Shell Launcher https://marketplace.visualstudio.com/items?itemName=Tyriar.shell-launcher
+User settings :
+```
+ "shellLauncher.shells.windows": [
+        {
+            "shell": "C:\\WINDOWS\\system32\\cmd.exe",
+            "label": "cmd"
+        },
+        {
+            "shell": "C:\\Windows\\SysWOW64\\WindowsPowerShell\\v1.0\\powershell.exe",
+            "label": "PowerShell"
+        },
+        {
+            "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+            "label": "Git bash"
+        },
+
+    ]
+ ```
+ Key binding
+ ```
+ {
+    "key": "ctrl+shift+t",
+    "command": "shellLauncher.launch"
+}
+```
 
 **Shortcuts**
 
