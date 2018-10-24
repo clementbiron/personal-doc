@@ -30,6 +30,7 @@
 - Laws of UX : https://lawsofux.com/
 - Jared M. Spool articles : https://articles.uie.com/all/
 - http://www.uxbooth.com/articles/
+- The ultimate guide to proper use of animation in UX : https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
 
 ##### Ressources
 - Un guide pour devenir UX designer https://medium.com/designers-interactifs/un-guide-pour-devenir-ux-designer-ff560fee6d41
