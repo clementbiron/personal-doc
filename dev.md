@@ -12,6 +12,7 @@
 
 **Front**
 - Front end performance checklist : https://github.com/thedaviddias/Front-End-Performance-Checklist
+- The state of CSS Masonry layout : https://regisphilibert.com/blog/2017/12/pure-css-masonry-layout-with-flexbox-grid-columns-in-2018/
 
 **Cheatsheets**
 - https://devhints.io/
