@@ -6,7 +6,7 @@ L'hébergeur ne permet pas d'utiliser ou d'installer Yarn, passer par `npm` pour
 
 Pour rendre la commande disponible : 
 
-1. Dans CPanel, configurer une nouvelle application node
+1. Dans cPanel, configurer une nouvelle application node
 ```
 Application Root : public_html/../build
 Application URL : exemple.com/build
