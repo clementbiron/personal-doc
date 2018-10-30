@@ -15,6 +15,7 @@
 * [Intellij Idea](intellij-idea.md)
 * [JavaScript](javascript.md)
 * [Markdown](markdown.md)
+* [O2swtich](o2swtich.md)
 * [Performances](perfs.md)
 * [PHP](php.md)
 * [Photographie](photographie.md)
