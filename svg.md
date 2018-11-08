@@ -6,6 +6,7 @@
 - [Sprite](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 - Comprendre SVG preserveAspectRatio : https://la-cascade.io/comprendre-svg-preserveaspectratio/
 - Animated SVG Radial Progress Bars : https://daverupert.com/2018/03/animated-svg-radial-progress-bars/
+- SVG Sprite Workflow That Works : https://medium.com/@iamryanyu/svg-sprite-workflow-that-works-f5609d4d6144
 
 ##### Bugs
 - [Safari 8 (iOS & Mac OS) doesn't render injected SVG sprites when defined later, after the actual svg > use tags](https://gist.github.com/rhawbert/05c7a758cb22d2a1ed24)
