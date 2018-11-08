@@ -13,6 +13,7 @@
 
 ##### Outils
 - URL-encoder for SVG : https://yoksel.github.io/url-encoder/
+- SVGO online : https://jakearchibald.github.io/svgomg/
 
 ##### Exemples
 - Seamless infinite loop with SVG stroke and CSS animation https://codepen.io/Twikito/pen/POPjBe
