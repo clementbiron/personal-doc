@@ -44,3 +44,5 @@ Usage : `ctrl+shift+t`
 
 - `ctrl + shift + =` align assignement (avec l'extension Better Align) 
 - `ctrl + d` selects next occurrence of word under cursor or of the current selection
+- `ctrl + pagedown` previous tab
+- `ctrl + pageup` news tab
