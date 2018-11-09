@@ -59,6 +59,9 @@ ___
 #### Custom properties
 - Custom properties strategy guide : https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/
 ___
+#### Transition
+- CSS transition auto width : https://stackoverflow.com/questions/38643529/css-transition-auto-width
+___
 #### Divers
 - [Modern and simple css @font-face generator](https://transfonter.org/)
 - Advanced CSS-Only Form Styling : https://jonathan-harrell.com/advanced-css-form-styling/
@@ -66,3 +69,5 @@ ___
 - Animated burger menu icons : https://codepen.io/ainalem/pen/LJYRxz/
 - Pure CSS Toggle Buttons : https://codepen.io/himalayasingh/pen/EdVzNL
 - CSS Border-Radius Can Do That ? https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae et https://9elements.github.io/fancy-border-radius/#30.30.30.30--.
+
+
