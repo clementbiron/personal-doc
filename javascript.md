@@ -32,6 +32,7 @@
 - Animate on scroll library : https://github.com/michalsnik/aos
 - Performance focused, lightweight scroll animation library: https://github.com/mciastek/sal
 - Standalone parallax scrolling for mobile and desktop with CSS variables : https://github.com/electerious/basicScroll
+- Smooth Scroll : https://github.com/cferdinandi/smooth-scroll
 
 ##### Masonry layout 
 - Masonry : https://github.com/callmecavs/bricks.js
