@@ -44,6 +44,7 @@
 ##### Fonts
 - Font Face Observer is a fast and simple web font loader : https://fontfaceobserver.com/
 - Lettering.js in vanilla JavaScript : https://github.com/yuanqing/charming
+- document.fonts.ready : https://stackoverflow.com/questions/5680013/how-to-be-notified-once-a-web-font-has-loaded
 
 ##### Lightbox
 - baguetteBox : https://github.com/feimosi/baguetteBox.js
