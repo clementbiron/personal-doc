@@ -41,6 +41,7 @@
 - Anime JS : https://github.com/juliangarnier/anime/
 - GSAP : https://greensock.com/gsap
 - Page transitions : https://github.com/luruke/barba.js
+- Popmotion : https://popmotion.io
 
 ##### Fonts
 - Font Face Observer is a fast and simple web font loader : https://fontfaceobserver.com/
