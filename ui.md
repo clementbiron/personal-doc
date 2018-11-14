@@ -31,3 +31,9 @@
 - A collection of useful online resources for designers: https://neede.co/#/
 - Produit et Design français : http://www.lafrenchtouch.fm/
 - Everyone needs a base to start from. We are DesignBase : https://www.felixjoy.co/designbase
+
+##### Collections
+- http://collectui.com/
+- https://interfaces.pro/design-guidelines/
+- http://uigarage.net/
+- https://www.uisources.com/interactions
