@@ -2,6 +2,7 @@
 
 ##### Fonts
 - Fonts That People Actually Use : https://icons8.com/fonts/
+- Font pairing : https://fontjoy.com
 
 ##### Studio & Agences
 - Waaark : https://waaark.com/fr/
