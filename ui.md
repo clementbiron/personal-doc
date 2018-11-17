@@ -34,7 +34,7 @@
 
 ##### Collections
 - http://collectui.com/
-- https://interfaces.pro/design-guidelines/
+- https://interfaces.pro/
 - http://uigarage.net/
 - https://www.uisources.com/interactions
 - https://pttrns.com
