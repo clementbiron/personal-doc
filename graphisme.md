@@ -33,6 +33,8 @@
 - Archetype foundry : https://archetype-foundry.com/
 - Sharptype : https://sharptype.co/typefaces/
 
+- Liste : https://type.lol/
+
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
 
