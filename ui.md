@@ -40,3 +40,4 @@
 - https://pttrns.com
 - https://uxarchive.com/
 - https://uiinteractions.com/
+- https://uimovement.com/
