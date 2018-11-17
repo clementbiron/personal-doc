@@ -37,3 +37,4 @@
 - https://interfaces.pro/design-guidelines/
 - http://uigarage.net/
 - https://www.uisources.com/interactions
+- https://pttrns.com
