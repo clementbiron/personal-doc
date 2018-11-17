@@ -15,6 +15,7 @@
 - Google, but for colors : https://picular.co/
 - The biggest collection of official brand color codes around : https://brandcolors.net/
 - https://www.colorbox.io/
+- https://colorhunt.co/
 
 ##### Icons
 - https://iconmonstr.com/
@@ -22,17 +23,20 @@
 - https://www.streamlineicons.com/
 - https://geticonjar.com/
 
+##### Toolkit
+- http://designresources.party/ 
+- https://neede.co/#/
+- http://www.sansfrancis.co/
+- https://www.felixjoy.co/designbase
+
 ##### Divers
-- Liste de ressources diverses : http://designresources.party/
-- UI movement : https://uimovement.com/
-- Examples of UI : https://uidb.io/
 - Logos de marques : https://worldvectorlogo.com
 - Mockup : https://themockup.club
-- A collection of useful online resources for designers: https://neede.co/#/
 - Produit et Design français : http://www.lafrenchtouch.fm/
 - Everyone needs a base to start from. We are DesignBase : https://www.felixjoy.co/designbase
 
 ##### Collections
+- https://uidb.io/
 - http://collectui.com/
 - https://interfaces.pro/
 - http://uigarage.net/
