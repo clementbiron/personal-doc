@@ -34,7 +34,6 @@
 - Logos de marques : https://worldvectorlogo.com
 - Mockup : https://themockup.club
 - Produit et Design français : http://www.lafrenchtouch.fm/
-- Everyone needs a base to start from. We are DesignBase : https://www.felixjoy.co/designbase
 
 ##### Collections
 - https://uidb.io/
