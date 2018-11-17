@@ -38,4 +38,4 @@
 - http://uigarage.net/
 - https://www.uisources.com/interactions
 - https://pttrns.com
-- htpps://uxarchive.com/
+- https://uxarchive.com/
