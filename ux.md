@@ -37,6 +37,7 @@
 - Free wireframe for XD : https://www.behance.net/gallery/55462459/Wires-free-wireframe-kits-for-Adobe-XD
 - Personas avatar generator : https://personas.draftbit.com/
 - UX myths : http://www.uxmyths.fr/
+- ux project checklist : https://uxchecklist.github.io/
 
 ##### Divers
 - Really good UX : https://www.reallygoodux.io/
