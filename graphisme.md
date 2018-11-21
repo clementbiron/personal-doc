@@ -32,6 +32,7 @@
 - Uniontype : https://www.uniontype.co/fonts/
 - Archetype foundry : https://archetype-foundry.com/
 - Sharptype : https://sharptype.co/typefaces/
+- Process Type Foundry : https://processtypefoundry.com/
 
 - Liste : https://type.lol/
 
