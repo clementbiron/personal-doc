@@ -52,3 +52,4 @@
 
 ##### Shops
 - https://lstore.graphics
+- https://greatsimple.io/
