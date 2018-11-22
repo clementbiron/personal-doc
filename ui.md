@@ -23,6 +23,7 @@
 - https://thenounproject.com/
 - https://www.streamlineicons.com/
 - https://geticonjar.com/
+- https://www.emojious.com/icons
 
 ##### Toolkit
 - http://designresources.party/ 
