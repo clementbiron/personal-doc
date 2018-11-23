@@ -55,3 +55,4 @@
 - https://lstore.graphics
 - https://greatsimple.io/
 - https://www.uplabs.com/store
+- https://buninux.com/index.html
