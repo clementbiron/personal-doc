@@ -33,7 +33,7 @@
 - Archetype foundry : https://archetype-foundry.com/
 - Sharptype : https://sharptype.co/typefaces/
 - Process Type Foundry : https://processtypefoundry.com/
-
+- Frere Jones : https://frerejones.com/
 - Liste : https://type.lol/
 
 #### Free fonts
