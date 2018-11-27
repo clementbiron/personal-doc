@@ -34,8 +34,11 @@
 
 ##### Divers
 - Logos de marques : https://worldvectorlogo.com
-- Mockup : https://themockup.club
 - Produit et Design français : http://www.lafrenchtouch.fm/
+
+##### Mockup
+- https://designcode.io/angle
+- Mockup : https://themockup.club
 
 ##### Collections
 - https://uidb.io/
