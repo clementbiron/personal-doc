@@ -65,5 +65,10 @@
 - https://www.pentagram.com
 - http://andstudio.lt/
 
+-----
 ### Illustrateurs
 - Guillaume Kurkdjian : http://guillaumekurkdjian.com/
+
+-----
+### Actus
+- https://wertn.com/
