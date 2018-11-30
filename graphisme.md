@@ -64,3 +64,6 @@
 - http://www.agnesdahanstudio.com/
 - https://www.pentagram.com
 - http://andstudio.lt/
+
+### Illustrateurs
+- Guillaume Kurkdjian : http://guillaumekurkdjian.com/
