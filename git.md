@@ -1,6 +1,6 @@
 #### GIT
 **Commit**
-- Commiter et stage files (fichiers modifiés et supprimés uniquement) : commit -a -m "mon texte"
+- Commiter et stage files (fichiers modifiés et supprimés uniquement) : `git commit -a -m "mon texte"`
 
 **Tag**
 - Créer un tag : `git tag -a v1.0.0 -m "lorem"`
