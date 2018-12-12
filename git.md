@@ -15,6 +15,7 @@
 **Clone**
 - Cloner un repo : git clone https://monrepo nomDuDossierACreer
 - Cloner une branch d'une repo : git clone -b branch https://monrepo nomDuDossierACreer
+- Cloner le contenu uniquement : git clone https://monrepo .
 
 **Pull**
 - récupérer un tag en particulier : git pull origin branch:tag
