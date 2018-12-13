@@ -26,6 +26,7 @@
 * [UI](ui.md)
 * [Visual Studio Code](vsd.md)
 * [Wamp](wamp.md)
+* [Windows](windows.md)
 * [WordPress](wordpress.md)
 
 
