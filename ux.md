@@ -47,6 +47,7 @@
 - 10 Best UX Design Books Every UX Designer Should Read In 2018 : https://think360studio.com/10-best-ux-design-books-every-ux-designer-should-read-in-2018/
 - https://www.thisisservicedesigndoing.com/
 - https://www.innovationgames.com/
+- Méthodes de desin UX : https://www.eyrolles.com/Informatique/Livre/methodes-de-design-ux-9782212673982
 
 ##### Tests
 - Analyser les protos https://maze.design/
@@ -54,7 +55,8 @@
 - Tests d'usabilité à distance : https://www.userfeel.com/fr
 
 ##### Confs
-- Methodes de design UX : revolutionnez votre coffre à outils ! - Soiree TLMUX novembre 2015 : https://fr.slideshare.net/Carine_Lallemand/mthodes-de-design-ux-rvolutionnez-votre-coffre-outils-soire-tlmux-novembre-2015
+- Methodes de design UX : revolutionnez votre coffre à outils ! 
+- Soiree TLMUX novembre 2015 : https://fr.slideshare.net/Carine_Lallemand/mthodes-de-design-ux-rvolutionnez-votre-coffre-outils-soire-tlmux-novembre-2015
 
-##### Livres 
-- Méthodes de desin UX : https://www.eyrolles.com/Informatique/Livre/methodes-de-design-ux-9782212673982
+##### Wording :
+- https://www.24joursdeweb.fr/2018/importance-du-wording-dans-les-interfaces-d-aujourdhui/
