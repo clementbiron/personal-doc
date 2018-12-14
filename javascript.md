@@ -67,6 +67,7 @@
 
 ##### Carousel
 - Flickity : https://flickity.metafizzy.co/
+- Glider : https://nickpiscitelli.github.io/Glider.js/
 
 ##### Lazyload
 - Verlok : https://github.com/verlok/lazyload
