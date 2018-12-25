@@ -16,3 +16,6 @@
   - ruby='C:/Ruby23-x64/bin/ruby'
   - gem='C:/Ruby23-x64/bin/gem'
   - sass='C:/Ruby23-x64/bin/sass'
+
+**Mixins**
+- https://github.com/LukyVj/family.scss
