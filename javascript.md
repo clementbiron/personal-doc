@@ -58,6 +58,7 @@
 - Cheapass Parallax : https://daverupert.com/2018/02/cheapass-parallax/
 - Scrollmonitor parallax : https://github.com/stutrek/scrollmonitor-parallax
 - Standalone parallax scrolling with CSS variables : https://basicscroll.electerious.com/
+- Rallax : https://github.com/ChrisCavs/rallax.js
 
 ##### Divers
 - Easy Toggle State : https://twikito.github.io/easy-toggle-state/
