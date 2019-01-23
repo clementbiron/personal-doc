@@ -61,3 +61,6 @@
 - https://buninux.com/index.html
 - https://craftwork.design/
 - https://zemys.com/
+
+##### Sound design
+- https://uisounds.prototypr.io/sounds/
