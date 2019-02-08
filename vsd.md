@@ -46,3 +46,4 @@ Usage : `ctrl+shift+t`
 - `ctrl + d` selects next occurrence of word under cursor or of the current selection
 - `ctrl + pagedown` next tab
 - `ctrl + pageup` previous tab
+- `ctrl + shift + L` select all occurence of selected word
