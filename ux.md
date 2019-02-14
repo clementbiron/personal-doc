@@ -65,3 +65,6 @@
 
 ##### Wording :
 - https://www.24joursdeweb.fr/2018/importance-du-wording-dans-les-interfaces-d-aujourdhui/
+
+##### Designer :
+- https://zhurankou.com/index.html
