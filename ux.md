@@ -41,6 +41,7 @@
 - Ux project checklist : https://uxchecklist.github.io
 - A Complete List Of UX Deliverables : https://uxplanet.org/a-complete-list-of-ux-deliverables-d62ccf1de434
 - Templates et ressources : https://www.haigo.fr/outils_ressources_design_thinking/
+- UX Myths : https://uxmyths.com/
 
 ##### Divers
 - Really good UX : https://www.reallygoodux.io/
