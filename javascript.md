@@ -66,6 +66,7 @@
 
 ##### Sticky
 - HC sticky : https://github.com/somewebmedia/hc-sticky
+- stickybits : https://github.com/dollarshaveclub/stickybits
 
 ##### Carousel
 - Flickity : https://flickity.metafizzy.co/
