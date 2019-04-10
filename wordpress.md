@@ -1,5 +1,8 @@
 #### WordPress
 
+**Articles**
+- How not to be depressed when working with WordPress : https://devops-life.com/blog/2019/04/10/state-of-wordpress-in-2019/
+
 **Template hierarchy**
 - https://developer.wordpress.org/files/2014/10/wp-hierarchy.png
 
