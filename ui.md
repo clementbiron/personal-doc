@@ -53,6 +53,7 @@
 - https://uxarchive.com/
 - https://uiinteractions.com/
 - https://uimovement.com/
+- https://mobbin.design/
 
 ##### Inspiration
 - http://barkligallery.com/
