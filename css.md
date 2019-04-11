@@ -60,8 +60,9 @@ ___
 #### Custom properties
 - Custom properties strategy guide : https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/
 ___
-#### Transition
+#### Transition et animations
 - CSS transition auto width : https://stackoverflow.com/questions/38643529/css-transition-auto-width
+- https://cssicon.space/#/animate
 ___
 #### Divers
 - [Modern and simple css @font-face generator](https://transfonter.org/)
