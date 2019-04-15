@@ -42,7 +42,8 @@
 ##### Animation tools
 - Anime JS : https://github.com/juliangarnier/anime/
 - GSAP : https://greensock.com/gsap
-- Page transitions : https://github.com/luruke/barba.js
+- Pages transitions : https://github.com/luruke/barba.js
+- Pages transitions : https://github.com/Dogstudio/highway/blob/master/README.md
 - Popmotion : https://popmotion.io
 
 ##### Fonts
