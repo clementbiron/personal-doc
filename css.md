@@ -62,7 +62,7 @@ ___
 ___
 #### Transition et animations
 - CSS transition auto width : https://stackoverflow.com/questions/38643529/css-transition-auto-width
-- https://cssicon.space/#/animate
+- CSS ICON : https://cssicon.space/#/animate
 ___
 #### Divers
 - [Modern and simple css @font-face generator](https://transfonter.org/)
