@@ -18,6 +18,7 @@
 - The biggest collection of official brand color codes around : https://brandcolors.net/
 - https://www.colorbox.io/
 - https://colorhunt.co/
+- https://www.colorinspire.io/
 
 ##### Icons
 - https://iconmonstr.com/
