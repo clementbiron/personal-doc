@@ -43,6 +43,7 @@
 - Templates et ressources : https://www.haigo.fr/outils_ressources_design_thinking/
 - UX Myths : https://uxmyths.com/
 - Design checklist : https://www.checklist.design/
+- https://digitalpsychology.io/ : free library of psychological principles and examples for inspiration to enhance the customer experience and connect with your users.
 
 ##### Divers
 - Really good UX : https://www.reallygoodux.io/
