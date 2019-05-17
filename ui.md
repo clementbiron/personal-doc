@@ -27,6 +27,7 @@
 - https://geticonjar.com/
 - https://www.emojious.com/icons
 - https://www.swifticons.com/all-icons
+- https://boxicons.com/ 
 
 ##### Toolkit
 - http://designresources.party/ 
