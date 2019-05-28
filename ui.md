@@ -71,3 +71,9 @@
 
 ##### Sound design
 - https://uisounds.prototypr.io/sounds/
+
+##### Illustrations
+- https://www.drawkit.io/
+- https://www.isometriclove.com/
+- https://www.humaaans.com/
+- https://absurd.design/illustrations.html
