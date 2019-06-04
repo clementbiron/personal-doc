@@ -64,6 +64,7 @@
 - http://www.agnesdahanstudio.com/
 - https://www.pentagram.com
 - http://andstudio.lt/
+- https://koto.studio/
 
 -----
 ### Illustrateurs
