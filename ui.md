@@ -9,6 +9,7 @@
 - Active Therory : https://activetheory.net
 - Octave & Octave : http://www.octaveoctave.com/
 - Significa : https://www.significa.co/
+- Planetary : https://planetary.co/
 
 ##### Tips
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
