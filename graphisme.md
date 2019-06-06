@@ -69,6 +69,7 @@
 -----
 ### Illustrateurs
 - Guillaume Kurkdjian : http://guillaumekurkdjian.com/
+- https://www.almasty.com/
 
 -----
 ### Actus
