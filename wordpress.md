@@ -28,6 +28,8 @@
   - Extensions pour créer des formulaires avec des champs ACF : https://advancedforms.github.io/
   - ACF Columns : https://fr.wordpress.org/plugins/acf-columns/
   - https://github.com/MarieComet/MC-ACF-Flexible-Template/
+ - https://github.com/7studio/acf-svg-icon
+ - https://github.com/BeAPI/acf-svg-icon
   
 **Polylang**
 - Auto translate existing media : https://github.com/aucor/polylang-translate-existing-media
