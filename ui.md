@@ -21,6 +21,7 @@
 - https://www.colorbox.io/
 - https://colorhunt.co/
 - https://www.colorinspire.io/
+- https://colors.eva.design/
 
 ##### Icons
 - https://iconmonstr.com/
