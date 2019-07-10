@@ -39,6 +39,7 @@
 
 ##### Masonry layout 
 - Masonry : https://github.com/callmecavs/bricks.js
+- Shuffle https://github.com/Vestride/Shuffle/
 
 ##### Animation tools
 - Anime JS : https://github.com/juliangarnier/anime/
