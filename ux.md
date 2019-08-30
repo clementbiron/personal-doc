@@ -50,6 +50,7 @@
 ##### Divers
 - Really good UX : https://www.reallygoodux.io/
 - Little Big Details : http://littlebigdetails.com/
+- How Zenly Nailed It - Product Methods : https://fr.slideshare.net/MaximeBraud/how-zenly-nailed-it-product-analysis
 
 ##### Livres
 - 10 Best UX Design Books Every UX Designer Should Read In 2018 : https://think360studio.com/10-best-ux-design-books-every-ux-designer-should-read-in-2018/
