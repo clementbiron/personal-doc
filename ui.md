@@ -22,6 +22,7 @@
 - https://colorhunt.co/
 - https://www.colorinspire.io/
 - https://colors.eva.design/
+- https://colors.muz.li/
 
 ##### Icons
 - https://iconmonstr.com/
