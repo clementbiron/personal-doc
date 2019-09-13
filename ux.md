@@ -34,6 +34,7 @@
 - The ultimate guide to proper use of animation in UX : https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9
 - A comprehensive UX guide to project kickoffs : https://uxdesign.cc/a-comprehensive-ux-guide-to-project-kickoffs-1782e07bc8e6
 - 84 cognitive biases you should exploit to design better products  : https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html
+- Il manque un cercle au Design Thinking. Il se trouve dans l’Ikigai. : https://medium.com/com-plexus/il-manque-un-cercle-au-design-thinking-il-se-trouve-dans-likigai-2af33597477b
 
 ##### Ressources
 - Un guide pour devenir UX designer https://medium.com/designers-interactifs/un-guide-pour-devenir-ux-designer-ff560fee6d41
