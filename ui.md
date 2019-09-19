@@ -82,3 +82,6 @@
 - https://www.isometriclove.com/
 - https://www.humaaans.com/
 - https://absurd.design/illustrations.html
+
+##### Emails
+- https://emaillove.com/
