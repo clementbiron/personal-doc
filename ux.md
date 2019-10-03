@@ -65,7 +65,7 @@
 - Test utilisateur distant : https://www.testapic.com/
 - Tests d'usabilité à distance : https://www.userfeel.com/fr
 
-##### research
+##### Research
 - https://github.com/tellform/tellform/blob/master/README.md
 
 ##### Confs
@@ -74,6 +74,9 @@
 
 ##### Wording :
 - https://www.24joursdeweb.fr/2018/importance-du-wording-dans-les-interfaces-d-aujourdhui/
+
+##### Gamification :
+- https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/
 
 ##### Designer :
 - https://zhurankou.com/index.html
