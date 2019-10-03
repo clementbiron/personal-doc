@@ -10,6 +10,7 @@
 - Octave & Octave : http://www.octaveoctave.com/
 - Significa : https://www.significa.co/
 - Planetary : https://planetary.co/
+- hellomonday : https://www.hellomonday.com/
 
 ##### Tips
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
