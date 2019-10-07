@@ -33,6 +33,7 @@
 - https://www.emojious.com/icons
 - https://www.swifticons.com/all-icons
 - https://boxicons.com/ 
+- https://myicons.co/
 
 ##### Toolkit
 - http://designresources.party/ 
