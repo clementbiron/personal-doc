@@ -34,6 +34,7 @@
 - https://www.swifticons.com/all-icons
 - https://boxicons.com/ 
 - https://myicons.co/
+- https://remixicon.com/
 
 ##### Toolkit
 - http://designresources.party/ 
