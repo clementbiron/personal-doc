@@ -35,6 +35,7 @@
 - https://boxicons.com/ 
 - https://myicons.co/
 - https://remixicon.com/
+- https://symbolicons.com/
 
 ##### Toolkit
 - http://designresources.party/ 
