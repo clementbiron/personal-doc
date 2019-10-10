@@ -50,6 +50,7 @@
 - Logos de marques : https://worldvectorlogo.com
 - Produit et Design français : http://www.lafrenchtouch.fm/
 - The design bookmakrs : https://trello.com/b/vBrHxyl1/the-design-bookmarks
+- Awesome design tools : https://github.com/LisaDziuba/Awesome-Design-Tools
 
 ##### Mockup
 - https://designcode.io/angle
