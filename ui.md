@@ -81,6 +81,7 @@
 - https://craftwork.design/
 - https://zemys.com/
 - https://ui8.net/
+- https://www.designcuts.com/
 
 ##### Sound design
 - https://uisounds.prototypr.io/sounds/
