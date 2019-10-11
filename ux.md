@@ -47,6 +47,7 @@
 - UX Myths : https://uxmyths.com/
 - Design checklist : https://www.checklist.design/
 - https://digitalpsychology.io/ : free library of psychological principles and examples for inspiration to enhance the customer experience and connect with your users.
+- https://servicedesigntools.org/tools
 
 ##### Divers
 - Really good UX : https://www.reallygoodux.io/
