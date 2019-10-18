@@ -35,6 +35,7 @@
 - Process Type Foundry : https://processtypefoundry.com/
 - Frere Jones : https://frerejones.com/
 - Liste : https://type.lol/
+- neuebel : https://www.neuebel.com/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
