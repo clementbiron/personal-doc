@@ -13,6 +13,7 @@
 - Positive emotional granularity cards : http://studiolab.ide.tudelft.nl/diopd/wp-content/uploads/2016/06/positive_emotional-granularity_cards.pdf 
 - Questionnaire UX AttrakDiff version française : https://uxmind.eu/2015/09/30/outil-attrakdiff-version-francaise/
 - Le brief de design UX : qui, pourquoi, quand, comment ? https://medium.com/designers-interactifs/le-brief-de-design-ux-qui-pourquoi-quand-comment-673065a3cdbd
+- http://toolbox.hyperisland.com/ : a resource kit you can use to apply creative collaboration and unleash potential in your team or organization.
 
 ##### Design sprint
 - Design Sprint Kit : https://designsprintkit.withgoogle.com/
