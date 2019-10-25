@@ -81,6 +81,7 @@
 ##### Gamification :
 - https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/
 
-##### Designer :
+##### Designer & case study :
 - https://zhurankou.com/index.html
 - https://duanesmithdesign.com/
+- https://www.casestudy.club/
