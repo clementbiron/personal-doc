@@ -4,13 +4,16 @@
 - Fonts That People Actually Use : https://icons8.com/fonts/
 - Font pairing : https://fontjoy.com
 
-##### Studio & Agences
+##### Studio & Agences & Portfolio
 - Waaark : https://waaark.com/fr/
 - Active Therory : https://activetheory.net
 - Octave & Octave : http://www.octaveoctave.com/
 - Significa : https://www.significa.co/
 - Planetary : https://planetary.co/
 - hellomonday : https://www.hellomonday.com/
+- Simon Pan : http://simonpan.com/
+- Ginlane : https://www.ginlane.com/work/
+- instrument : https://www.instrument.com/work/
 
 ##### Tips
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
