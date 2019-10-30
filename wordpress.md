@@ -50,12 +50,14 @@
 - Rewrite Rules Inspector https://wordpress.org/plugins/rewrite-rules-inspector/
 - Snippets : https://hwk.fr/codes
 - A Deep Dive Into WordPress Automatic Updates : https://kinsta.com/blog/wordpress-automatic-updates/
+- We strive to make the world's best Premium WordPress Themes & Plugins and WooCommerce Extensions & Themes available for free : https://gpldl.com/search-the-repository/
 
 **Confs**
 - WPTech 2018 : https://github.com/yannkozon/wptech-2018
 
 **Gut**
 - https://imathi.eu/2018/08/12/tuttogut-01/
+
 
 ---
 
