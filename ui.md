@@ -54,6 +54,7 @@
 - Produit et Design français : http://www.lafrenchtouch.fm/
 - The design bookmakrs : https://trello.com/b/vBrHxyl1/the-design-bookmarks
 - Awesome design tools : https://github.com/LisaDziuba/Awesome-Design-Tools
+- 170+ collections of real content to populate all your designs.  : https://www.populate.design/
 
 ##### Mockup
 - https://designcode.io/angle
