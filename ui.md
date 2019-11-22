@@ -14,6 +14,7 @@
 - Simon Pan : http://simonpan.com/
 - Ginlane : https://www.ginlane.com/work/
 - instrument : https://www.instrument.com/work/
+- https://www.handsome.is/
 
 ##### Tips
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
