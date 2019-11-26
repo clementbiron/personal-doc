@@ -98,6 +98,9 @@
 - https://www.isometriclove.com/
 - https://www.humaaans.com/
 - https://absurd.design/illustrations.html
+- https://undraw.co/illustrations
+- https://icons8.com/ouch
+- https://www.manypixels.co/gallery/?
 
 ##### Emails
 - https://emaillove.com/
