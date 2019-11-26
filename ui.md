@@ -75,6 +75,7 @@
 - https://webframe.xyz/
 - Apps Screenshots : https://scrnshts.club/
 - https://saaspages.xyz/
+- https://search.muz.li/
 
 ##### Inspiration
 - http://barkligallery.com/
