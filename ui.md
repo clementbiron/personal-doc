@@ -15,6 +15,7 @@
 - Ginlane : https://www.ginlane.com/work/
 - instrument : https://www.instrument.com/work/
 - https://www.handsome.is/
+- https://www.automne.studio/
 
 ##### Tips
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
