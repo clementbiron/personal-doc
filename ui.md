@@ -50,6 +50,7 @@
 - https://uibundle.com/
 - https://www.invisionapp.com/inside-design/design-resources/
 - https://undesign.learn.uno
+- https://www.checklist.design/
 
 ##### Divers
 - Logos de marques : https://worldvectorlogo.com
