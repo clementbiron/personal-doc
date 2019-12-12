@@ -10,12 +10,12 @@
 - Octave & Octave : http://www.octaveoctave.com/
 - Significa : https://www.significa.co/
 - Planetary : https://planetary.co/
-- hellomonday : https://www.hellomonday.com/
+- Hellomonday : https://www.hellomonday.com/
 - Simon Pan : http://simonpan.com/
 - Ginlane : https://www.ginlane.com/work/
-- instrument : https://www.instrument.com/work/
-- https://www.handsome.is/
-- https://www.automne.studio/
+- Instrument : https://www.instrument.com/work/
+- Handsome : https://www.handsome.is/
+- Automne : https://www.automne.studio/
 
 ##### Tips
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
