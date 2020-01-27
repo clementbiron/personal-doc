@@ -58,6 +58,9 @@
 **Gut**
 - https://imathi.eu/2018/08/12/tuttogut-01/
 
+**Elementor**
+- https://trello.com/b/52NXAeg2/elementor-resources-for-and-by-the-community
+
 
 ---
 
