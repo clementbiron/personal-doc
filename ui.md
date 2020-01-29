@@ -19,6 +19,7 @@
 
 ##### Tips
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
+- Les pourquoi du design : http://lespourquoisdudesign.com/
 
 ##### Colors
 - Google, but for colors : https://picular.co/
