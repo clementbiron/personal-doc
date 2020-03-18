@@ -2,7 +2,7 @@
 
 Lire : http://ordi-genie.com/developpement-php/35-wamp-serveur/81-configuration-de-wamp
 
-**Error MySql**
+**Erreur MySql**
 
 Erreurs lors de l'import MySql incorrect datetime value '0000-00-00 00:00:00'
 
@@ -14,3 +14,8 @@ Par exemple (cas standard) , remplacer :
 sql-mode="STRICT_ALL_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_ZERO_DATE,NO_ZERO_IN_DATE,NO_AUTO_CREATE_USER"
 par
 sql-mode="STRICT_ALL_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER"
+
+**Erreur SSL**
+
+`Fatal error: Uncaught Exception: SSL certificate problem: unable to get local issuer certificate in...`
+A lire : https://stackoverflow.com/questions/28858351/php-ssl-certificate-error-unable-to-get-local-issuer-certificate
