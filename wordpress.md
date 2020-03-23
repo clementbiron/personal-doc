@@ -30,6 +30,7 @@
   - https://github.com/MarieComet/MC-ACF-Flexible-Template/
  - https://github.com/7studio/acf-svg-icon
  - https://github.com/BeAPI/acf-svg-icon
+ - https://github.com/RostiMelk/ACF-Tools
   
 **Polylang**
 - Auto translate existing media : https://github.com/aucor/polylang-translate-existing-media
