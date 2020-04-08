@@ -105,6 +105,7 @@
 - https://undraw.co/illustrations
 - https://icons8.com/ouch
 - https://www.manypixels.co/gallery/?
+- https://www.pixeltrue.com/illustrations
 
 ##### Emails
 - https://emaillove.com/
