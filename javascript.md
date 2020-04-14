@@ -15,6 +15,7 @@
 - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less : https://github.com/Chalarangelo/30-seconds-of-code
 - Rest parameter et spread operator en Javascript : https://blog.nathanaelcherrier.com/fr/rest-parameter-et-spread-operator-en-javascript/
 - Learn JavaScript : https://learnjavascript.online/app.html
+- how to manage HTML DOMwith vanilla JavaScript only : https://htmldom.dev/
 
 ####  Es Modules
 - ES modules: A cartoon deep-dive : https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
