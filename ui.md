@@ -106,6 +106,7 @@
 - https://icons8.com/ouch
 - https://www.manypixels.co/gallery/?
 - https://www.pixeltrue.com/illustrations
+- https://www.glazestock.com
 
 ##### Emails
 - https://emaillove.com/
