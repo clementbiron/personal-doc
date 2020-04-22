@@ -80,6 +80,7 @@
 - Apps Screenshots : https://scrnshts.club/
 - https://saaspages.xyz/
 - https://search.muz.li/
+- landing pages : https://designmunk.com
 
 ##### Inspiration
 - http://barkligallery.com/
