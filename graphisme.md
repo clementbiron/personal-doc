@@ -5,6 +5,9 @@
 - Trending in Type : https://www.typewolf.com/
 - bjrtypo : http://bjrtypo.com/
 
+#### Banque et assimilés
+- Biodiversity Heritage Library https://www.flickr.com/photos/biodivlibrary/albums
+
 #### Fonderie 
 - Atipo : http://atipofoundry.com/
 - Or Type : https://ortype.is
