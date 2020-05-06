@@ -108,6 +108,7 @@
 - https://www.manypixels.co/gallery/?
 - https://www.pixeltrue.com/illustrations
 - https://www.glazestock.com
+- https://storytale.io/
 
 ##### Emails
 - https://emaillove.com/
