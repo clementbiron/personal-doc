@@ -68,7 +68,6 @@
 - https://facebook.design/devices
 
 ##### Collections
-- https://uidb.io/
 - http://collectui.com/
 - https://interfaces.pro/
 - http://uigarage.net/
