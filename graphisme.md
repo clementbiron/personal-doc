@@ -40,6 +40,7 @@
 - Liste : https://type.lol/
 - neuebel : https://www.neuebel.com/
 - ohnotype : https://ohnotype.co
+- TFA is an online project to collect type foundries and build a link list of type foundries worldwide – independent or not, small or big, everyone. : http://type-foundries-archive.com/
 
 #### Free fonts
 - A selection of complimentary typography for your web projects : https://www.awwwards.com/awwwards/collections/free-fonts/
