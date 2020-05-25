@@ -80,6 +80,7 @@
 - https://saaspages.xyz/
 - https://search.muz.li/
 - landing pages : https://designmunk.com
+- The finest collection of ui/ux design components, patterns, examples and inspiration : https://www.niceverynice.com/components
 
 ##### Inspiration
 - http://barkligallery.com/
