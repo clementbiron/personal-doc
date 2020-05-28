@@ -17,9 +17,10 @@
 - Handsome : https://www.handsome.is/
 - Automne : https://www.automne.studio/
 
-##### Tips
+##### Tips & articles
 - Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : https://refactoringui.com/
 - Les pourquoi du design : http://lespourquoisdudesign.com/
+- Text fields & Forms design — UI components series : https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0
 
 ##### Colors
 - Google, but for colors : https://picular.co/
