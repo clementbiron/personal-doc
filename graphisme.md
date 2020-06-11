@@ -80,6 +80,7 @@
 ### Illustrateurs
 - Guillaume Kurkdjian : http://guillaumekurkdjian.com/
 - https://www.almasty.com/
+- https://maxguther.de/index.html
 
 -----
 ### Actus
