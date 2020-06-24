@@ -74,5 +74,7 @@ ___
 - CSS Border-Radius Can Do That ? https://medium.com/9elements/css-border-radius-can-do-that-d46df1d013ae et https://9elements.github.io/fancy-border-radius/#30.30.30.30--.
 - Animated Multiline Link Underlines with CSS : https://www.dannyguo.com/blog/animated-multiline-link-underlines-with-css/
 - Beautifully simple click-to-copy CSS effects : https://cssfx.dev/
+- Cropping Away Negative Impacts of Line Height : https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce
+- Text Crop : http://text-crop.eightshapes.com/
 
 
