@@ -51,6 +51,7 @@
 - https://digitalpsychology.io/ : free library of psychological principles and examples for inspiration to enhance the customer experience and connect with your users.
 - https://servicedesigntools.org/tools
 - Liste de biais cognitifs : https://uxinlux.github.io/cognitive-biases/fr/
+- https://maze.design/guides/usability-testing
 
 ##### Divers
 - Really good UX : https://www.reallygoodux.io/
