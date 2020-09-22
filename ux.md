@@ -83,8 +83,11 @@
 ##### Gamification :
 - https://yukaichou.com/gamification-examples/octalysis-complete-gamification-framework/
 
-##### Designer & agence & case study :
+##### Designer & agence :
 - https://zhurankou.com/index.html
 - https://duanesmithdesign.com/
 - https://www.casestudy.club/
 - https://www.pigwii.com/
+
+##### Case study :
+- https://uxdesign.cc/6-steps-to-big-results-how-we-redesigned-the-sephora-app-2f39427310a9
