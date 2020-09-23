@@ -116,3 +116,12 @@
 
 ##### Kits
 - https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md
+
+##### 3D
+- Toy Faces Library : https://amritpaldesign.com/toy-faces
+- A 3D illustration library : https://www.handz.design/
+- Huge pack of 3D elements accessible directly from Figma. : https://www.kukla-kit.com/
+- Lovely pack of 2000+ combinations of 3D avatars : https://www.avatarz.design/
+- 3D Illustration Constructor Superscene 2 : https://superscene.pro/
+- An incredible set of 3D illustrations : https://3ddd.casa/
+
