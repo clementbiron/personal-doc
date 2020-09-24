@@ -76,5 +76,5 @@ ___
 - Beautifully simple click-to-copy CSS effects : https://cssfx.dev/
 - Cropping Away Negative Impacts of Line Height : https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce
 - Text Crop : http://text-crop.eightshapes.com/
-
+- A CSS-only, animated, wrapping underline : https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline
 
