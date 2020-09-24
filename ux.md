@@ -91,3 +91,6 @@
 
 ##### Case study :
 - https://uxdesign.cc/6-steps-to-big-results-how-we-redesigned-the-sephora-app-2f39427310a9
+
+##### Game
+- https://www.darkpattern.games/
