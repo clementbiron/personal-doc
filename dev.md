@@ -32,5 +32,5 @@
 **Datas**
 - Realistic random data generator : https://mockaroo.com/
 
-**LAMP*
+**LAMP**
 - https://laragon.org/
