@@ -88,6 +88,7 @@
 - https://duanesmithdesign.com/
 - https://www.casestudy.club/
 - https://www.pigwii.com/
+- https://jayceeday.com/
 
 ##### Case study :
 - https://uxdesign.cc/6-steps-to-big-results-how-we-redesigned-the-sephora-app-2f39427310a9
