@@ -4,3 +4,6 @@ Caractères spéciaux Windows :
 
 RGPD :
 - https://www.donneespersonnelles.fr/comment-mettre-google-analytics-en-conformite-au-rgpd
+
+Livre gratos
+https://b-ok.cc/
