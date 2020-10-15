@@ -47,3 +47,4 @@ Usage : `ctrl+shift+t`
 - `ctrl + pagedown` next tab
 - `ctrl + pageup` previous tab
 - `ctrl + shift + L` select all occurence of selected word
+- `ctrl + shift + v` preview markdown
