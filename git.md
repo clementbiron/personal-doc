@@ -30,3 +30,6 @@
 
 **Articles**
 - Comment déployer sur un serveur distant en une commande GIT, pas à pas : https://medium.com/@stadja/comment-d%C3%A9ployer-sur-un-serveur-distant-en-une-commande-git-pas-%C3%A0-pas-bdcf5aaf172d
+
+**Ressources**
+- https://ohshitgit.com/
