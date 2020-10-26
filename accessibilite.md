@@ -1,5 +1,10 @@
-#### Extensions navigateurs
-- http://chromelens.xyz/
+# accessibilite
 
-#### Liste de ressources
-- https://a11yresources.webflow.io/
+## Extensions navigateurs
+
+* [http://chromelens.xyz/](http://chromelens.xyz/)
+
+## Liste de ressources
+
+* [https://a11yresources.webflow.io/](https://a11yresources.webflow.io/)
+

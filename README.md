@@ -12,7 +12,7 @@
 * [Git](git.md)
 * [Gulp](gulp.md)
 * [HTML](html.md)
-* [Intellij Idea](intellij-idea.md)
+* [Intellij Idea]()
 * [JavaScript](javascript.md)
 * [Markdown](markdown.md)
 * [o2switch](o2switch.md)
@@ -28,11 +28,4 @@
 * [Wamp](wamp.md)
 * [Windows](windows.md)
 * [WordPress](wordpress.md)
-
-
-
-
-
-
-
 
