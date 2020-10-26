@@ -1,4 +1,4 @@
-# wordpress
+# WordPress
 
 ## WordPress
 

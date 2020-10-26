@@ -1,4 +1,4 @@
-# javascript
+# JavaScript
 
 ## JavaScript
 

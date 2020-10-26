@@ -1,4 +1,4 @@
-# graphisme
+# Graphisme
 
 ## Typographie
 

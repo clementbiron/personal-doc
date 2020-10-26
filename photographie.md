@@ -1,4 +1,4 @@
-# photographie
+# Photographie
 
 ## Photographe
 

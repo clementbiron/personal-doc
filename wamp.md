@@ -1,4 +1,4 @@
-# wamp
+# Wamp
 
 **Configuration**
 

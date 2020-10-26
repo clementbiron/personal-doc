@@ -1,4 +1,4 @@
-# o2switch
+# O2switch
 
 **YARN**
 

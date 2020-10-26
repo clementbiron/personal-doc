@@ -1,4 +1,4 @@
-# css
+# CSS
 
 ## Flexbox :zap:
 
