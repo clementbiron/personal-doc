@@ -45,6 +45,7 @@
 - https://remixicon.com/
 - https://symbolicons.com/
 - https://medium.com/@minoraxis/7-principles-of-icon-design-e7187539e4a2
+- https://phosphoricons.com/
 
 ##### Toolkit
 - http://designresources.party/ 
