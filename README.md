@@ -1,6 +1,6 @@
-# Docs
+# Index
 
-* [Index](README.md)
+* [Index](./)
 * [Accessibilite](accessibilite.md)
 * [Babun](babun.md)
 * [BASH](bash.md)
@@ -29,3 +29,8 @@
 * [Windows](windows.md)
 * [Wamp](wamp.md)
 * [WCLI](wpcli.md)
+
+{% page-ref page="accessibilite.md" %}
+
+
+
