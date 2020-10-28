@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Personal Doc](README.md)
+* [Index](README.md)
 * [Accessibilite](accessibilite.md)
 * [Babun](babun.md)
 * [BASH](bash.md)

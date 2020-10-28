@@ -1,34 +1,60 @@
-# Personal Doc
+# Index
 
-* [Accessibilite](accessibilite.md)
-* [Babun](babun.md)
-* [Bash](bash.md)
-* [Composer](composer.md)
-* [CSS](css.md)
-* [Divers](divers.md)
-* [Dev](dev.md)
-* [Docker](docker.md)
-* [Graphisme](graphisme.md)
-* [Git](git.md)
-* [Gulp](gulp.md)
-* [HTML](html.md)
-* [Intellij Idea](intellij-idea.md)
-* [JavaScript](javascript.md)
-* [Markdown](markdown.md)
-* [o2switch](o2switch.md)
-* [Performances](perfs.md)
-* [PHP](php.md)
-* [Photographie](photographie.md)
-* [React](react.md)
-* [Sass](sass.md)
-* [SVG](svg.md)
-* [UX](ux.md)
-* [UI](ui.md)
-* [Visual Studio Code](vsd.md)
-* [Wamp](wamp.md)
-* [Windows](windows.md)
-* [WordPress](wordpress.md)
+{% page-ref page="accessibilite.md" %}
 
+{% page-ref page="babun.md" %}
+
+{% page-ref page="bash.md" %}
+
+{% page-ref page="css.md" %}
+
+{% page-ref page="composer.md" %}
+
+{% page-ref page="docker.md" %}
+
+{% page-ref page="dev.md" %}
+
+{% page-ref page="divers.md" %}
+
+{% page-ref page="git.md" %}
+
+{% page-ref page="graphisme.md" %}
+
+{% page-ref page="gulp.md" %}
+
+{% page-ref page="javascript.md" %}
+
+{% page-ref page="markdown.md" %}
+
+{% page-ref page="perfs.md" %}
+
+{% page-ref page="o2switch.md" %}
+
+{% page-ref page="./" %}
+
+{% page-ref page="php.md" %}
+
+{% page-ref page="photographie.md" %}
+
+{% page-ref page="react.md" %}
+
+{% page-ref page="svg.md" %}
+
+{% page-ref page="sass.md" %}
+
+{% page-ref page="ux.md" %}
+
+{% page-ref page="ui.md" %}
+
+{% page-ref page="vsd.md" %}
+
+{% page-ref page="wordpress.md" %}
+
+{% page-ref page="wordpress.md" %}
+
+{% page-ref page="windows.md" %}
+
+{% page-ref page="wamp.md" %}
 
 
 
