@@ -27,4 +27,3 @@
 {% page-ref page="wordpress.md" %}
 {% page-ref page="windows.md" %}
 {% page-ref page="wamp.md" %}
-{% page-ref page="wpcli.md" %}
