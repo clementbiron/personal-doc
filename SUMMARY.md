@@ -27,4 +27,5 @@
 * [WordPress](wordpress.md)
 * [Windows](windows.md)
 * [Wamp](wamp.md)
+* [WCLI](wpcli.md)
 
