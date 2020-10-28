@@ -2,9 +2,9 @@
 
 {% tabs %}
 {% tab title="Flexbox" %}
-### Articles de références
+**Articles de références**
 
-* \*\*\*\*[https://csslayout.io/](https://csslayout.io/)
+* [https://csslayout.io/](https://csslayout.io/)
 * [Smashingmagazine](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/)
 * [Kyusuf](https://kyusuf.com/post/almost-complete-guide-to-flexbox-without-flexbox)
 * [La Cascade](https://la-cascade.io/flexbox-guide-complet/)
@@ -12,30 +12,30 @@
 * [https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b)
 * [https://medium.com/@js\_tut/the-complete-css-flex-box-tutorial-d17971950bdc](https://medium.com/@js_tut/the-complete-css-flex-box-tutorial-d17971950bdc)
 
-### Bugs
+**Bugs**
 
 * La bible : [https://github.com/philipwalton/flexbugs](https://github.com/philipwalton/flexbugs)
 
-### Exemples
+**Exemples**
 
 * Flexboxpatterns : [http://www.flexboxpatterns.com/home](http://www.flexboxpatterns.com/home)
 
-### Code game
+**Code game**
 
 * [http://www.flexboxdefense.com/](http://www.flexboxdefense.com/)
 * [http://flexboxfroggy.com/](http://flexboxfroggy.com/)
 
-### Cheatsheet
+**Cheatsheet**
 
 * Alsacreations : [http://www.alsacreations.com/xmedia/tools/flexbox-cheatsheet.pdf](http://www.alsacreations.com/xmedia/tools/flexbox-cheatsheet.pdf)
 
-### Divers
+**Divers**
 
 * Liste de ressources : [https://www.creativejuiz.fr/blog/css-css3/apprendre-positionnement-flexbox-s-amusant?utm\_source=extension&utm\_campaign=push&utm\_medium=notification](https://www.creativejuiz.fr/blog/css-css3/apprendre-positionnement-flexbox-s-amusant?utm_source=extension&utm_campaign=push&utm_medium=notification)
 {% endtab %}
 
 {% tab title="Grid layout" %}
-### Articles de références
+**Articles de références**
 
 * [https://css-tricks.com/snippets/css/complete-guide-grid/](https://css-tricks.com/snippets/css/complete-guide-grid/)
 * [https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Grid\_Layout/Basic\_Concepts\_of\_Grid\_Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
@@ -49,7 +49,7 @@
 * [https://switch.paris/blog/construire-une-grille-produits-avec-css-grid-aujourdhui](https://switch.paris/blog/construire-une-grille-produits-avec-css-grid-aujourdhui)
 * [https://css-tricks.com/css-grid-in-ie-css-grid-and-the-new-autoprefixer/](https://css-tricks.com/css-grid-in-ie-css-grid-and-the-new-autoprefixer/)
 
-### Ressources
+**Ressources**
 
 * Grid by example : [https://gridbyexample.com/](https://gridbyexample.com/)
 * Videos learning : [https://cssgrid.io/](https://cssgrid.io/)
@@ -58,32 +58,32 @@
 * A simple visual cheatsheet for CSS Grid Layout : [http://grid.malven.co/](http://grid.malven.co/)
 * Intertactive grid : [https://grid.layoutit.com/](https://grid.layoutit.com/)
 
-### Code game
+**Code game**
 
 * CSS Gridgarden : [http://cssgridgarden.com/](http://cssgridgarden.com/)
 
-### 
+****
 {% endtab %}
 
-{% tab title="Divers" %}
-### BEM
+{% tab title="Autre" %}
+**BEM**
 
 * [Liste de ressources](https://github.com/sturobson/BEM-resources)
 
-### Clip Path
+**Clip Path**
 
 * CSS clip-path maker : [http://bennettfeely.com/clippy/](http://bennettfeely.com/clippy/)
 
-### Custom properties
+**Custom properties**
 
 * Custom properties strategy guide : [https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/](https://www.smashingmagazine.com/2018/05/css-custom-properties-strategy-guide/)
 
-### Transition et animations
+**Transition et animations**
 
 * CSS transition auto width : [https://stackoverflow.com/questions/38643529/css-transition-auto-width](https://stackoverflow.com/questions/38643529/css-transition-auto-width)
 * CSS ICON : [https://cssicon.space/\#/animate](https://cssicon.space/#/animate)
 
-### Divers
+**Articles**
 
 * [Modern and simple css @font-face generator](https://transfonter.org/)
 * Advanced CSS-Only Form Styling : [https://jonathan-harrell.com/advanced-css-form-styling/](https://jonathan-harrell.com/advanced-css-form-styling/)

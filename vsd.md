@@ -1,3 +1,12 @@
+**Shortcuts**
+
+- `ctrl + shift + =` align assignement (avec l'extension Better Align) 
+- `ctrl + d` selects next occurrence of word under cursor or of the current selection
+- `ctrl + pagedown` next tab
+- `ctrl + pageup` previous tab
+- `ctrl + F2` select all occurence of selected word
+- `ctrl + shift + v` preview markdown
+
 **Tutos**
 
 - Make Visual Studio Code Your Editor https://scotch.io/courses/make-visual-studio-code-your-editor
@@ -39,12 +48,3 @@ Configuration User settings :
 }
 ```
 Usage : `ctrl+shift+t`
-
-**Shortcuts**
-
-- `ctrl + shift + =` align assignement (avec l'extension Better Align) 
-- `ctrl + d` selects next occurrence of word under cursor or of the current selection
-- `ctrl + pagedown` next tab
-- `ctrl + pageup` previous tab
-- `ctrl + shift + L` select all occurence of selected word
-- `ctrl + shift + v` preview markdown
