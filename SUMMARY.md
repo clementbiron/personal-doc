@@ -13,6 +13,7 @@
 * [Graphisme](graphisme.md)
 * [Gulp](gulp.md)
 * [JavaScript](javascript.md)
+* [Jekyll](jekyll.md)
 * [Markdown](markdown.md)
 * [Outils](perfs.md)
 * [O2switch](o2switch.md)
