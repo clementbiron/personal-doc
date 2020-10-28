@@ -1,18 +1,8 @@
 #### WordPress
 
-**Articles**
-- How not to be depressed when working with WordPress : https://devops-life.com/blog/2019/04/10/state-of-wordpress-in-2019/
+{% tabs %}
 
-**Template hierarchy**
-- https://developer.wordpress.org/files/2014/10/wp-hierarchy.png
-
-**Rest API**
-- Client JavaScript : https://www.npmjs.com/package/wpapi
-
-**Wp Query**
-- WordPress Query Comprehensive Reference : https://github.com/luetkemj/wp-query-ref
-
-**ACF**
+{% tab title="ACF" %}
 - Extensions : http://awesomeacf.com/
 - Image responsive : http://aaronrutley.com/responsive-images-in-wordpress-with-acf/
 - Add Sortable ACF Admin Column : https://support.advancedcustomfields.com/forums/topic/add-sortable-acf-admin-column/
@@ -31,7 +21,37 @@
  - https://github.com/7studio/acf-svg-icon
  - https://github.com/BeAPI/acf-svg-icon
  - https://github.com/RostiMelk/ACF-Tools
-  
+{% endtab %}
+
+{% tab title="WP CLI" %}
+**Installation**
+  - cd c:
+  - composer create-project wp-cli/wp-cli --no-dev
+  - ajout de C:\wp-cli\bin au variables d'environnement windows
+  - pour Babun ajouter l'alias wp='C:/wp-cli/bin/wp'
+
+**BDD export / import**
+- Exporter la base de données et chercher remplacer oldValue / newValue : wp search-replace http://localhost/exemple http://preprod.exemple.com --export=export.sql
+- Copier l'export sql sur un serveur distant via ssh : scp /cygdrive/h/www/exemple/export.sql user@domain.com:/home/posykrat/tmp
+- Importer l'export sql sur serveur distant:
+  - ssh user@serveur.fr
+  - cd ~/public_html/exemple
+  - wp db import /home/posykrat/tmp/export.sql
+{% endtab %}
+
+{% tab title="Autre" %}
+**Articles**
+- How not to be depressed when working with WordPress : https://devops-life.com/blog/2019/04/10/state-of-wordpress-in-2019/
+
+**Template hierarchy**
+- https://developer.wordpress.org/files/2014/10/wp-hierarchy.png
+
+**Rest API**
+- Client JavaScript : https://www.npmjs.com/package/wpapi
+
+**Wp Query**
+- WordPress Query Comprehensive Reference : https://github.com/luetkemj/wp-query-ref
+
 **Polylang**
 - Auto translate existing media : https://github.com/aucor/polylang-translate-existing-media
 - Disable language selector : https://github.com/aucor/polylang-smart-language-select-disabler
@@ -62,22 +82,6 @@
 **Elementor**
 - https://trello.com/b/52NXAeg2/elementor-resources-for-and-by-the-community
 - https://pafe.piotnet.com/
+{% endtab %}
 
-
----
-
-#### WP CLI
-**Installation**
-  - cd c:
-  - composer create-project wp-cli/wp-cli --no-dev
-  - ajout de C:\wp-cli\bin au variables d'environnement windows
-  - pour Babun ajouter l'alias wp='C:/wp-cli/bin/wp'
-
-**BDD export / import**
-- Exporter la base de données et chercher remplacer oldValue / newValue : wp search-replace http://localhost/exemple http://preprod.exemple.com --export=export.sql
-- Copier l'export sql sur un serveur distant via ssh : scp /cygdrive/h/www/exemple/export.sql user@domain.com:/home/posykrat/tmp
-- Importer l'export sql sur serveur distant:
-  - ssh user@serveur.fr
-  - cd ~/public_html/exemple
-  - wp db import /home/posykrat/tmp/export.sql
-
+{% endtabs %}

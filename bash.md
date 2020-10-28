@@ -7,8 +7,8 @@
 - Lister le poids des dossiers : `du -sh ./*`
 
 **SSH**
-- Génération de clés : `dssh-keygen -t rsa`d
-- Envoyer la clé publique sur le serveur : `dcat ~/.ssh/id_rsa.pub | ssh user@domain "cat >> ~/.ssh/authorized_keys"`d
+- Génération de clés : `dssh-keygen -t rsa`
+- Envoyer la clé publique sur le serveur : `dcat ~/.ssh/id_rsa.pub | ssh user@domain "cat >> ~/.ssh/authorized_keys"`
 - Si erreur WARNING: UNPROTECTED PRIVATE KEY FILE!  
   - sudo chmod 600 ~/.ssh/id_rs
   - sudo chmod 600 ~/.ssh/id_rs.pub
