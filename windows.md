@@ -6,7 +6,7 @@
 
 ### WSL
 
-#### Update WSL 1 vers WSL 2
+#### Upgrade WSL 1 vers WSL 2
 
 [https://lecrabeinfo.net/mettre-a-jour-une-distribution-linux-wsl-1-vers-wsl-2.html](https://lecrabeinfo.net/mettre-a-jour-une-distribution-linux-wsl-1-vers-wsl-2.html)
 
