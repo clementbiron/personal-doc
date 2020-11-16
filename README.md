@@ -33,7 +33,7 @@ echo 'You got to trust me on this, I saved the world'
 
 {% page-ref page="docker.md" %}
 
-
+{% page-ref page="figma.md" %}
 
 {% page-ref page="dev.md" %}
 

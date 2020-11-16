@@ -9,6 +9,7 @@
 * [Docker](docker.md)
 * [Dev](dev.md)
 * [Divers](divers.md)
+* [Figma](figma.md)
 * [GIT](git.md)
 * [Graphisme](graphisme.md)
 * [Gulp](gulp.md)
