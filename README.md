@@ -4,13 +4,7 @@
 
 {% page-ref page="accessibilite.md" %}
 
-Becoming a super hero is a fairly straight forward process:
-
 {% page-ref page="babun.md" %}
-
-```
-$ give me super-powers
-```
 
 {% page-ref page="bash.md" %}
 
@@ -20,16 +14,7 @@ $ give me super-powers
 
 {% page-ref page="css.md" %}
 
-Once you're strong enough, save the world:
-
 {% page-ref page="composer.md" %}
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
 {% page-ref page="docker.md" %}
 

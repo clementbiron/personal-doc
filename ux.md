@@ -59,6 +59,7 @@
 * Liste de biais cognitifs : [https://uxinlux.github.io/cognitive-biases/fr/](https://uxinlux.github.io/cognitive-biases/fr/)
 * [https://maze.design/guides/usability-testing](https://maze.design/guides/usability-testing)
 * [https://uxtoolset.com/](https://uxtoolset.com/)
+* [https://www.uxdatabase.io/](https://www.uxdatabase.io/)
 
 ## Divers
 
