@@ -70,6 +70,7 @@
 * The design bookmakrs : [https://trello.com/b/vBrHxyl1/the-design-bookmarks](https://trello.com/b/vBrHxyl1/the-design-bookmarks)
 * Awesome design tools : [https://github.com/LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 * 170+ collections of real content to populate all your designs.  : [https://www.populate.design/](https://www.populate.design/)
+* [https://www.templatemaker.nl/fr/](https://www.templatemaker.nl/fr/)
 
 ## Mockup
 
