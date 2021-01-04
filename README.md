@@ -34,6 +34,8 @@
 
 {% page-ref page="jekyll.md" %}
 
+{% page-ref page="lmi.md" %}
+
 {% page-ref page="markdown.md" %}
 
 {% page-ref page="perfs.md" %}
