@@ -61,8 +61,6 @@
 **Code game**
 
 * CSS Gridgarden : [http://cssgridgarden.com/](http://cssgridgarden.com/)
-
-****
 {% endtab %}
 
 {% tab title="Autre" %}
@@ -86,6 +84,7 @@
 **Articles**
 
 * [Modern and simple css @font-face generator](https://transfonter.org/)
+* The state of CSS Masonry layout : [https://regisphilibert.com/blog/2017/12/pure-css-masonry-layout-with-flexbox-grid-columns-in-2018/](https://regisphilibert.com/blog/2017/12/pure-css-masonry-layout-with-flexbox-grid-columns-in-2018/)
 * Advanced CSS-Only Form Styling : [https://jonathan-harrell.com/advanced-css-form-styling/](https://jonathan-harrell.com/advanced-css-form-styling/)
 * 30 seconds of CSS : [https://30-seconds.github.io/30-seconds-of-css/](https://30-seconds.github.io/30-seconds-of-css/)
 * Animated burger menu icons : [https://codepen.io/ainalem/pen/LJYRxz/](https://codepen.io/ainalem/pen/LJYRxz/)
@@ -96,13 +95,6 @@
 * Cropping Away Negative Impacts of Line Height : [https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce](https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce)
 * Text Crop : [http://text-crop.eightshapes.com/](http://text-crop.eightshapes.com/)
 * A CSS-only, animated, wrapping underline : [https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline](https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline)
-
 {% endtab %}
-
 {% endtabs %}
-
-
-
-
-
 
