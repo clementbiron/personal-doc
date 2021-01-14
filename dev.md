@@ -50,6 +50,10 @@
 
 * Perfect responsive menu : [https://polypane.app/blog/the-perfect-responsive-menu/](https://polypane.app/blog/the-perfect-responsive-menu/)
 
+#### Slider
+
+* [https://splidejs.com/](https://splidejs.com/)
+
 ## Design system
 
 * Tons of information on refactoring, design patterns, SOLID principles and other smart programming topics : [https://refactoring.guru/](https://refactoring.guru/)
