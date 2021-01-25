@@ -133,6 +133,7 @@
 * [https://www.pixeltrue.com/illustrations](https://www.pixeltrue.com/illustrations)
 * [https://www.glazestock.com](https://www.glazestock.com)
 * [https://storytale.io/](https://storytale.io/)
+* [https://storyset.com/](https://storyset.com/)
 
 ## Emails
 
