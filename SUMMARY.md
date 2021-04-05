@@ -30,4 +30,5 @@
 * [Windows](windows.md)
 * [Wamp](wamp.md)
 * [LMI](lmi.md)
+* [MacOS](macos.md)
 
