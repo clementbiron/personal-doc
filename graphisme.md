@@ -46,11 +46,12 @@
 * neuebel : [https://www.neuebel.com/](https://www.neuebel.com/)
 * ohnotype : [https://ohnotype.co](https://ohnotype.co)
 * TFA is an online project to collect type foundries and build a link list of type foundries worldwide – independent or not, small or big, everyone. : [http://type-foundries-archive.com/](http://type-foundries-archive.com/)
+
+### Fonderie / Typos Open Source
+
 * [https://uncut.wtf/](https://uncut.wtf/)
-
-### Free fonts
-
-* A selection of complimentary typography for your web projects : [https://www.awwwards.com/awwwards/collections/free-fonts/](https://www.awwwards.com/awwwards/collections/free-fonts/)
+* [http://dotcolon.net/](http://dotcolon.net/)
+* [http://velvetyne.fr/](http://velvetyne.fr/)
 
 ### Guide
 
