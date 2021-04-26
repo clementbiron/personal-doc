@@ -8,3 +8,7 @@
 
 [https://uxtoolset.com/](https://uxtoolset.com/)
 
+### Shortcuts
+
+Collapse all groups `alt`+`l`
+
