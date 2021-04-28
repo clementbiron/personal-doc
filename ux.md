@@ -42,6 +42,7 @@
 * 84 cognitive biases you should exploit to design better products  : [https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html](https://www.mobilespoon.net/2019/04/collection-cognitive-biases-how-to-use.html)
 * Il manque un cercle au Design Thinking. Il se trouve dans l’Ikigai. : [https://medium.com/com-plexus/il-manque-un-cercle-au-design-thinking-il-se-trouve-dans-likigai-2af33597477b](https://medium.com/com-plexus/il-manque-un-cercle-au-design-thinking-il-se-trouve-dans-likigai-2af33597477b)
 * [https://uxdesign.cc/how-to-redesign-step-by-step-guide-869379604734](https://uxdesign.cc/how-to-redesign-step-by-step-guide-869379604734)
+* Design in FLOSS Projects  : [https://dani763f.github.io/FLOSS-UX/](https://dani763f.github.io/FLOSS-UX/)
 
 ## Ressources
 
