@@ -15,6 +15,8 @@
 * [Gulp](gulp.md)
 * [JavaScript](javascript.md)
 * [Jekyll](jekyll.md)
+* [LMI](lmi.md)
+* [MacOS](macos.md)
 * [Markdown](markdown.md)
 * [Outils](perfs.md)
 * [O2switch](o2switch.md)
@@ -29,6 +31,4 @@
 * [WordPress](wordpress.md)
 * [Windows](windows.md)
 * [Wamp](wamp.md)
-* [LMI](lmi.md)
-* [MacOS](macos.md)
 
