@@ -101,10 +101,6 @@
 
 * [https://highway.js.org/](https://highway.js.org/)
 
-### React
-
-[https://github.com/streamich/react-use](https://github.com/streamich/react-use)
-
 ## SVG
 
 * Use external SVG spritemaps today : [https://github.com/jonathantneal/svg4everybody](https://github.com/jonathantneal/svg4everybody)
