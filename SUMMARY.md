@@ -32,4 +32,5 @@
 * [Windows](windows.md)
 * [Wamp](wamp.md)
 * [Travail](travail.md)
+* [Typescript](typescript.md)
 
