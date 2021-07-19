@@ -151,4 +151,5 @@
 * Lovely pack of 2000+ combinations of 3D avatars : [https://www.avatarz.design/](https://www.avatarz.design/)
 * 3D Illustration Constructor Superscene 2 : [https://superscene.pro/](https://superscene.pro/)
 * An incredible set of 3D illustrations : [https://3ddd.casa/](https://3ddd.casa/)
+* [https://3d.khagwal.co/](https://3d.khagwal.co/)
 
