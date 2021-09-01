@@ -80,6 +80,7 @@
 
 * CSS transition auto width : [https://stackoverflow.com/questions/38643529/css-transition-auto-width](https://stackoverflow.com/questions/38643529/css-transition-auto-width)
 * CSS ICON : [https://cssicon.space/\#/animate](https://cssicon.space/#/animate)
+* An Interactive Guide to Keyframe Animations : [https://www.joshwcomeau.com/animation/keyframe-animations/](https://www.joshwcomeau.com/animation/keyframe-animations/)
 
 **Articles**
 
