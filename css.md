@@ -70,7 +70,7 @@
 
 **Clip Path**
 
-* CSS clip-path maker : [http://bennettfeely.com/clippy/](http://bennettfeely.com/clippy/)
+* CSS clip-path maker : [http://bennettfeely.com/clippy](http://bennettfeely.com/clippy/)
 
 **Custom properties**
 
@@ -96,6 +96,7 @@
 * Cropping Away Negative Impacts of Line Height : [https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce](https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce)
 * Text Crop : [http://text-crop.eightshapes.com/](http://text-crop.eightshapes.com/)
 * A CSS-only, animated, wrapping underline : [https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline](https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline)
+* min\(\), max\(\), and clamp\(\) CSS Functions : [https://ishadeed.com/article/css-min-max-clamp/](https://ishadeed.com/article/css-min-max-clamp/)
 {% endtab %}
 {% endtabs %}
 
