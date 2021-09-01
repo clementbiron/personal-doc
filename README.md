@@ -8,21 +8,19 @@
 
 {% page-ref page="bash.md" %}
 
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
 {% page-ref page="css.md" %}
 
 {% page-ref page="composer.md" %}
 
 {% page-ref page="docker.md" %}
 
-{% page-ref page="figma.md" %}
-
 {% page-ref page="dev.md" %}
 
 {% page-ref page="divers.md" %}
+
+{% page-ref page="figma.md" %}
+
+
 
 {% page-ref page="git.md" %}
 
@@ -35,6 +33,8 @@
 {% page-ref page="jekyll.md" %}
 
 {% page-ref page="lmi.md" %}
+
+{% page-ref page="macos.md" %}
 
 {% page-ref page="markdown.md" %}
 
@@ -63,4 +63,12 @@
 {% page-ref page="windows.md" %}
 
 {% page-ref page="wamp.md" %}
+
+{% page-ref page="travail.md" %}
+
+{% page-ref page="typescript.md" %}
+
+{% page-ref page="zsh.md" %}
+
+
 
