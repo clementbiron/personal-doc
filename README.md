@@ -20,8 +20,6 @@
 
 {% page-ref page="figma.md" %}
 
-
-
 {% page-ref page="git.md" %}
 
 {% page-ref page="graphisme.md" %}
@@ -69,6 +67,4 @@
 {% page-ref page="typescript.md" %}
 
 {% page-ref page="zsh.md" %}
-
-
 
