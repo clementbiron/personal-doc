@@ -21,7 +21,7 @@
 * how to manage HTML DOMwith vanilla JavaScript only : [https://htmldom.dev/](https://htmldom.dev/)
 * The Vanilla JS Toolkit : [https://vanillajstoolkit.com/](https://vanillajstoolkit.com/)
 
-## Es Modules
+## ES Modules
 
 * ES modules: A cartoon deep-dive : [https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
@@ -29,7 +29,7 @@
 
 * Eloquent JavaScript 3rd edition : [https://eloquentjavascript.net/3rd\_edition/](https://eloquentjavascript.net/3rd_edition/)
 
-### Guide lines
+### Guidelines
 
 * AirBnB : [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
@@ -101,7 +101,15 @@
 
 * [https://highway.js.org/](https://highway.js.org/)
 
-## SVG
+### React
+
+{% embed url="https://github.com/streamich/react-use" %}
+
+### Utiles
+
+Rate limiter : [https://github.com/jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter)
+
+### SVG
 
 * Use external SVG spritemaps today : [https://github.com/jonathantneal/svg4everybody](https://github.com/jonathantneal/svg4everybody)
 
