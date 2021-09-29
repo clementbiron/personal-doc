@@ -2,6 +2,8 @@
 
 ## Getting Super Powers
 
+{% page-ref page="ae.md" %}
+
 {% page-ref page="accessibilite.md" %}
 
 {% page-ref page="babun.md" %}
