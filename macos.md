@@ -15,5 +15,6 @@ How I setup my MacBook for development : [https://medium.com/macoclock/how-i-set
 
 ## Apps
 
-[https://rectangleapp.com/](https://rectangleapp.com/)
+[https://rectangleapp.com/](https://rectangleapp.com/)  
+[https://cleanshot.com/](https://cleanshot.com/)
 
