@@ -113,3 +113,7 @@ Rate limiter : [https://github.com/jhurliman/node-rate-limiter](https://github.c
 
 * Use external SVG spritemaps today : [https://github.com/jonathantneal/svg4everybody](https://github.com/jonathantneal/svg4everybody)
 
+### Next js
+
+Build a blog with Next \(React.js\) and Strapi : [https://strapi.io/blog/build-a-blog-with-next-react-js-strapi](https://strapi.io/blog/build-a-blog-with-next-react-js-strapi)
+
