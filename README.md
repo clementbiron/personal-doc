@@ -14,6 +14,8 @@
 
 {% page-ref page="composer.md" %}
 
+{% page-ref page="data.md" %}
+
 {% page-ref page="docker.md" %}
 
 {% page-ref page="dev.md" %}

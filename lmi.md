@@ -6,6 +6,17 @@
 * [https://firstdraftnews.org/](https://firstdraftnews.org/)
 * Hoaxlines is a database of misinformation, misleading, manipulative content, primarily mis/mal/disinformation : [https://airtable.com/shrjst7UaDuM5YPTj/tblV5N1fbeKEytn0h?backgroundColor=teal&layout=card&viewControls=on](https://airtable.com/shrjst7UaDuM5YPTj/tblV5N1fbeKEytn0h?backgroundColor=teal&layout=card&viewControls=on)
 * Disinfo Database : [https://euvsdisinfo.eu/disinformation-cases/](https://euvsdisinfo.eu/disinformation-cases/)
+* [https://www.trendsmap.com/](https://www.trendsmap.com/)
+* [https://weverify.eu/](https://weverify.eu/)
+* [https://www.tweetbinder.com/blog/chart-data-twitter/](https://www.tweetbinder.com/blog/chart-data-twitter/)
+* [https://hashtagify.me/hashtag/covid19](https://hashtagify.me/hashtag/covid19)
+* [https://www.nunki.co/](https://www.nunki.co/)
+* [https://hoaxy.osome.iu.edu/](https://hoaxy.osome.iu.edu/)
+* [https://en.hive-mind.community/radar/rus?s=support](https://en.hive-mind.community/radar/rus?s=support)
+* [https://www.kaichengyang.me/\#/](https://www.kaichengyang.me/#/)
+* [https://osome.iu.edu/](https://osome.iu.edu/)
+* [https://www.maltego.com/](https://www.maltego.com/)
+* [https://www.smat-app.com](https://www.smat-app.com)
 
 CIB
 
