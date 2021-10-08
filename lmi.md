@@ -5,7 +5,8 @@
 * This is a collection of tools, readings and resources to get you and your newsroom started with online social newsgathering, verification and responsible reporting. You can also find the advanced toolkit at the bottom of this dashboard. [https://start.me/p/vjv80b/first-draft-basic-toolkit](https://start.me/p/vjv80b/first-draft-basic-toolkit)
 * [https://firstdraftnews.org/](https://firstdraftnews.org/)
 * Hoaxlines is a database of misinformation, misleading, manipulative content, primarily mis/mal/disinformation : [https://airtable.com/shrjst7UaDuM5YPTj/tblV5N1fbeKEytn0h?backgroundColor=teal&layout=card&viewControls=on](https://airtable.com/shrjst7UaDuM5YPTj/tblV5N1fbeKEytn0h?backgroundColor=teal&layout=card&viewControls=on)
-* 
+* Disinfo Database : [https://euvsdisinfo.eu/disinformation-cases/](https://euvsdisinfo.eu/disinformation-cases/)
+
 CIB
 
 * [https://www.disinfo.eu/publications/cib-detection-tree-4th-branch/](https://www.disinfo.eu/publications/cib-detection-tree-4th-branch/)
