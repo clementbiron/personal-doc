@@ -2,73 +2,142 @@
 
 ## Getting Super Powers
 
-{% page-ref page="ae.md" %}
+{% content-ref url="ae.md" %}
+[ae.md](ae.md)
+{% endcontent-ref %}
 
-{% page-ref page="accessibilite.md" %}
+{% content-ref url="accessibilite.md" %}
+[accessibilite.md](accessibilite.md)
+{% endcontent-ref %}
 
-{% page-ref page="babun.md" %}
+{% content-ref url="babun.md" %}
+[babun.md](babun.md)
+{% endcontent-ref %}
 
-{% page-ref page="bash.md" %}
+{% content-ref url="bash.md" %}
+[bash.md](bash.md)
+{% endcontent-ref %}
 
-{% page-ref page="css.md" %}
+{% content-ref url="css/" %}
+[css](css/)
+{% endcontent-ref %}
 
-{% page-ref page="composer.md" %}
+{% content-ref url="composer.md" %}
+[composer.md](composer.md)
+{% endcontent-ref %}
 
-{% page-ref page="data.md" %}
+{% content-ref url="data.md" %}
+[data.md](data.md)
+{% endcontent-ref %}
 
-{% page-ref page="docker.md" %}
+{% content-ref url="docker.md" %}
+[docker.md](docker.md)
+{% endcontent-ref %}
 
-{% page-ref page="dev.md" %}
+{% content-ref url="dev.md" %}
+[dev.md](dev.md)
+{% endcontent-ref %}
 
-{% page-ref page="divers.md" %}
+{% content-ref url="divers.md" %}
+[divers.md](divers.md)
+{% endcontent-ref %}
 
-{% page-ref page="figma.md" %}
+{% content-ref url="figma.md" %}
+[figma.md](figma.md)
+{% endcontent-ref %}
 
-{% page-ref page="git.md" %}
+{% content-ref url="git.md" %}
+[git.md](git.md)
+{% endcontent-ref %}
 
-{% page-ref page="graphisme.md" %}
+{% content-ref url="graphisme.md" %}
+[graphisme.md](graphisme.md)
+{% endcontent-ref %}
 
-{% page-ref page="gulp.md" %}
+{% content-ref url="gulp.md" %}
+[gulp.md](gulp.md)
+{% endcontent-ref %}
 
-{% page-ref page="javascript.md" %}
+{% content-ref url="javascript.md" %}
+[javascript.md](javascript.md)
+{% endcontent-ref %}
 
-{% page-ref page="jekyll.md" %}
+{% content-ref url="jekyll.md" %}
+[jekyll.md](jekyll.md)
+{% endcontent-ref %}
 
-{% page-ref page="lmi.md" %}
+{% content-ref url="lmi.md" %}
+[lmi.md](lmi.md)
+{% endcontent-ref %}
 
-{% page-ref page="macos.md" %}
+{% content-ref url="macos.md" %}
+[macos.md](macos.md)
+{% endcontent-ref %}
 
-{% page-ref page="markdown.md" %}
+{% content-ref url="markdown.md" %}
+[markdown.md](markdown.md)
+{% endcontent-ref %}
 
-{% page-ref page="perfs.md" %}
+{% content-ref url="perfs.md" %}
+[perfs.md](perfs.md)
+{% endcontent-ref %}
 
-{% page-ref page="o2switch.md" %}
+{% content-ref url="o2switch.md" %}
+[o2switch.md](o2switch.md)
+{% endcontent-ref %}
 
-{% page-ref page="php.md" %}
+{% content-ref url="php.md" %}
+[php.md](php.md)
+{% endcontent-ref %}
 
-{% page-ref page="photographie.md" %}
+{% content-ref url="photographie.md" %}
+[photographie.md](photographie.md)
+{% endcontent-ref %}
 
-{% page-ref page="react.md" %}
+{% content-ref url="react.md" %}
+[react.md](react.md)
+{% endcontent-ref %}
 
-{% page-ref page="svg.md" %}
+{% content-ref url="svg.md" %}
+[svg.md](svg.md)
+{% endcontent-ref %}
 
-{% page-ref page="sass.md" %}
+{% content-ref url="sass.md" %}
+[sass.md](sass.md)
+{% endcontent-ref %}
 
-{% page-ref page="ux.md" %}
+{% content-ref url="ux.md" %}
+[ux.md](ux.md)
+{% endcontent-ref %}
 
-{% page-ref page="ui.md" %}
+{% content-ref url="ui.md" %}
+[ui.md](ui.md)
+{% endcontent-ref %}
 
-{% page-ref page="vsd.md" %}
+{% content-ref url="vsd.md" %}
+[vsd.md](vsd.md)
+{% endcontent-ref %}
 
-{% page-ref page="wordpress.md" %}
+{% content-ref url="wordpress.md" %}
+[wordpress.md](wordpress.md)
+{% endcontent-ref %}
 
-{% page-ref page="windows.md" %}
+{% content-ref url="windows.md" %}
+[windows.md](windows.md)
+{% endcontent-ref %}
 
-{% page-ref page="wamp.md" %}
+{% content-ref url="wamp.md" %}
+[wamp.md](wamp.md)
+{% endcontent-ref %}
 
-{% page-ref page="travail.md" %}
+{% content-ref url="travail.md" %}
+[travail.md](travail.md)
+{% endcontent-ref %}
 
-{% page-ref page="typescript.md" %}
+{% content-ref url="typescript.md" %}
+[typescript.md](typescript.md)
+{% endcontent-ref %}
 
-{% page-ref page="zsh.md" %}
-
+{% content-ref url="zsh.md" %}
+[zsh.md](zsh.md)
+{% endcontent-ref %}

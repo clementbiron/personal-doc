@@ -4,22 +4,22 @@
 
 ### Articles et ressources
 
-* Overview of JavaScript ES6 features \(en\) [http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/)
-* JavaScript Promises for Dummies \(en\) : [https://scotch.io/tutorials/javascript-promises-for-dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
-* The WordPress Developer’s Guide to ES2015 \(ES6\) : [https://deliciousbrains.com/wordpress-developers-guide-es2015-es6/](https://deliciousbrains.com/wordpress-developers-guide-es2015-es6/)
-* Resources-Front-End-Beginner : [https://github.com/thedaviddias/Resources-Front-End-Beginner\#learn-javascript](https://github.com/thedaviddias/Resources-Front-End-Beginner#learn-javascript)
+* Overview of JavaScript ES6 features (en) [http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/](http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/)
+* JavaScript Promises for Dummies (en) : [https://scotch.io/tutorials/javascript-promises-for-dummies](https://scotch.io/tutorials/javascript-promises-for-dummies)
+* The WordPress Developer’s Guide to ES2015 (ES6) : [https://deliciousbrains.com/wordpress-developers-guide-es2015-es6/](https://deliciousbrains.com/wordpress-developers-guide-es2015-es6/)
+* Resources-Front-End-Beginner : [https://github.com/thedaviddias/Resources-Front-End-Beginner#learn-javascript](https://github.com/thedaviddias/Resources-Front-End-Beginner#learn-javascript)
 * Learning Advanced JavaScript : [https://johnresig.com/apps/learn/](https://johnresig.com/apps/learn/)
 * The Vanilla Javascript Repository : [https://plainjs.com](https://plainjs.com)
 * Modern JS Cheatsheet : [https://github.com/mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 * Vanilla JavaScript Quick Reference / Cheatsheet : [https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86](https://gist.github.com/thegitfather/9c9f1a927cd57df14a59c268f118ce86)
 * Table de compatibilité ES6 : [http://kangax.github.io/compat-table/es6/](http://kangax.github.io/compat-table/es6/)
 * ES6 design patterns : [http://loredanacirstea.github.io/es6-design-patterns/](http://loredanacirstea.github.io/es6-design-patterns/)
-* The most comprehensive book on ECMAScript 6 \(ECMAScript 2015\) : [http://exploringjs.com/es6.html](http://exploringjs.com/es6.html)
+* The most comprehensive book on ECMAScript 6 (ECMAScript 2015) : [http://exploringjs.com/es6.html](http://exploringjs.com/es6.html)
 * Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less : [https://github.com/Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 * Rest parameter et spread operator en Javascript : [https://blog.nathanaelcherrier.com/fr/rest-parameter-et-spread-operator-en-javascript/](https://blog.nathanaelcherrier.com/fr/rest-parameter-et-spread-operator-en-javascript/)
 * Learn JavaScript : [https://learnjavascript.online/app.html](https://learnjavascript.online/app.html)
-* how to manage HTML DOMwith vanilla JavaScript only : [https://htmldom.dev/](https://htmldom.dev/)
-* The Vanilla JS Toolkit : [https://vanillajstoolkit.com/](https://vanillajstoolkit.com/)
+* how to manage HTML DOMwith vanilla JavaScript only : [https://htmldom.dev/](https://htmldom.dev)
+* The Vanilla JS Toolkit : [https://vanillajstoolkit.com/](https://vanillajstoolkit.com)
 
 ## ES Modules
 
@@ -27,7 +27,7 @@
 
 ### Livre
 
-* Eloquent JavaScript 3rd edition : [https://eloquentjavascript.net/3rd\_edition/](https://eloquentjavascript.net/3rd_edition/)
+* Eloquent JavaScript 3rd edition : [https://eloquentjavascript.net/3rd\_edition/](https://eloquentjavascript.net/3rd\_edition/)
 
 ### Guidelines
 
@@ -44,7 +44,7 @@
 * Performance focused, lightweight scroll animation library: [https://github.com/mciastek/sal](https://github.com/mciastek/sal)
 * Standalone parallax scrolling for mobile and desktop with CSS variables : [https://github.com/electerious/basicScroll](https://github.com/electerious/basicScroll)
 * Smooth Scroll : [https://github.com/cferdinandi/smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
-* Simple & light weight \(&lt;3kb gzipped\) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll!  : [https://github.com/alexfoxy/laxxx](https://github.com/alexfoxy/laxxx)
+* Simple & light weight (<3kb gzipped) vanilla javascript plugin to create smooth & beautiful animations when you scrolllll!  : [https://github.com/alexfoxy/laxxx](https://github.com/alexfoxy/laxxx)
 
 ### Masonry layout
 
@@ -61,21 +61,21 @@
 
 ### Fonts
 
-* Font Face Observer is a fast and simple web font loader : [https://fontfaceobserver.com/](https://fontfaceobserver.com/)
+* Font Face Observer is a fast and simple web font loader : [https://fontfaceobserver.com/](https://fontfaceobserver.com)
 * Lettering.js in vanilla JavaScript : [https://github.com/yuanqing/charming](https://github.com/yuanqing/charming)
 * document.fonts.ready : [https://stackoverflow.com/questions/5680013/how-to-be-notified-once-a-web-font-has-loaded](https://stackoverflow.com/questions/5680013/how-to-be-notified-once-a-web-font-has-loaded)
 
 ### Lightbox
 
 * baguetteBox : [https://github.com/feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js)
-* photoswipe : [http://photoswipe.com/](http://photoswipe.com/)
+* photoswipe : [http://photoswipe.com/](http://photoswipe.com)
 * Featherlight : [https://noelboss.github.io/featherlight/](https://noelboss.github.io/featherlight/)
 
 ### Parralax
 
 * Cheapass Parallax : [https://daverupert.com/2018/02/cheapass-parallax/](https://daverupert.com/2018/02/cheapass-parallax/)
 * Scrollmonitor parallax : [https://github.com/stutrek/scrollmonitor-parallax](https://github.com/stutrek/scrollmonitor-parallax)
-* Standalone parallax scrolling with CSS variables : [https://basicscroll.electerious.com/](https://basicscroll.electerious.com/)
+* Standalone parallax scrolling with CSS variables : [https://basicscroll.electerious.com/](https://basicscroll.electerious.com)
 * Rallax : [https://github.com/ChrisCavs/rallax.js](https://github.com/ChrisCavs/rallax.js)
 * Rellax : [https://github.com/dixonandmoe/rellax](https://github.com/dixonandmoe/rellax)
 
@@ -90,7 +90,7 @@
 
 ### Carousel
 
-* Flickity : [https://flickity.metafizzy.co/](https://flickity.metafizzy.co/)
+* Flickity : [https://flickity.metafizzy.co/](https://flickity.metafizzy.co)
 * Glider : [https://nickpiscitelli.github.io/Glider.js/](https://nickpiscitelli.github.io/Glider.js/)
 
 ### Lazyload
@@ -99,7 +99,7 @@
 
 ### Pages Transitions
 
-* [https://highway.js.org/](https://highway.js.org/)
+* [https://highway.js.org/](https://highway.js.org)
 
 ### React
 
@@ -113,3 +113,6 @@ Rate limiter : [https://github.com/jhurliman/node-rate-limiter](https://github.c
 
 * Use external SVG spritemaps today : [https://github.com/jonathantneal/svg4everybody](https://github.com/jonathantneal/svg4everybody)
 
+### Next js
+
+Build a blog with Next (React.js) and Strapi : [https://strapi.io/blog/build-a-blog-with-next-react-js-strapi](https://strapi.io/blog/build-a-blog-with-next-react-js-strapi)
