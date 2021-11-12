@@ -4,7 +4,7 @@
 
 Supprimer les fichiers générés et les regénérer
 
-```text
+```
 rm -rf _site && bundle exec jekyll serve --incremental --livereload --trace
 ```
 
@@ -15,4 +15,3 @@ rm -rf _site && bundle exec jekyll serve --incremental --livereload --trace
 ## Articles
 
 [https://jamstatic.fr/2019/09/07/de-jekyll-a-eleventy/](https://jamstatic.fr/2019/09/07/de-jekyll-a-eleventy/)
-

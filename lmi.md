@@ -22,4 +22,5 @@ CIB
 
 * [https://www.disinfo.eu/publications/cib-detection-tree-4th-branch/](https://www.disinfo.eu/publications/cib-detection-tree-4th-branch/)
 * Given a set of URLs, this package detects coordinated link sharing behavior (CLSB) and outputs the network of entities that performed such behavior. [https://github.com/fabiogiglietto/CooRnet/](https://github.com/fabiogiglietto/CooRnet/)
-* \
+
+\

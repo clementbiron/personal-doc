@@ -1,4 +1,4 @@
-# GIT
+# Git
 
 **Commit**
 
