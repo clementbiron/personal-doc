@@ -29,6 +29,7 @@
   * [JavaScript](javascript.md)
     * [React](react.md)
     * [Typescript](typescript.md)
+  * [NextJS](dev/nextjs.md)
   * [SVG](svg.md)
   * [Gulp](gulp.md)
   * [Babun](babun.md)
