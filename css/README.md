@@ -19,3 +19,4 @@ A trier
 * Text Crop : [http://text-crop.eightshapes.com/](http://text-crop.eightshapes.com)
 * A CSS-only, animated, wrapping underline : [https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline](https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline)
 * min(), max(), and clamp() CSS Functions : [https://ishadeed.com/article/css-min-max-clamp/](https://ishadeed.com/article/css-min-max-clamp/)
+* Shadow Palette Generator : [https://www.joshwcomeau.com/shadow-palette/](https://www.joshwcomeau.com/shadow-palette/)
