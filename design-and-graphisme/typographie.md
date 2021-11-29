@@ -6,9 +6,10 @@
 * Trending in Type : [https://www.typewolf.com/](https://www.typewolf.com)
 * bjrtypo : [http://bjrtypo.com/](http://bjrtypo.com)
 
-### Banque et assimilés
+### Banques et collections
 
 * Biodiversity Heritage Library [https://www.flickr.com/photos/biodivlibrary/albums](https://www.flickr.com/photos/biodivlibrary/albums)
+* [https://www.behance.net/collection/18660063/Free-fonts](https://www.behance.net/collection/18660063/Free-fonts)
 
 ### Fonderie
 
