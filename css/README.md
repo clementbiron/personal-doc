@@ -4,7 +4,7 @@
 A trier
 {% endhint %}
 
-**Articles **
+**Articles**&#x20;
 
 * [Modern and simple css @font-face generator](https://transfonter.org)
 * The state of CSS Masonry layout : [https://regisphilibert.com/blog/2017/12/pure-css-masonry-layout-with-flexbox-grid-columns-in-2018/](https://regisphilibert.com/blog/2017/12/pure-css-masonry-layout-with-flexbox-grid-columns-in-2018/)
@@ -20,3 +20,4 @@ A trier
 * A CSS-only, animated, wrapping underline : [https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline](https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline)
 * min(), max(), and clamp() CSS Functions : [https://ishadeed.com/article/css-min-max-clamp/](https://ishadeed.com/article/css-min-max-clamp/)
 * Shadow Palette Generator : [https://www.joshwcomeau.com/shadow-palette/](https://www.joshwcomeau.com/shadow-palette/)
+* Underline fill effect [https://codepen.io/codyhouse/pen/YzxmYYX](https://codepen.io/codyhouse/pen/YzxmYYX)
