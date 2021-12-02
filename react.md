@@ -10,3 +10,9 @@
 * React / Redux links : [https://github.com/markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
 * [https://react-hook-form.com/](https://react-hook-form.com)
 
+
+
+### Icones
+
+[https://docs.iconify.design/icon-components/react/](https://docs.iconify.design/icon-components/react/)
+
