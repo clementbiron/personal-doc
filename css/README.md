@@ -20,4 +20,5 @@ A trier
 * A CSS-only, animated, wrapping underline : [https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline](https://nickymeuleman.netlify.app/blog/css-animated-wrapping-underline)
 * min(), max(), and clamp() CSS Functions : [https://ishadeed.com/article/css-min-max-clamp/](https://ishadeed.com/article/css-min-max-clamp/)
 * Shadow Palette Generator : [https://www.joshwcomeau.com/shadow-palette/](https://www.joshwcomeau.com/shadow-palette/)
-* Underline fill effect [https://codepen.io/codyhouse/pen/YzxmYYX](https://codepen.io/codyhouse/pen/YzxmYYX)
+* Underline fill effect [https://codepen.io/codyhouse/pen/YzxmYY](https://codepen.io/codyhouse/pen/YzxmYYX)
+* Defensive CSS : [https://ishadeed.com/article/defensive-css/](https://ishadeed.com/article/defensive-css/)
