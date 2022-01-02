@@ -22,3 +22,4 @@ A trier
 * Shadow Palette Generator : [https://www.joshwcomeau.com/shadow-palette/](https://www.joshwcomeau.com/shadow-palette/)
 * Underline fill effect [https://codepen.io/codyhouse/pen/YzxmYY](https://codepen.io/codyhouse/pen/YzxmYYX)
 * Defensive CSS : [https://ishadeed.com/article/defensive-css/](https://ishadeed.com/article/defensive-css/)
+* Learn CSS selector with interactive game [https://flukeout.github.io/](https://flukeout.github.io)
