@@ -24,3 +24,4 @@ A trier
 * Defensive CSS : [https://ishadeed.com/article/defensive-css/](https://ishadeed.com/article/defensive-css/)
 * Learn CSS selector with interactive game [https://flukeout.github.io/](https://flukeout.github.io)
 * Gradient generator : [https://www.joshwcomeau.com/gradient-generator/](https://www.joshwcomeau.com/gradient-generator/)
+* CSS loading animations with minimal effort : [https://whirl.netlify.app/](https://whirl.netlify.app)
