@@ -11,3 +11,7 @@
 {% embed url="https://github.com/megadose/facebook_totem" %}
 
 {% embed url="https://github.com/HowToFind-bot/osint-tools" %}
+
+{% embed url="https://github.com/cartographia/geospatial-intelligence-library" %}
+
+[https://github.com/cartographia/geospatial-intelligence-library](https://github.com/cartographia/geospatial-intelligence-library)
