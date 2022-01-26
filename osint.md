@@ -14,4 +14,6 @@
 
 {% embed url="https://github.com/cartographia/geospatial-intelligence-library" %}
 
-[https://github.com/cartographia/geospatial-intelligence-library](https://github.com/cartographia/geospatial-intelligence-library)
+{% embed url="https://github.com/cartographia/geospatial-intelligence-library" %}
+
+[https://threatcops.com/](https://threatcops.com)
