@@ -18,4 +18,6 @@
 
 {% embed url="https://github.com/laramies/theHarvester" %}
 
-[https://www.spiderfoot.net/](https://www.spiderfoot.net)
+{% embed url="https://www.spiderfoot.net" %}
+
+{% embed url="https://sector035.nl/links" %}
