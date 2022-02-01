@@ -21,3 +21,5 @@
 {% embed url="https://www.spiderfoot.net" %}
 
 {% embed url="https://sector035.nl/links" %}
+
+{% embed url="https://cipher387.github.io/osintmap" %}
