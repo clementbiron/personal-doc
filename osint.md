@@ -23,3 +23,5 @@
 {% embed url="https://sector035.nl/links" %}
 
 {% embed url="https://cipher387.github.io/osintmap" %}
+
+{% embed url="https://github.com/cipher387/osint_stuff_tool_collection" %}
