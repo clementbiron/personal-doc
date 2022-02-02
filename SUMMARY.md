@@ -45,6 +45,7 @@
   * [Windows](operating-system/windows.md)
 * [LMI](lmi.md)
 * [Autre](autre/README.md)
+  * [Public](autre/public.md)
   * [Cyberespace](autre/cyberespace.md)
   * [Travail](autre/travail.md)
   * [AE](autre/ae.md)
