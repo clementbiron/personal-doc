@@ -115,3 +115,9 @@
 ## Game
 
 * [https://www.darkpattern.games/](https://www.darkpattern.games)
+
+## Skeletons Screen
+
+{% embed url="https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a" %}
+
+{% embed url="https://medium.com/uxd-talks/engaging-users-with-progressive-loading-in-skeleton-screen-335a4e287a55" %}
