@@ -13,6 +13,7 @@ A trier
 * [https://free-for.dev/#/](https://free-for.dev/#/)
 * [https://quickref.me/](https://quickref.me)
 * naming : [https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/](https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/)
+* [https://www.patterns.dev/](https://www.patterns.dev)
 
 **Crosser browser testing**
 
