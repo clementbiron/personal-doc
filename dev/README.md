@@ -81,6 +81,10 @@ Online test to help speeding up heavy web pages : [http://yellowlab.tools/](http
 
 * [https://paco.me/](https://paco.me)
 
+#### Articles
+
+* [https://css-tricks.com/web-development-bookmarklets/](https://css-tricks.com/web-development-bookmarklets/)
+
 ## Design system
 
 * Tons of information on refactoring, design patterns, SOLID principles and other smart programming topics : [https://refactoring.guru/](https://refactoring.guru)
