@@ -17,6 +17,7 @@
 * [https://osome.iu.edu/](https://osome.iu.edu)
 * [https://www.maltego.com/](https://www.maltego.com)
 * [https://www.smat-app.com](https://www.smat-app.com)
+* [https://www.francetvinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-fake-news-la-machine-a-fric\_4736283.html](https://www.francetvinfo.fr/replay-magazine/france-2/complement-d-enquete/complement-d-enquete-fake-news-la-machine-a-fric\_4736283.html)
 
 CIB
 
