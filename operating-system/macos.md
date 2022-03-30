@@ -3,7 +3,7 @@
 ## Shortcuts
 
 * émoticones : `ctrl + cmd + space`
-*  \[ _ou_ \] : `opt + maj + (` _ou_ `opt + maj + )`
+* &#x20;\[ _ou_ ] : `opt + maj + (` _ou_ `opt + maj + )`
 * { _ou_ } : `opt + (` _ou_ `opt + )`
 * screenshot portion of screen to clipboard : `cmd + ctrl + maj + 4`
 
@@ -15,6 +15,6 @@ How I setup my MacBook for development : [https://medium.com/macoclock/how-i-set
 
 ## Apps
 
-[https://rectangleapp.com/](https://rectangleapp.com/)  
-[https://cleanshot.com/](https://cleanshot.com/)
-
+[https://rectangleapp.com/](https://rectangleapp.com)\
+[https://cleanshot.com/](https://cleanshot.com)\
+[https://www.macserialjunkie.com/](https://www.macserialjunkie.com)\
