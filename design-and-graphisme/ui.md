@@ -123,6 +123,7 @@ Ethical Design Guide : [https://ethicaldesign.guide/](https://ethicaldesign.guid
 * [https://zemys.com/](https://zemys.com)
 * [https://ui8.net/](https://ui8.net)
 * [https://www.designcuts.com/](https://www.designcuts.com)
+* [https://dopeui.co/](https://dopeui.co)
 
 ## Sound design
 
