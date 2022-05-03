@@ -70,6 +70,7 @@
 * Little Big Details : [http://littlebigdetails.com/](http://littlebigdetails.com)
 * How Zenly Nailed It - Product Methods : [https://fr.slideshare.net/MaximeBraud/how-zenly-nailed-it-product-analysis](https://fr.slideshare.net/MaximeBraud/how-zenly-nailed-it-product-analysis)
 * Road to a Great Product - Methods, Tools and Hacks  [https://fr.slideshare.net/MaximeBraud/road-to-a-great-product-methods-tools-and-hacks](https://fr.slideshare.net/MaximeBraud/road-to-a-great-product-methods-tools-and-hacks)
+* Learn about Content Harmony's brand philosophy, voice & tone, visual styles, and editorial guidelines : [https://www.contentharmony.com/brand/](https://www.contentharmony.com/brand/)
 
 ## Livres
 
