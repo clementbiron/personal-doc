@@ -8,21 +8,21 @@ A trier
 
 #### Ressources
 
-* Learn X in Y minutes, Take a whirlwind tour of your next favorite language. Community-driven! : [https://learnxinyminutes.com/](https://learnxinyminutes.com)
-* [https://devhints.io/](https://devhints.io)
+* Learn X in Y minutes, Take a whirlwind tour of your next favorite language. Community-driven! : [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
+* [https://devhints.io/](https://devhints.io/)
 * [https://free-for.dev/#/](https://free-for.dev/#/)
-* [https://quickref.me/](https://quickref.me)
+* [https://quickref.me/](https://quickref.me/)
 * naming : [https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/](https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/)
-* [https://www.patterns.dev/](https://www.patterns.dev)
-* [https://www.timestamp-converter.com/](https://www.timestamp-converter.com)
+* [https://www.patterns.dev/](https://www.patterns.dev/)
+* [https://www.timestamp-converter.com/](https://www.timestamp-converter.com/)
 
 **Crosser browser testing**
 
-* [https://www.lambdatest.com/](https://www.lambdatest.com)
+* [https://www.lambdatest.com/](https://www.lambdatest.com/)
 
 **RGPD**
 
-* Cookie Manager tarteaucitron.js [https://opt-out.ferank.eu/](https://opt-out.ferank.eu)
+* Cookie Manager tarteaucitron.js [https://opt-out.ferank.eu/](https://opt-out.ferank.eu/)
 * Consent Management : [https://www.quantcast.com/gdpr/consent-management-solution/](https://www.quantcast.com/gdpr/consent-management-solution/)
 
 **SQL**
@@ -31,31 +31,39 @@ A trier
 
 **Datas**
 
-* Realistic random data generator : [https://mockaroo.com/](https://mockaroo.com)
+* Realistic random data generator : [https://mockaroo.com/](https://mockaroo.com/)
 
 **LAMP**
 
-* [https://laragon.org/](https://laragon.org)
+* [https://laragon.org/](https://laragon.org/)
 
 **Regex**
 
-* Online regex tester : [https://regex101.com/](https://regex101.com)
+* Online regex tester : [https://regex101.com/](https://regex101.com/)
 * [https://jex.im/regulex/](https://jex.im/regulex/)
-* Pour mieux comprendre ce que fait une regexn, un outil de visualisation : [https://regex-vis.com/](https://regex-vis.com)
+* Pour mieux comprendre ce que fait une regexn, un outil de visualisation : [https://regex-vis.com/](https://regex-vis.com/)
 
 &#x20;**JSON**
 
-* [https://jsoneditoronline.org/](https://jsoneditoronline.org)
+* [https://jsoneditoronline.org/](https://jsoneditoronline.org/)
 
-RGPD :
+**RGPD**&#x20;
 
 * [https://www.donneespersonnelles.fr/comment-mettre-google-analytics-en-conformite-au-rgpd](https://www.donneespersonnelles.fr/comment-mettre-google-analytics-en-conformite-au-rgpd)
 
-Communities
+**Communities**
 
-* [https://techcommunities.fr/](https://techcommunities.fr)
+* [https://techcommunities.fr/](https://techcommunities.fr/)
 
-Online test to help speeding up heavy web pages : [http://yellowlab.tools/](http://yellowlab.tools)
+
+
+Online test to help speeding up heavy web pages : [http://yellowlab.tools/](http://yellowlab.tools/)
+
+
+
+**RFC**&#x20;
+
+* Exemple :thumbsup: [https://github.com/openfisca/openfisca-france/issues/1618](https://github.com/openfisca/openfisca-france/issues/1618)
 
 ## Front
 
@@ -77,11 +85,11 @@ Online test to help speeding up heavy web pages : [http://yellowlab.tools/](http
 
 #### Slider
 
-* [https://splidejs.com/](https://splidejs.com)
+* [https://splidejs.com/](https://splidejs.com/)
 
 #### Developers
 
-* [https://paco.me/](https://paco.me)
+* [https://paco.me/](https://paco.me/)
 
 #### Articles
 
@@ -89,6 +97,6 @@ Online test to help speeding up heavy web pages : [http://yellowlab.tools/](http
 
 ## Design system
 
-* Tons of information on refactoring, design patterns, SOLID principles and other smart programming topics : [https://refactoring.guru/](https://refactoring.guru)
-* The repository of publicly available design systems and pattern libraries : [https://adele.uxpin.com/](https://adele.uxpin.com)
-* Powerful component libraries & styleguides that fit the way you work : [https://fractal.build/](https://fractal.build)
+* Tons of information on refactoring, design patterns, SOLID principles and other smart programming topics : [https://refactoring.guru/](https://refactoring.guru/)
+* The repository of publicly available design systems and pattern libraries : [https://adele.uxpin.com/](https://adele.uxpin.com/)
+* Powerful component libraries & styleguides that fit the way you work : [https://fractal.build/](https://fractal.build/)
