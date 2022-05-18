@@ -42,7 +42,14 @@ git fetch some_user
 git checkout -b my_name_for_their_branch some_user/their_branch
 ```
 
-Modifying an inactive pull request locally **:** [https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
+**Modifying an inactive pull request locally**\
+****[https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
+
+**Change a commit message in git after push**
+
+```
+git commit --amend -m "New message"
+```
 
 **Error**
 
