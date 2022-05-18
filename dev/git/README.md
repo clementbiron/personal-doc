@@ -34,6 +34,14 @@
 * From SSH to HTTPS : `git remote set-url origin https://github.com/USERNAME/REPOSITORY.git`
 * From HTTPS to SSH : `git remote set-url origin git@github.com:USERNAME/REPOSITORY.git`
 
+**Pull a Branch from Another User's Fork**
+
+```bash
+git remote add some_user git@github.com:some_user/repo_name.git
+git fetch some_user
+git checkout -b my_name_for_their_branch some_user/their_branch
+```
+
 **Error**
 
 * LF will be replaced by CLRF" warning in Git on Windows : `git config --global core.safecrlf false`
@@ -41,9 +49,11 @@
 **Articles**
 
 * Comment déployer sur un serveur distant en une commande GIT, pas à pas : [https://medium.com/@stadja/comment-d%C3%A9ployer-sur-un-serveur-distant-en-une-commande-git-pas-%C3%A0-pas-bdcf5aaf172d](https://medium.com/@stadja/comment-d%C3%A9ployer-sur-un-serveur-distant-en-une-commande-git-pas-%C3%A0-pas-bdcf5aaf172d)
-* [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
+
+
 
 **Ressources**
 
 * [https://ohshitgit.com/](https://ohshitgit.com/)
 * [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
+* [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
