@@ -3,8 +3,8 @@
 
 
 * Quicklook, quick preview : [https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s?activetab=pivot:overviewtab](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s?activetab=pivot:overviewtab)
-* Wox launcher : [http://www.wox.one/](http://www.wox.one)
-* Bulk install Windows apps quickly with Windows Package Manager. : [https://winstall.app/](https://winstall.app)
+* Wox launcher : [http://www.wox.one/](http://www.wox.one/)
+* Bulk install Windows apps quickly with Windows Package Manager. : [https://winstall.app/](https://winstall.app/)
 
 ## WSL
 
@@ -30,5 +30,5 @@ sudo chown -R myuser /path/to/folder
 
 Caractères spéciaux Windows :
 
-* `` `  ``  : `alt + 96`
+* `` ` ``  : `alt + 96`
 * `É` : `alt + 144`

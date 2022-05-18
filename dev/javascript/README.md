@@ -16,8 +16,8 @@
 * Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less : [https://github.com/Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 * Rest parameter et spread operator en Javascript : [https://blog.nathanaelcherrier.com/fr/rest-parameter-et-spread-operator-en-javascript/](https://blog.nathanaelcherrier.com/fr/rest-parameter-et-spread-operator-en-javascript/)
 * Learn JavaScript : [https://learnjavascript.online/app.html](https://learnjavascript.online/app.html)
-* how to manage HTML DOMwith vanilla JavaScript only : [https://htmldom.dev/](https://htmldom.dev)
-* The Vanilla JS Toolkit : [https://vanillajstoolkit.com/](https://vanillajstoolkit.com)
+* how to manage HTML DOMwith vanilla JavaScript only : [https://htmldom.dev/](https://htmldom.dev/)
+* The Vanilla JS Toolkit : [https://vanillajstoolkit.com/](https://vanillajstoolkit.com/)
 
 ## ES Modules
 
@@ -59,21 +59,21 @@
 
 ### Fonts
 
-* Font Face Observer is a fast and simple web font loader : [https://fontfaceobserver.com/](https://fontfaceobserver.com)
+* Font Face Observer is a fast and simple web font loader : [https://fontfaceobserver.com/](https://fontfaceobserver.com/)
 * Lettering.js in vanilla JavaScript : [https://github.com/yuanqing/charming](https://github.com/yuanqing/charming)
 * document.fonts.ready : [https://stackoverflow.com/questions/5680013/how-to-be-notified-once-a-web-font-has-loaded](https://stackoverflow.com/questions/5680013/how-to-be-notified-once-a-web-font-has-loaded)
 
 ### Lightbox
 
 * baguetteBox : [https://github.com/feimosi/baguetteBox.js](https://github.com/feimosi/baguetteBox.js)
-* photoswipe : [http://photoswipe.com/](http://photoswipe.com)
+* photoswipe : [http://photoswipe.com/](http://photoswipe.com/)
 * Featherlight : [https://noelboss.github.io/featherlight/](https://noelboss.github.io/featherlight/)
 
 ### Parralax
 
 * Cheapass Parallax : [https://daverupert.com/2018/02/cheapass-parallax/](https://daverupert.com/2018/02/cheapass-parallax/)
 * Scrollmonitor parallax : [https://github.com/stutrek/scrollmonitor-parallax](https://github.com/stutrek/scrollmonitor-parallax)
-* Standalone parallax scrolling with CSS variables : [https://basicscroll.electerious.com/](https://basicscroll.electerious.com)
+* Standalone parallax scrolling with CSS variables : [https://basicscroll.electerious.com/](https://basicscroll.electerious.com/)
 * Rallax : [https://github.com/ChrisCavs/rallax.js](https://github.com/ChrisCavs/rallax.js)
 * Rellax : [https://github.com/dixonandmoe/rellax](https://github.com/dixonandmoe/rellax)
 
@@ -88,7 +88,7 @@
 
 ### Carousel
 
-* Flickity : [https://flickity.metafizzy.co/](https://flickity.metafizzy.co)
+* Flickity : [https://flickity.metafizzy.co/](https://flickity.metafizzy.co/)
 * Glider : [https://nickpiscitelli.github.io/Glider.js/](https://nickpiscitelli.github.io/Glider.js/)
 
 ### Lazyload
@@ -97,7 +97,7 @@
 
 ### Pages Transitions
 
-* [https://highway.js.org/](https://highway.js.org)
+* [https://highway.js.org/](https://highway.js.org/)
 
 ### React
 

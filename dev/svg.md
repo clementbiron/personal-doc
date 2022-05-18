@@ -2,7 +2,7 @@
 
 ## Articles de références
 
-* Site de référence : [https://svgontheweb.com/](https://svgontheweb.com)
+* Site de référence : [https://svgontheweb.com/](https://svgontheweb.com/)
 * Styling SVG  Content with CSS : [https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/](https://tympanus.net/codrops/2015/07/16/styling-svg-use-content-css/)
 * [Sprite](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
 * Comprendre SVG preserveAspectRatio : [https://la-cascade.io/comprendre-svg-preserveaspectratio/](https://la-cascade.io/comprendre-svg-preserveaspectratio/)

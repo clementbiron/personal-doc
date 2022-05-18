@@ -45,5 +45,5 @@
 
 **Ressources**
 
-* [https://ohshitgit.com/](https://ohshitgit.com)
-* [https://learngitbranching.js.org/](https://learngitbranching.js.org)
+* [https://ohshitgit.com/](https://ohshitgit.com/)
+* [https://learngitbranching.js.org/](https://learngitbranching.js.org/)

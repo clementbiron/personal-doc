@@ -7,11 +7,11 @@
 
 **Guidelines**
 
-* [https://sass-guidelin.es/](https://sass-guidelin.es)
+* [https://sass-guidelin.es/](https://sass-guidelin.es/)
 
 **Pour installer Sass (version ruby)**
 
-* installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org)&#x20;
+* installer ruby [http://rubyinstaller.org/](http://rubyinstaller.org/)&#x20;
 * ajouter C:\Ruby23-x64\bin aux variables d'environnement
 * vérifier ruby : ruby -v
 * vérifier gem : gem -v

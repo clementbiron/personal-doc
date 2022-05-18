@@ -13,7 +13,7 @@
 
 * Make Visual Studio Code Your Editor [https://scotch.io/courses/make-visual-studio-code-your-editor](https://scotch.io/courses/make-visual-studio-code-your-editor)
 * Visual Studio Code for PHP Developers : [https://laracasts.com/series/visual-studio-code-for-php-developers](https://laracasts.com/series/visual-studio-code-for-php-developers)
-* All the best things about Visual Studio Code that nobody ever bothered to tell you : [https://vscodecandothat.com/](https://vscodecandothat.com)
+* All the best things about Visual Studio Code that nobody ever bothered to tell you : [https://vscodecandothat.com/](https://vscodecandothat.com/)
 
 **Extensions**
 

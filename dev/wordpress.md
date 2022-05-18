@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="ACF" %}
-* Extensions : [http://awesomeacf.com/](http://awesomeacf.com)
+* Extensions : [http://awesomeacf.com/](http://awesomeacf.com/)
 * Image responsive : [http://aaronrutley.com/responsive-images-in-wordpress-with-acf/](http://aaronrutley.com/responsive-images-in-wordpress-with-acf/)
 * Add Sortable ACF Admin Column : [https://support.advancedcustomfields.com/forums/topic/add-sortable-acf-admin-column/](https://support.advancedcustomfields.com/forums/topic/add-sortable-acf-admin-column/)
 * Understanding where your ACF field group settings are coming from : [https://awesomeacf.com/understanding-where-your-acf-field-group-settings-are-coming-from/](https://awesomeacf.com/understanding-where-your-acf-field-group-settings-are-coming-from/)
@@ -15,7 +15,7 @@
 * Créer un Formulaire de Connexion & Inscription en AJAX grâce à ACF Form : [https://hwk.fr/blog/acf-creer-un-formulaire-de-connexion-inscription-en-ajax-grace-acf-form](https://hwk.fr/blog/acf-creer-un-formulaire-de-connexion-inscription-en-ajax-grace-acf-form)
 * A tester :&#x20;
   * Afficher les champs ACF dans la post table : [https://github.com/mcguffin/acf-quick-edit-fields](https://github.com/mcguffin/acf-quick-edit-fields)
-  * Extensions pour créer des formulaires avec des champs ACF : [https://advancedforms.github.io/](https://advancedforms.github.io)
+  * Extensions pour créer des formulaires avec des champs ACF : [https://advancedforms.github.io/](https://advancedforms.github.io/)
   * ACF Columns : [https://fr.wordpress.org/plugins/acf-columns/](https://fr.wordpress.org/plugins/acf-columns/)
   * [https://github.com/MarieComet/MC-ACF-Flexible-Template/](https://github.com/MarieComet/MC-ACF-Flexible-Template/)
   * [https://github.com/7studio/acf-svg-icon](https://github.com/7studio/acf-svg-icon)
@@ -77,7 +77,7 @@
 * WP Backdoor user (devenir admin via upload d'un fichier sur le ftp) : [http://boiteaweb.fr/plugin-backdoor-user-3311.html](http://boiteaweb.fr/plugin-backdoor-user-3311.html)
 * Sortable taxonomy columns : [http://scribu.net/wordpress/sortable-taxonomy-columns.html](http://scribu.net/wordpress/sortable-taxonomy-columns.html)
 * Liste des emails envoyés par WordPress : [https://gist.github.com/johnbillion/0a48021de5510c41d517](https://gist.github.com/johnbillion/0a48021de5510c41d517)
-* Useful developer tools for working with WordPress : [http://wpgear.org/](http://wpgear.org)
+* Useful developer tools for working with WordPress : [http://wpgear.org/](http://wpgear.org/)
 * Rewrite Rules Inspector [https://wordpress.org/plugins/rewrite-rules-inspector/](https://wordpress.org/plugins/rewrite-rules-inspector/)
 * Snippets : [https://hwk.fr/codes](https://hwk.fr/codes)
 * A Deep Dive Into WordPress Automatic Updates : [https://kinsta.com/blog/wordpress-automatic-updates/](https://kinsta.com/blog/wordpress-automatic-updates/)
@@ -94,6 +94,6 @@
 **Elementor**
 
 * [https://trello.com/b/52NXAeg2/elementor-resources-for-and-by-the-community](https://trello.com/b/52NXAeg2/elementor-resources-for-and-by-the-community)
-* [https://pafe.piotnet.com/](https://pafe.piotnet.com)
+* [https://pafe.piotnet.com/](https://pafe.piotnet.com/)
 {% endtab %}
 {% endtabs %}

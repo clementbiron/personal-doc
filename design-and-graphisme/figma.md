@@ -6,7 +6,7 @@
 
 {% embed url="https://figmalion.com/" %}
 
-[https://uxtoolset.com/](https://uxtoolset.com)
+[https://uxtoolset.com/](https://uxtoolset.com/)
 
 ### Shortcuts
 
