@@ -25,3 +25,4 @@ A trier
 * Learn CSS selector with interactive game [https://flukeout.github.io/](https://flukeout.github.io/)
 * Gradient generator : [https://www.joshwcomeau.com/gradient-generator/](https://www.joshwcomeau.com/gradient-generator/)
 * CSS loading animations with minimal effort : [https://whirl.netlify.app/](https://whirl.netlify.app/)
+* The Surprising Truth About Pixels and Accessibility : [https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
