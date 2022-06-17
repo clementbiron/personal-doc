@@ -47,6 +47,7 @@
 * ohnotype : [https://ohnotype.co](https://ohnotype.co)
 * TFA is an online project to collect type foundries and build a link list of type foundries worldwide – independent or not, small or big, everyone. : [http://type-foundries-archive.com/](http://type-foundries-archive.com/)
 * Bye Bye Binary (BBB) est une collective franco-belge, une expérimentation pédagogique, une communauté, un atelier de création typo·graphique variable, un réseau, une alliance : [http://genderfluid.space/](http://genderfluid.space/)
+* [https://www.milieugrotesque.com/](https://www.milieugrotesque.com/)
 
 ### Fonderie / Typos Open Source
 
