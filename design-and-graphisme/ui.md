@@ -43,6 +43,7 @@ Ethical Design Guide : [https://ethicaldesign.guide/](https://ethicaldesign.guid
 * [https://colors.eva.design/](https://colors.eva.design/)
 * [https://colors.muz.li/](https://colors.muz.li/)
 * Contrastes checker : [https://whocanuse.com](https://whocanuse.com)
+* [https://coolors.co/](https://coolors.co/c)
 
 ## Icons
 
