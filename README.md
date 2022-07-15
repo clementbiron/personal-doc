@@ -16,6 +16,7 @@
 * [https://www.pentagram.com](https://www.pentagram.com)
 * [http://andstudio.lt/](http://andstudio.lt/)
 * [https://koto.studio/](https://koto.studio/)
+* [https://snohetta.com/](https://snohetta.com/)
 
 ## Illustrateurs
 
