@@ -151,6 +151,7 @@ Ethical Design Guide : [https://ethicaldesign.guide/](https://ethicaldesign.guid
 ## Kits
 
 * [https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md)
+* Wireframe kit : [https://norikit.com/](https://norikit.com/)
 
 ## 3D
 
