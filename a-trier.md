@@ -12,3 +12,19 @@ Carte antenne 4G\
 [https://www.antennesmobiles.fr/index.php?geo\&show](https://www.antennesmobiles.fr/index.php?geo\&show)
 
 [https://thedecisionlab.com/biases/the-sunk-cost-fallacy](https://thedecisionlab.com/biases/the-sunk-cost-fallacy)\
+\
+[https://promptbase.com/](https://promptbase.com/)\
+\
+[https://medium.com/mlearning-ai/an-advanced-guide-to-writing-prompts-for-midjourney-text-to-image-aa12a1e33b6](https://medium.com/mlearning-ai/an-advanced-guide-to-writing-prompts-for-midjourney-text-to-image-aa12a1e33b6)\
+\
+[https://ando.studio/](https://ando.studio/)\
+\
+[https://twitter.com/levelsio/status/1565731907664478209](https://twitter.com/levelsio/status/1565731907664478209)
+
+{% embed url="https://gist.github.com/breadthe/691314c6156c6ccd462049a54ea52a2a" %}
+
+[https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important](https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important)
+
+[https://replicate.com/blog/run-stable-diffusion-on-m1-mac](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
+
+[https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial\_how\_to\_remove\_the\_safety\_filter\_in\_5/](https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial\_how\_to\_remove\_the\_safety\_filter\_in\_5/)\
