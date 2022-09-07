@@ -9,4 +9,6 @@ Matériel 4G\
 [https://techvorace.com/](https://techvorace.com/)\
 \
 Carte antenne 4G\
-[https://www.antennesmobiles.fr/index.php?geo\&show](https://www.antennesmobiles.fr/index.php?geo\&show)\
+[https://www.antennesmobiles.fr/index.php?geo\&show](https://www.antennesmobiles.fr/index.php?geo\&show)
+
+[https://thedecisionlab.com/biases/the-sunk-cost-fallacy](https://thedecisionlab.com/biases/the-sunk-cost-fallacy)\
