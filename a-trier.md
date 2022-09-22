@@ -1,5 +1,7 @@
 # A trier
 
+
+
 Bypass paywall : [https://12ft.io/](https://12ft.io/)\
 Abonnement pour accéder en illimité à des milliers de ressources[ :  https://easybnf.fr/ ](https://easybnf.fr/)
 
@@ -25,6 +27,8 @@ Carte antenne 4G\
 
 [https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important](https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important)
 
-[https://replicate.com/blog/run-stable-diffusion-on-m1-mac](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
+{% embed url="https://replicate.com/blog/run-stable-diffusion-on-m1-mac" %}
 
-[https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial\_how\_to\_remove\_the\_safety\_filter\_in\_5/](https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial\_how\_to\_remove\_the\_safety\_filter\_in\_5/)\
+[https://scribehow.com/](https://scribehow.com/)
+
+{% embed url="https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial_how_to_remove_the_safety_filter_in_5/" %}
