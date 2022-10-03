@@ -27,3 +27,5 @@ A trier
 * CSS loading animations with minimal effort : [https://whirl.netlify.app/](https://whirl.netlify.app/)
 * The Surprising Truth About Pixels and Accessibility : [https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/](https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/)
 * Modern CSS Solutions for Old CSS Problems [https://moderncss.dev/topics/](https://moderncss.dev/topics/)
+* Fallback Font Generator : [https://screenspan.net/fallback](https://screenspan.net/fallback)
+
