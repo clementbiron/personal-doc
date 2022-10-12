@@ -52,6 +52,7 @@
 * [https://goodtypefoundry.com/](https://goodtypefoundry.com/)
 * [https://klim.co.nz/](https://klim.co.nz/)
 * [https://sharptype.co/](https://sharptype.co/)
+* [https://frerejones.com/](https://frerejones.com/)
 
 ### Fonderie / Typos Open Source
 
