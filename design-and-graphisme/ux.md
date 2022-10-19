@@ -17,7 +17,7 @@
 * Le brief de design UX : qui, pourquoi, quand, comment ? [https://medium.com/designers-interactifs/le-brief-de-design-ux-qui-pourquoi-quand-comment-673065a3cdbd](https://medium.com/designers-interactifs/le-brief-de-design-ux-qui-pourquoi-quand-comment-673065a3cdbd)
 * [http://toolbox.hyperisland.com/](http://toolbox.hyperisland.com/) : a resource kit you can use to apply creative collaboration and unleash potential in your team or organization.
 * 5 Prioritization Methods in UX Roadmapping : [https://www.nngroup.com/articles/prioritization-methods/](https://www.nngroup.com/articles/prioritization-methods/)
-* Usability heuristic frameworks: which one is right for you?
+* Usability heuristic frameworks: which one is right for you? [https://uxdesign.cc/usability-heuristic-frameworks-which-one-is-right-for-you-1962387b7cc](https://uxdesign.cc/usability-heuristic-frameworks-which-one-is-right-for-you-1962387b7cc)
 
 ## Design sprint
 
