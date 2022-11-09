@@ -32,3 +32,5 @@ Carte antenne 4G\
 [https://scribehow.com/](https://scribehow.com/)
 
 {% embed url="https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial_how_to_remove_the_safety_filter_in_5/" %}
+
+[https://opensource.guide/](https://opensource.guide/)
