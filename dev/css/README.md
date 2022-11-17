@@ -30,3 +30,4 @@ A trier
 * Fallback Font Generator : [https://screenspan.net/fallback](https://screenspan.net/fallback)
 * [https://csshero.org/mesher/](https://csshero.org/mesher/)
 
+[https://stackoverflow.com/questions/19170781/show-hide-divs-on-click-in-html-and-css-without-jquery](https://stackoverflow.com/questions/19170781/show-hide-divs-on-click-in-html-and-css-without-jquery)
