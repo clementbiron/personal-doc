@@ -69,3 +69,4 @@ git commit --amend -m "New message"
 * [https://learngitbranching.js.org/](https://learngitbranching.js.org/)
 * [https://www.conventionalcommits.org/en/v1.0.0/](https://www.conventionalcommits.org/en/v1.0.0/)
 * [https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/git-purr](https://github.com/girliemac/a-picture-is-worth-a-1000-words/tree/main/git-purr)
+* [https://ndpsoftware.com/git-cheatsheet.html#loc=index;](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
