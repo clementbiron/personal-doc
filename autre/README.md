@@ -1,5 +1,7 @@
 # Autre
 
+{% embed url="https://berkeyeurope.fr/presentation/" %}
+
 {% embed url="https://www.deshydrateurexcalibur.com/" %}
 
 {% embed url="https://www.knipex.com" %}
