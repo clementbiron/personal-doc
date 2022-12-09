@@ -1,3 +1,7 @@
 # Autre
 
-[https://www.a-lafont.com/categorie-produit/artisans-btp/](https://www.a-lafont.com/categorie-produit/artisans-btp/pantalon-de-travail-artisans-btp/?\_forme=pantalon-de-travail)
+{% embed url="https://www.deshydrateurexcalibur.com/" %}
+
+{% embed url="https://www.knipex.com" %}
+
+{% embed url="https://www.a-lafont.com/categorie-produit/artisans-btp/" %}
