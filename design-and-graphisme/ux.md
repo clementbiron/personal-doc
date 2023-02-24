@@ -4,7 +4,9 @@
 
 {% embed url="https://product-design-roadmap.com/" %}
 
-[https://www.mapuipatterns.com/](https://www.mapuipatterns.com/)
+{% embed url="https://www.mapuipatterns.com/" %}
+
+## [https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376240](https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376240)
 
 ##
 
