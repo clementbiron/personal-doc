@@ -10,6 +10,8 @@
 
 ## [https://baymard.com/](https://baymard.com/)
 
+## [https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
+
 ## Actus
 
 * [https://newflux.fr/](https://newflux.fr/)
