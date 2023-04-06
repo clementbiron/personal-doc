@@ -8,8 +8,10 @@
 * [https://www.kiblind-store.com/](https://www.kiblind-store.com/)
 * [https://www.quintalatelier.com/](https://www.quintalatelier.com/)
 * [https://www.shop-fotokino.com](https://www.shop-fotokino.com)
+* [https://www.editionslibre.org/](https://www.editionslibre.org/)
 
 ### Impression
 
 * Impression Riso et façonnage : [http://papiermachine.fr/index.html](http://papiermachine.fr/index.html)
 * Letterpress : [http://sacres-caracteres.com/](http://sacres-caracteres.com/)
+
