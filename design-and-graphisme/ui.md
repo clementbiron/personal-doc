@@ -3,7 +3,8 @@
 ## A trier
 
 [https://open-ui.org/](https://open-ui.org/)\
-Ethical Design Guide : [https://ethicaldesign.guide/](https://ethicaldesign.guide/)
+Ethical Design Guide : [https://ethicaldesign.guide/](https://ethicaldesign.guide/)\
+[https://lowww.directory/](https://lowww.directory/)
 
 ## Fonts
 
