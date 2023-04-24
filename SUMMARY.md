@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Design & graphisme](README.md)
+* [IA](README.md)
+* [Design & graphisme](<README (1).md>)
   * [Edition](design-and-graphisme/edition.md)
   * [Typographie](design-and-graphisme/typographie.md)
   * [UX](design-and-graphisme/ux.md)
