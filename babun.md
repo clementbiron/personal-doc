@@ -3,8 +3,7 @@
 * Update : babun update
 * Instal package : pact packagename
 
-**Ajouter un alias**
-
+## Ajouter un alias
 * vim \~/.babunrc
 * appuyer sur i, éditer le fichier avec l'alias à rajouter, par exemple&#x20;
 * alias gem='C:/Program Files/Ruby/bin/gem'

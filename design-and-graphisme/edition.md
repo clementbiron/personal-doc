@@ -12,6 +12,6 @@
 
 ### Impression
 
-* Impression Riso et façonnage : [http://papiermachine.fr/index.html](http://papiermachine.fr/index.html)
-* Letterpress : [http://sacres-caracteres.com/](http://sacres-caracteres.com/)
+* Impression Riso et façonnage: [http://papiermachine.fr/index.html](http://papiermachine.fr/index.html)
+* Letterpress: [http://sacres-caracteres.com/](http://sacres-caracteres.com/)
 

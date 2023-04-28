@@ -1,9 +1,7 @@
-**YARN**
-
+## YARN
 L'hébergeur ne permet pas d'utiliser ou d'installer Yarn, passer par `npm` pour installer des paquets.
 
-**NPM**
-
+## NPM
 Pour rendre la commande disponible il faut créer une application node dans cPanel
 ```
 Application Root : public_html/../build

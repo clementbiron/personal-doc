@@ -1,0 +1,1 @@
+* Cropping Away Negative Impacts of Line Height: [https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce](https://medium.com/eightshapes-llc/cropping-away-negative-impacts-of-line-height-84d744e016ce)

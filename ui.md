@@ -2,42 +2,42 @@
 
 ## Fonts
 
-* Fonts That People Actually Use : [https://icons8.com/fonts/](https://icons8.com/fonts/)
-* Font pairing : [https://fontjoy.com](https://fontjoy.com)
+* Fonts That People Actually Use: [https://icons8.com/fonts/](https://icons8.com/fonts/)
+* Font pairing: [https://fontjoy.com](https://fontjoy.com)
 
 ## Studio & Agences & Portfolio
 
-* Waaark : [https://waaark.com/fr/](https://waaark.com/fr/)
-* Active Therory : [https://activetheory.net](https://activetheory.net)
-* Octave & Octave : [http://www.octaveoctave.com/](http://www.octaveoctave.com)
-* Significa : [https://www.significa.co/](https://www.significa.co)
-* Planetary : [https://planetary.co/](https://planetary.co)
-* Hellomonday : [https://www.hellomonday.com/](https://www.hellomonday.com)
-* Simon Pan : [http://simonpan.com/](http://simonpan.com)
-* Ginlane : [https://www.ginlane.com/work/](https://www.ginlane.com/work/)
-* Instrument : [https://www.instrument.com/work/](https://www.instrument.com/work/)
-* Handsome : [https://www.handsome.is/](https://www.handsome.is)
-* Automne : [https://www.automne.studio/](https://www.automne.studio)
+* Waaark: [https://waaark.com/fr/](https://waaark.com/fr/)
+* Active Therory: [https://activetheory.net](https://activetheory.net)
+* Octave & Octave: [http://www.octaveoctave.com/](http://www.octaveoctave.com)
+* Significa: [https://www.significa.co/](https://www.significa.co)
+* Planetary: [https://planetary.co/](https://planetary.co)
+* Hellomonday: [https://www.hellomonday.com/](https://www.hellomonday.com)
+* Simon Pan: [http://simonpan.com/](http://simonpan.com)
+* Ginlane: [https://www.ginlane.com/work/](https://www.ginlane.com/work/)
+* Instrument: [https://www.instrument.com/work/](https://www.instrument.com/work/)
+* Handsome: [https://www.handsome.is/](https://www.handsome.is)
+* Automne: [https://www.automne.studio/](https://www.automne.studio)
 * [https://koto.studio/](https://koto.studio)
 * [https://www.revealstudio.co/](https://www.revealstudio.co)
 
 ## Tips & articles
 
-* Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view : [https://refactoringui.com/](https://refactoringui.com)
-* Les pourquoi du design : [http://lespourquoisdudesign.com/](http://lespourquoisdudesign.com)
-* Text fields & Forms design — UI components series : [https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
-* UI & UX Micro-Tips: Volume Eleven : [https://www.marcandrew.me/ui-ux-micro-tips-volume-eleven/](https://www.marcandrew.me/ui-ux-micro-tips-volume-eleven/)
+* Learn how to design awesome UIs by yourself using specific tactics explained from a developer's point-of-view: [https://refactoringui.com/](https://refactoringui.com)
+* Les pourquoi du design: [http://lespourquoisdudesign.com/](http://lespourquoisdudesign.com)
+* Text fields & Forms design — UI components series: [https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0](https://uxdesign.cc/text-fields-forms-design-ui-components-series-2b32b2beebd0)
+* UI & UX Micro-Tips: Volume Eleven: [https://www.marcandrew.me/ui-ux-micro-tips-volume-eleven/](https://www.marcandrew.me/ui-ux-micro-tips-volume-eleven/)
 
 ## Colors
 
-* Google, but for colors : [https://picular.co/](https://picular.co)
-* The biggest collection of official brand color codes around : [https://brandcolors.net/](https://brandcolors.net)
+* Google, but for colors: [https://picular.co/](https://picular.co)
+* The biggest collection of official brand color codes around: [https://brandcolors.net/](https://brandcolors.net)
 * [https://www.colorbox.io/](https://www.colorbox.io)
 * [https://colorhunt.co/](https://colorhunt.co)
 * [https://www.colorinspire.io/](https://www.colorinspire.io)
 * [https://colors.eva.design/](https://colors.eva.design)
 * [https://colors.muz.li/](https://colors.muz.li)
-* Contrastes checker : [https://whocanuse.com](https://whocanuse.com)
+* Contrastes checker: [https://whocanuse.com](https://whocanuse.com)
 
 ## Icons
 
@@ -67,17 +67,17 @@
 
 ## Divers
 
-* Logos de marques : [https://worldvectorlogo.com](https://worldvectorlogo.com)
-* Produit et Design français : [http://www.lafrenchtouch.fm/](http://www.lafrenchtouch.fm)
-* The design bookmakrs : [https://trello.com/b/vBrHxyl1/the-design-bookmarks](https://trello.com/b/vBrHxyl1/the-design-bookmarks)
-* Awesome design tools : [https://github.com/LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
-* 170+ collections of real content to populate all your designs.  : [https://www.populate.design/](https://www.populate.design)
+* Logos de marques: [https://worldvectorlogo.com](https://worldvectorlogo.com)
+* Produit et Design français: [http://www.lafrenchtouch.fm/](http://www.lafrenchtouch.fm)
+* The design bookmakrs: [https://trello.com/b/vBrHxyl1/the-design-bookmarks](https://trello.com/b/vBrHxyl1/the-design-bookmarks)
+* Awesome design tools: [https://github.com/LisaDziuba/Awesome-Design-Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
+* 170+ collections of real content to populate all your designs. : [https://www.populate.design/](https://www.populate.design)
 * [https://www.templatemaker.nl/fr/](https://www.templatemaker.nl/fr/)
 
 ## Mockup
 
 * [https://designcode.io/angle](https://designcode.io/angle)
-* Mockup : [https://themockup.club](https://themockup.club)
+* Mockup: [https://themockup.club](https://themockup.club)
 * [https://www.semplice.com/mockups-for-your-products](https://www.semplice.com/mockups-for-your-products)
 * [https://facebook.design/devices](https://facebook.design/devices)
 
@@ -91,11 +91,11 @@
 * [https://uimovement.com/](https://uimovement.com)
 * [https://mobbin.design/](https://mobbin.design)
 * [https://webframe.xyz/](https://webframe.xyz)
-* Apps Screenshots : [https://scrnshts.club/](https://scrnshts.club)
+* Apps Screenshots: [https://scrnshts.club/](https://scrnshts.club)
 * [https://saaspages.xyz/](https://saaspages.xyz)
 * [https://search.muz.li/](https://search.muz.li)
-* landing pages : [https://designmunk.com](https://designmunk.com)
-* The finest collection of ui/ux design components, patterns, examples and inspiration : [https://www.niceverynice.com/components](https://www.niceverynice.com/components)
+* landing pages: [https://designmunk.com](https://designmunk.com)
+* The finest collection of ui/ux design components, patterns, examples and inspiration: [https://www.niceverynice.com/components](https://www.niceverynice.com/components)
 * [https://www.checklist.design/](https://www.checklist.design)
 * [https://undesign.learn.uno/](https://undesign.learn.uno)
 
@@ -147,10 +147,10 @@
 
 ## 3D
 
-* Toy Faces Library : [https://amritpaldesign.com/toy-faces](https://amritpaldesign.com/toy-faces)
-* A 3D illustration library : [https://www.handz.design/](https://www.handz.design)
-* Huge pack of 3D elements accessible directly from Figma. : [https://www.kukla-kit.com/](https://www.kukla-kit.com)
-* Lovely pack of 2000+ combinations of 3D avatars : [https://www.avatarz.design/](https://www.avatarz.design)
-* 3D Illustration Constructor Superscene 2 : [https://superscene.pro/](https://superscene.pro)
-* An incredible set of 3D illustrations : [https://3ddd.casa/](https://3ddd.casa)
+* Toy Faces Library: [https://amritpaldesign.com/toy-faces](https://amritpaldesign.com/toy-faces)
+* A 3D illustration library: [https://www.handz.design/](https://www.handz.design)
+* Huge pack of 3D elements accessible directly from Figma.: [https://www.kukla-kit.com/](https://www.kukla-kit.com)
+* Lovely pack of 2000+ combinations of 3D avatars: [https://www.avatarz.design/](https://www.avatarz.design)
+* 3D Illustration Constructor Superscene 2: [https://superscene.pro/](https://superscene.pro)
+* An incredible set of 3D illustrations: [https://3ddd.casa/](https://3ddd.casa)
 * [https://3d.khagwal.co/](https://3d.khagwal.co)

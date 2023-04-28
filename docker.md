@@ -1,15 +1,13 @@
 # Docker
 
-**Installation**
-
-* Pour Windaube suivre : [https://docs.docker.com/docker-for-windows/](https://docs.docker.com/docker-for-windows/)
+## Installation
+* Pour Windaube suivre: [https://docs.docker.com/docker-for-windows/](https://docs.docker.com/docker-for-windows/)
 * Tester&#x20;
   * `docker --version`
   * `docker run hello-world`
 * Installer kitematic (gui pour les containers)
 
-**Commandes**
-
+## Commandes
 * `docker ps` liste les containers qui tourne
 * `docker ps -a` liste tous les containers
 * stopper tous les containers : docker kill $(docker ps -q)
@@ -18,6 +16,5 @@
 * Commiter des modifs sur un container :  docker commit -m "added composer" 3a9b9953c4e7 dfwp/lamp:v0.1.1
 * Construire une image à partir d'un Dockerfile : docker build /path (si dans le dossier mettre .)
 
-**Ressources**
-
-* doc en fr (non officiel) : [https://github.com/xataz/Tutoriels/blob/master/Docker/0.%20Introduction.md](https://github.com/xataz/Tutoriels/blob/master/Docker/0.%20Introduction.md)
+## Ressources
+* doc en fr (non officiel): [https://github.com/xataz/Tutoriels/blob/master/Docker/0.%20Introduction.md](https://github.com/xataz/Tutoriels/blob/master/Docker/0.%20Introduction.md)

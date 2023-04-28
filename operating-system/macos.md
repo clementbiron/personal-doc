@@ -9,7 +9,7 @@
 
 ## Articles
 
-How I setup my MacBook for development : [https://medium.com/macoclock/how-i-setup-my-macbook-for-development-cb73f77bfa8d](https://medium.com/macoclock/how-i-setup-my-macbook-for-development-cb73f77bfa8d)
+How I setup my MacBook for development: [https://medium.com/macoclock/how-i-setup-my-macbook-for-development-cb73f77bfa8d](https://medium.com/macoclock/how-i-setup-my-macbook-for-development-cb73f77bfa8d)
 
 
 
