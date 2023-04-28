@@ -2,10 +2,8 @@
 
 ### A trier
 
-{% embed url="https://product-design-roadmap.com/" %}
-
-{% embed url="https://www.mapuipatterns.com/" %}
-
+[https://product-design-roadmap.com/](https://product-design-roadmap.com/)
+[https://www.mapuipatterns.com/](https://www.mapuipatterns.com/)
 ## [https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376240](https://dl.acm.org/doi/fullHtml/10.1145/3313831.3376240)
 
 ## [https://baymard.com/](https://baymard.com/)
@@ -134,6 +132,5 @@
 
 ## Skeletons Screen
 
-{% embed url="https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a" %}
-
-{% embed url="https://medium.com/uxd-talks/engaging-users-with-progressive-loading-in-skeleton-screen-335a4e287a55" %}
+[https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a](https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a)
+[https://medium.com/uxd-talks/engaging-users-with-progressive-loading-in-skeleton-screen-335a4e287a55](https://medium.com/uxd-talks/engaging-users-with-progressive-loading-in-skeleton-screen-335a4e287a55)

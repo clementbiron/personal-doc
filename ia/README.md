@@ -1,3 +1,3 @@
 # IA
 
-{% embed url="https://civitai.com/" %}
+[https://civitai.com/](https://civitai.com/)

@@ -27,16 +27,13 @@ Carte antenne 4G\
 \
 [https://twitter.com/levelsio/status/1565731907664478209](https://twitter.com/levelsio/status/1565731907664478209)
 
-{% embed url="https://gist.github.com/breadthe/691314c6156c6ccd462049a54ea52a2a" %}
-
+[https://gist.github.com/breadthe/691314c6156c6ccd462049a54ea52a2a](https://gist.github.com/breadthe/691314c6156c6ccd462049a54ea52a2a)
 [https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important](https://thealgorithmicbridge.substack.com/p/stable-diffusion-is-the-most-important)
 
-{% embed url="https://replicate.com/blog/run-stable-diffusion-on-m1-mac" %}
-
+[https://replicate.com/blog/run-stable-diffusion-on-m1-mac](https://replicate.com/blog/run-stable-diffusion-on-m1-mac)
 [https://scribehow.com/](https://scribehow.com/)
 
-{% embed url="https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial_how_to_remove_the_safety_filter_in_5/" %}
-
+[https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial_how_to_remove_the_safety_filter_in_5/](https://www.reddit.com/r/StableDiffusion/comments/wv2nw0/tutorial_how_to_remove_the_safety_filter_in_5/)
 [https://opensource.guide/](https://opensource.guide/)
 
 [https://medium.com/@lmaccherone/odim-12d80823222](https://medium.com/@lmaccherone/odim-12d80823222)

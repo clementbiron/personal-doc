@@ -101,8 +101,7 @@
 
 ### React
 
-{% embed url="https://github.com/streamich/react-use" %}
-
+[https://github.com/streamich/react-use](https://github.com/streamich/react-use)
 ### Utiles
 
 Rate limiter : [https://github.com/jhurliman/node-rate-limiter](https://github.com/jhurliman/node-rate-limiter)

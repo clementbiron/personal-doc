@@ -1,27 +1,15 @@
 # OSINT
 
-{% embed url="https://intelx.io" %}
-
-{% embed url="https://host.io" %}
-
-{% embed url="https://github.com/igorbrigadir/twitter-advanced-search" %}
-
-{% embed url="https://github.com/megadose/holehe" %}
-
-{% embed url="https://github.com/megadose/facebook_totem" %}
-
-{% embed url="https://github.com/HowToFind-bot/osint-tools" %}
-
-{% embed url="https://github.com/cartographia/geospatial-intelligence-library" %}
-
-{% embed url="https://threatcops.com" %}
-
-{% embed url="https://github.com/laramies/theHarvester" %}
-
-{% embed url="https://www.spiderfoot.net" %}
-
-{% embed url="https://sector035.nl/links" %}
-
-{% embed url="https://cipher387.github.io/osintmap" %}
-
-{% embed url="https://github.com/cipher387/osint_stuff_tool_collection" %}
+[https://intelx.io](https://intelx.io)
+[https://host.io](https://host.io)
+[https://github.com/igorbrigadir/twitter-advanced-search](https://github.com/igorbrigadir/twitter-advanced-search)
+[https://github.com/megadose/holehe](https://github.com/megadose/holehe)
+[https://github.com/megadose/facebook_totem](https://github.com/megadose/facebook_totem)
+[https://github.com/HowToFind-bot/osint-tools](https://github.com/HowToFind-bot/osint-tools)
+[https://github.com/cartographia/geospatial-intelligence-library](https://github.com/cartographia/geospatial-intelligence-library)
+[https://threatcops.com](https://threatcops.com)
+[https://github.com/laramies/theHarvester](https://github.com/laramies/theHarvester)
+[https://www.spiderfoot.net](https://www.spiderfoot.net)
+[https://sector035.nl/links](https://sector035.nl/links)
+[https://cipher387.github.io/osintmap](https://cipher387.github.io/osintmap)
+[https://github.com/cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection)
