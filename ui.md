@@ -136,6 +136,7 @@
 * [https://www.glazestock.com](https://www.glazestock.com)
 * [https://storytale.io/](https://storytale.io)
 * [https://storyset.com/](https://storyset.com)
+* [https://ultima.storytale.io](https://ultima.storytale.io)
 
 ## Emails
 
