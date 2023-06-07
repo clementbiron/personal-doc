@@ -7,6 +7,8 @@
 * [Klementz](https://www.klementz.fr/): analog audio & electronic equipment.New generation of modular range of analog audio products..
 * [Ras EFX](https://dub-siren.com/): Sound system & selecta equipment
 * [Amp FreQQ](https://reggaepreamp.com/): Digital dub station
+* [RWDFWD](https://rwdfwd.com/): Est. 2012 - Bristol >> Worldwide...
+* [Control tower records](https://controltower.fr/): Expert en Dub. Vous pouvez acheter des disques de labels indépendants qui travaillent à la promotion des meilleurs artistes de reggae et underground, sélectionnés par Control Tower depuis 2005
 
 ## DIY
 
