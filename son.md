@@ -14,4 +14,8 @@
 
 * [Speaker plans](https://www.speakerplans.com/)
 
+## Commu
+
+* [Dubsounds](https://forum.dubsounds.fr/): plateforme d’échange autour de la culture dub et sound-system.
+
 
