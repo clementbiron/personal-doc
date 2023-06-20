@@ -37,3 +37,7 @@ Carte antenne 4G\
 [https://opensource.guide/](https://opensource.guide/)
 
 [https://medium.com/@lmaccherone/odim-12d80823222](https://medium.com/@lmaccherone/odim-12d80823222)
+
+[Liberapay est une plateforme de dons récurrents](https://liberapay.com/)
+
+[wiki francophone des communs](https://wiki.lescommuns.org/wiki/Accueil)
