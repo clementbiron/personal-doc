@@ -22,3 +22,8 @@
 ## Exemples
 
 * Seamless infinite loop with SVG stroke and CSS animation [https://codepen.io/Twikito/pen/POPjBe](https://codepen.io/Twikito/pen/POPjBe)
+
+## Sprite
+
+* Coloring paths on external svg sprites
+ [https://www.super-simple.net/blog/coloring-paths-external-svg-sprites/](https://www.super-simple.net/blog/coloring-paths-external-svg-sprites/)
