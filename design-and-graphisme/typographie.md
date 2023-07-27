@@ -63,3 +63,5 @@
 ### Guide
 
 * [https://www.loriskumo.com/journal/guide-typographique-de-base](https://www.loriskumo.com/journal/guide-typographique-de-base)
+
+https://legible-typography.com/en/
