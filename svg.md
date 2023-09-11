@@ -18,6 +18,7 @@
 
 * URL-encoder for SVG: [https://yoksel.github.io/url-encoder/](https://yoksel.github.io/url-encoder/)
 * SVGO online: [https://jakearchibald.github.io/svgomg/](https://jakearchibald.github.io/svgomg/)
+* Convert raster images like JPG, PNG, GIF, WebP, AVIF, etc. to vector graphics in SVG format: [https://svgco.de/](https://svgco.de/)
 
 ## Exemples
 

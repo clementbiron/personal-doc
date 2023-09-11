@@ -8,3 +8,5 @@
 
 
 [Humans are biased. generative ai is even worse](https://www.bloomberg.com/graphics/2023-generative-ai-bias/)
+
+[ChatGPT DAN, Jailbreaks prompt](https://github.com/0xk1h0/ChatGPT_DAN)
