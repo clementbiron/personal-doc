@@ -60,6 +60,7 @@ Ethical Design Guide: [https://ethicaldesign.guide/](https://ethicaldesign.guide
 * [https://symbolicons.com/](https://symbolicons.com/)
 * [https://medium.com/@minoraxis/7-principles-of-icon-design-e7187539e4a2](https://medium.com/@minoraxis/7-principles-of-icon-design-e7187539e4a2)
 * [https://phosphoricons.com/](https://phosphoricons.com/)
+* [https://iconbuddy.app/](https://iconbuddy.app/)
 
 ## Toolkit
 
